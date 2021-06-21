@@ -14,4 +14,4 @@ I am an amateur philosopher with [post-concussion syndrome](https://www.cognitiv
 
 The primary purpose of this channel is to produce encapsulated discourses on my ideas which I can reference later when I hopefully recover, and which I can send to my friends who are also interested in philosophy to start discussions with them. The primary purpose of this channel is therefore *not* to spread my views, especially since while I try to defend my views as rigorously as possible in my videos, because of the limitations of unscripted videos and my inability to do real research, I cannot defend my views in as much depth as I would like.
 
-You can find my channel here: https://www.youtube.com/channel/UCvlKm-26JR4Fz_bAbBMP4dA.
+You can find my channel here: [https://www.youtube.com/channel/UCvlKm-26JR4Fz_bAbBMP4dA](The Brain-Damaged Philosopher (YT))
