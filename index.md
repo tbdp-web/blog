@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# The Brain Damaged Philosopher
 
-You can use the [editor on GitHub](https://github.com/christopherdumas/the-brain-damaged-philosopher/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> "Only great pain, the long, slow pain that takes its time... compels us to descend to our ultimate depths... I doubt that such pain makes us "better"; but I know it makes us more profound... In the end, lest what is most important remain unsaid: from such abysses, from such severe sickness, one returns newborn, having shed one's skin... with merrier senses, with a second dangerous innocence in joy, more childlike and yet a hundred times subtler than one has ever been before."
+>
+> — Friedrich Nietzsche, *The Gay Science*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an amateur philosopher with [post-concussion syndrome](https://www.cognitivefxusa.com/blog/post-concussion-syndrome-and-post-concussion-symptoms-pcs). I can barely read or write for any extended period of time now, but the desire to exist philosophically compels me to do something. In the end, I have found a compromise with my disability in this channel: unscripted but usually premeditated audio "lectures" concerning ideas I have spent the last few years wrestling with. The topics I cover on this channel include:
 
-### Markdown
+- atheism
+- epistemology (empiricism, pragmatism, skepticism)
+- phenomenology
+- ethics (virtue ethics)
+- political philosophy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The primary purpose of this channel is to produce encapsulated discourses on my ideas which I can reference later when I hopefully recover, and which I can send to my friends who are also interested in philosophy to start discussions with them. The primary purpose of this channel is therefore *not* to spread my views, especially since while I try to defend my views as rigorously as possible in my videos, because of the limitations of unscripted videos and my inability to do real research, I cannot defend my views in as much depth as I would like.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christopherdumas/the-brain-damaged-philosopher/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can find my channel here: https://www.youtube.com/channel/UCvlKm-26JR4Fz_bAbBMP4dA.
