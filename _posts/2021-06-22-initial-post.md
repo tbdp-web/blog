@@ -1,1 +1,3 @@
-# What It's Like Living With Post-Concussion Syndrome
+---
+title: What It's Like Living With Post-Concussion Syndrome
+---
