@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 logo: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s108-c-k-c0x00ffffff-no-rj
-colors:
-  black: #ffffff
-  white: #2d2d2d
+minimal_mistakes_skin: "neon"
+title: "The Brain-Damaged Philosopher"
+subtitle: "Unscripted speech, premeditated thought."
