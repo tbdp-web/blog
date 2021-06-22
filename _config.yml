@@ -1,6 +1,20 @@
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+plugins: ["jekyll-include-cache"]
+
 logo: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s108-c-k-c0x00ffffff-no-rj
 minimal_mistakes_skin: "neon"
 title: "About The Channel"
 subtitle: "Unscripted speech, premeditated thought."
-plugins: ["jekyll-include-cache"]
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
