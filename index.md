@@ -1,12 +1,10 @@
----
-title: The Brain-Damaged Philosopher
----
-
 **You can find my channel here: [https://www.youtube.com/channel/UCvlKm-26JR4Fz_bAbBMP4dA](The Brain-Damaged Philosopher (YT))**
 
 > "Only great pain, the long, slow pain that takes its time... compels us to descend to our ultimate depths... I doubt that such pain makes us "better"; but I know it makes us more profound... In the end, lest what is most important remain unsaid: from such abysses, from such severe sickness, one returns newborn, having shed one's skin... with merrier senses, with a second dangerous innocence in joy, more childlike and yet a hundred times subtler than one has ever been before."
 >
 > — Friedrich Nietzsche, *The Gay Science*
+
+## About Me and The Channel
 
 I am an amateur philosopher with [post-concussion syndrome](https://www.cognitivefxusa.com/blog/post-concussion-syndrome-and-post-concussion-symptoms-pcs). I can barely read or write for any extended period of time now, but the desire to exist philosophically compels me to do something. In the end, I have found a compromise with my disability in this channel: unscripted but usually premeditated audio "lectures" concerning ideas I have spent the last few years wrestling with. The topics I cover on this channel include:
 
