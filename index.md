@@ -1,4 +1,6 @@
-# About the Channel
+---
+title: The Brain-Damaged Philosopher
+---
 
 **You can find my channel here: [https://www.youtube.com/channel/UCvlKm-26JR4Fz_bAbBMP4dA](The Brain-Damaged Philosopher (YT))**
 
