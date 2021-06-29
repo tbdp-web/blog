@@ -18,3 +18,8 @@ defaults:
       comments: true
       share: true
       related: true
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "the-brain-damaged-philosopher"
