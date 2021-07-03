@@ -11,6 +11,7 @@ author:
   avatar: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s108-c-k-c0x00ffffff-no-rj
   bio: "I am an amateur philosopher with post-concussion syndrome. I am currently getting a Bachelor's in Computer Science with a minor in philosophy at Penn State University."
   location: "California"
+search: true
 
 defaults:
   # _posts
