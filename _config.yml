@@ -5,6 +5,8 @@ logo: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s10
 minimal_mistakes_skin: "neon"
 title: "The Brain-Damaged Philosopher"
 subtitle: "Unscripted speech, premeditated thought."
+description: "My landing page and impromptu blog, which I probably won't write on much."
+author: "The BDP"
 
 defaults:
   # _posts
