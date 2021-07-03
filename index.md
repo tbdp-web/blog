@@ -5,7 +5,4 @@ author_profile: true
 layout: home
 ---
 
-**You can find my YouTube channel [here](https://www.youtube.com/channel/UCvlKm-26JR4Fz_bAbBMP4dA).**
-
 {% include subscribe.html %}
-
