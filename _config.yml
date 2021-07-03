@@ -1,12 +1,16 @@
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 plugins: ["jekyll-include-cache", "jekyll-feed"]
+include: ["_pages"]
 
 logo: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s108-c-k-c0x00ffffff-no-rj
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dark"
 title: "The Brain-Damaged Philosopher"
 subtitle: "Unscripted speech, premeditated thought."
-description: "My landing page and impromptu blog, which I probably won't write on much."
-author: "The BDP"
+author:
+  name: "The Brain-Damaged Philosopher"
+  avatar: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s108-c-k-c0x00ffffff-no-rj
+  bio: "I am an amateur philosopher with post-concussion syndrome. I am currently getting a Bachelor's in Computer Science with a minor in philosophy at Penn State University."
+  location: "California"
 
 defaults:
   # _posts
@@ -20,6 +24,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 comments:
   provider: "disqus"
