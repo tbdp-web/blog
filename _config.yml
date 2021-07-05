@@ -3,7 +3,7 @@ plugins: ["jekyll-include-cache", "jekyll-feed"]
 include: ["_pages"]
 
 logo: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s108-c-k-c0x00ffffff-no-rj
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dirt"
 title: "The Brain-Damaged Philosopher"
 subtitle: "Unscripted speech, premeditated thought."
 author:
