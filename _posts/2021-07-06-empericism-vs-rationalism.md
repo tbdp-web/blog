@@ -47,10 +47,14 @@ Also, when saying that a hypothesis has a certain level of confidence in predict
 
 There are two versions of Bayes' Rule that I'm aware of. The one I see most commonly is this one:
 
-![img](http://mathurl.com/render.cgi?p%28H%7CE%29%20%3D%20%5Cfrac%7Bp%28E%7CH%29p%28H%29%7D%7Bp%28E%29%7D%5Cnocache)
+```latex
+p(H|E) = \frac{p(E|H)p(H)}{p(E)}
+```
 
 This one forgets that there are other competing hypothesis, and that what a human being using Bayes' Rule for general epistemic tasks wants to do is figure out which of several beliefs about a certain set of events they should act on (and hence which one they should have the highest confidence in). That's why I prefer this formulation, which is what I learned in Discrete Math class:
 
-![img](http://mathurl.com/render.cgi?p%28H_i%7CE%29%20%3D%20%5Cfrac%7Bp%28E%7CH_i%29p%28H%29%7D%7B%5Csum_n%20p%28E%7CH_n%29p%28H_n%29%7D%5Cnocache)
+```latex
+p(H_i|E) = \frac{p(E|H_i)p(H)}{\sum_n p(E|H_n)p(H_n)}
+```
 
 Looking at these two equations, though, I realize that the first one factors in the prior probability of seeing the evidence at all, which *is* something that should be factored in since you might want to disbelieve the evidence instead (one man's *modus ponens* is another man's *modus tollens*), or at least make the adjustment you make to your credences smaller proportional to how unsure you are about the evidence itself. I'll have to figure out how to do that since I'm no mathematician. Maybe I can bother one of my professors.
