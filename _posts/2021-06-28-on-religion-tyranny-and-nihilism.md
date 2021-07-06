@@ -1,5 +1,4 @@
 ---
-excerpt: "Many seem to think that the only antidote to nihilism is tyranny: tyranny of the political sphere — after the mold of fascist Germany and Italy, which sought to repair the social fabric through the enforcment of a common culture, set of values, and religion — or, what is little different, tyranny of the intellectual sphere..."
 tags: ["nihilism", "politics", "religion", "atheism"]
 title: "Aphorisms On Religion, Tyranny, and Nihilism"
 ---
