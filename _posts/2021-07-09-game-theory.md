@@ -1,5 +1,4 @@
 ---
-published: false
 title: Egoism and Game Theory Speculation
 ---
 
