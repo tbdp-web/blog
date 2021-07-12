@@ -40,6 +40,8 @@ This is  a list of various books and essays that are at the absolute top of my l
 32. Philosophical Investigations
 33. The Principles of Mathematics
 34. Naming and Necessity
+35. Natural Goodness
+36. Moral Realism and the Foundations of Ethics
 
 ## Essays
 
