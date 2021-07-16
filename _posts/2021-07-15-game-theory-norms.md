@@ -1,12 +1,12 @@
 ---
-published: true
+published: false
 title: The Game Theory of Egoist Societal Norms
 ---
 I discussed these ideas in a previous post, but ever since I made that post, they've been growing and clarifying themselves in my head in a process more akin to metastasization than processing, and I think today is finally the day that they've developed and clarified enough that it's worth producing a second post. So, welcome to "The Game Theory of Egoist Societal Norms" version 2.0!
 
 ## Introduction
 
-The purpose of this essay is to analyze the game theoretic interests of egoists with respect to society and societal norms (ethics and laws), and what those interests would lead to in terms of a social equiblirum and set of norms. In this case, I am ignoring the irrational or not strictly egoistic components of the human psyche, such as metaphysical nonsense beliefs such as "divine right of kings" and "social contract theory."
+The purpose of this essay is to analyze the game theoretic interests of egoists with respect to society and societal norms (ethics and laws), and what those interests would lead to in terms of a social equiblirum and set of norms. In this case, I am ignoring the irrational or not strictly egoistic components of the human psyche, such as metaphysical nonsense beliefs such as "divine right of kings" and "social contract theory" or ideology or altruism in general.
 
 ## The Nash Equilibirum of Society
 
@@ -55,6 +55,14 @@ In the case of norms, it is also important that these objective properties be in
 
 ### Overall Prosperity
 
-The most important but most subtle of all of the necessary criteria for a good set of norms that will engage the Nash equilibrium we desire is that the set of norms must not depress the natural productivity and wealth of everyone in the society *below* the state that they would have if they were to just abandon society altogether. Thus, for instance, communist or anarcho-primitivist 
+The most important but most subtle of all of the necessary criteria for a good set of norms that will engage the Nash equilibrium we desire is that the set of norms must not depress the natural productivity and wealth of everyone in the society *below* the state that they would have if they were to just abandon society altogether. Thus, norms which are known to actually harm the prosperity of society or cause mass famines and hunger must be dismissed immediately, as norms which cause harm overall cannot be also preventing harm, and so aren't choiceworthy by self-interested actors.
+
+Moreover, there may be multiple focal point norm sets which can satisfy all the criteria above, and when selecting between them the best way to operate is on the basis of which one creates a society that is maximally wealthy and prosperous, as everyone prefers living in a more wealthy and prosperous society to a lesser one as long as they both satisfy the equilibrium criteria.
+
+## Libertarian Norms As The Best Satisfaction of This Equilibrium
 
 So far, we have arrived at a system of norms that applies the same set of principles to everyone, and which focuses on preventing anyone from harming anyone else or taking anything away from anyone else, instead of forcing everyone to give aid to everyone else, or one class of people to give aid to another class. Combine this with the egoistic lack of inherent respect for authority, and we're already approaching individualist anarchism. However, it is important to note that, since most people have an inherent sense of property, the removal of which they count a harm, at least some level of private or personal property must be included in the principles or norms by which the society operates. 
+
+## What Does This Mean For a Current Individual Egoist?
+
+6
