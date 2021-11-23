@@ -4,15 +4,7 @@ tags: ["existentialism-series"]
 
 ---
 
-> Everything has been figured out, except how to live.
-
-## TODO
-
-1. ~~Extend the explanation of the theory of dual consciousness in section 2.2 to include an explanation of narrative and egoistic consciousness~~
-2. ~~Move the section on temporal existence to after the section on desire, and move the comments on the temporality of desire into the section on temporal existence~~
-3. Clarify the section on meaning and integrate it with the theory of dual consciousness, so that it is the narrative side that weaves things into a narrative about the person's life, and the egoistic side that has a term for desiring to satisfy the narrative side's need to weave everything into the pattern.
-4. ~~Add insight from the dual consciousness theory to the section on desire, including the idea that we don't actually have conscious access to our desires through self-awareness, but instead that the narrative part of our consciousness makes guesses about what we actually want based on the impulses to action that the egoistic side of consciousness feeds us.~~
-5. Add a section about choice and phenomenological free will
+> Everything has been figured out, except how to live. — Satre
 
 ## 1. Introduction
 
