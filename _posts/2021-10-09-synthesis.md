@@ -1,5 +1,6 @@
 ---
-title: Synthesis Libertarianism: A Manifesto
+title: "Synthesis Libertarianism: A Manifesto"
+published: true
 ---
 
 ## 1. Introduction
@@ -41,7 +42,7 @@ The first value that libertarians must hold in order to have a secure foundation
 > “Since men can think, feel, evaluate, and act only as individuals, it becomes vitally necessary for each man’s survival and prosperity that he be free to learn, choose, develop his faculties, and act upon his knowledge and values. This is the necessary path of human nature; to interfere with and cripple this process by using violence goes profoundly against what is necessary by man’s nature for his life and prosperity. Violent interference with a man’s learning and choices is therefore profoundly “antihuman”; it violates the natural law of man’s needs.”[^1]
 
 
-> “Since knowledge, thinking, and rational action are properties of the individual, since the choice to exercise his rational faculty or not depends on the individual, man’s survival requires that those who think be free of the interference of those who don’t. Since men are neither omniscient nor infallible, they must be free to agree or disagree, to cooperate or to pursue their own independent course, each according to his own rational judgment. Freedom is the fundamental requirement of man’s mind.”[^2]
+> “Since knowledge, thinking, and rational action are properties of the individual, since the choice to exercise his rational faculty or not depends on the individual, man’s survival requires that those who think be free of the interference of those who don’t. Since men are neither omniscient nor infallible, they must be free to agree or disagree, to cooperate or to pursue their own independent course, each according to his own rational judgment. Freedom is the fundamental requirement of man’s mind.” [^2]
 
 
 > “He who lets the world, or his own portion of it, choose his plan of life for him, has no need of any other faculty than the ape-like one of imitation... he requires and exercises [uniquely human qualities] exactly in proportion as the part of his conduct which he determines according to his own judgment and feelings is a large one. It is possible that he might be guided in some good path, and kept out of harm's way, without any of these [qualities]. But what will be his comparative worth as a human being? It really is of importance, not only what men do, but also what manner of men they are that do it. Among the works of man, which human life is rightly employed in perfecting and beautifying, the first in importance surely is man himself.”[^3]
@@ -226,23 +227,22 @@ We have welcomed fascists into our ranks because they were willing to support pr
 
 Libertarianism must reclaim its soul, by recognizing its values and applying them consistently, and in doing so it must transition from merely a statement about when violence can be used, to a statement about what we value, what is good, what is desirable. We must realize that simply not condoning coercion and violence is not enough, that we cannot sit back and claim the moral high ground merely because we are not murderers and theives, and cannot expect anyone to want to be around us simply because we have done the *bare minimum*. There is more that a libertarian community must value and work towards. This will change what libertarianism is, fuse it with leftism and even a little socialism, but that is not something to lament or view as a necessary evil — those parts of these views which we synthesize into our position are merely the natural extension of what we already value, and so we should welcome a synthesis libertarianism with open arms, for it is a full embrace of what we already love so dearly.
 
-________________
-[1]: Murray Rothbard, “Property and Exchange,” in For A New Liberty: The Libertarian Manifesto, (Auburn, Alabama: Ludwig von Mises Institute, 2006), 33.
-[2]: Ayn Rand, “What is Capitalism?,” in Capitalism: The Unknown Ideal, (New American Library, 1966), 17.
-[3]: John Mill, “On Individuality, As One of the Elements of Well-Being” in On Liberty, 110.
-[4]: Freidrich Hayek, “The Use of Knowledge in Society.”
-[5]: Ayn Rand, “The Age of Envy,” in Return of the Primitive: The Anti-Industrial Revolution, 140.
-[6]: Friedrich Hayek, “Equality, Value, and Merti,” 1.
-[7]: John Peters, "Anarchism and Government," in The Libertarian Forum 2, no. 10, ed. Murray N. Rothbard (New York, NY: Joseph R. Peden, 15 May 1970), 3.
-[8]: Frederic Bastiat, “What is Law?,” in The Law.
-[9]: Ayn Rand, “Man’s Rights” in The Virtue of Selfishness, 94.
-[10]: Robert Nozick, “Chapter 7: Distributive Justice, Section I, Historical Principles and End-Result Principles,” in Anarchy, State, and Utopia, 155.
-[11]: Murray Rothbard, “Property and Criminality” in The Ethics of Liberty, 51.
-[12]: Murray Rothbard, “Punishment and Proportionality” in The Ethics of Liberty, 80-81.
-[13]: Ayn Rand, “The Objectivist Ethics” in The Virtue of Selfishness, 32.
-[14]:  Murray Rothbard, “War, Peace, and the State” in Egalitarianism as a Revolt Against Nature and Other Essays.
-[15]: There is still perhaps a place for the enforcement of social norms concerning things that will preserve liberty and the other values of a libertarian community, but in general the range of legitimate social norms is very, very small.
-[16]: Murray N. Rothbard, "National Review Rides Again" in The Libertarian Forum 1, no. 13, ed. Murray N. Rothbard, Karl Hess (New York, NY: Joseph R. Peden, 1 October 1969), 3.
-[17]: John Locke, “Chapter. II. Of the State of Nature” in The Second Treatise of Government, sect 4.
-[18]: Noam Chomsky, interview by Tim Halle, Reluctant Icon, 1999.
-[19]: Ludwig von Mises, “Chapter XXIV. Harmony and Conflict of Interests: 4. Private Property” in Human Action: Scholar’s Edition.
+[^1]: Murray Rothbard, “Property and Exchange,” in For A New Liberty: The Libertarian Manifesto, (Auburn, Alabama: Ludwig von Mises Institute, 2006), 33.
+[^2]: Ayn Rand, “What is Capitalism?,” in Capitalism: The Unknown Ideal, (New American Library, 1966), 17.
+[^3]: John Mill, “On Individuality, As One of the Elements of Well-Being” in On Liberty, 110.
+[^4]: Freidrich Hayek, “The Use of Knowledge in Society.”
+[^5]: Ayn Rand, “The Age of Envy,” in Return of the Primitive: The Anti-Industrial Revolution, 140.
+[^6]: Friedrich Hayek, “Equality, Value, and Merti,” 1.
+[^7]: John Peters, "Anarchism and Government," in The Libertarian Forum 2, no. 10, ed. Murray N. Rothbard (New York, NY: Joseph R. Peden, 15 May 1970), 3.
+[^8]: Frederic Bastiat, “What is Law?,” in The Law.
+[^9]: Ayn Rand, “Man’s Rights” in The Virtue of Selfishness, 94.
+[^10]: Robert Nozick, “Chapter 7: Distributive Justice, Section I, Historical Principles and End-Result Principles,” in Anarchy, State, and Utopia, 155.
+[^11]: Murray Rothbard, “Property and Criminality” in The Ethics of Liberty, 51.
+[^12]: Murray Rothbard, “Punishment and Proportionality” in The Ethics of Liberty, 80-81.
+[^13]: Ayn Rand, “The Objectivist Ethics” in The Virtue of Selfishness, 32.
+[^14]:  Murray Rothbard, “War, Peace, and the State” in Egalitarianism as a Revolt Against Nature and Other Essays.
+[^15]: There is still perhaps a place for the enforcement of social norms concerning things that will preserve liberty and the other values of a libertarian community, but in general the range of legitimate social norms is very, very small.
+[^16]: Murray N. Rothbard, "National Review Rides Again" in The Libertarian Forum 1, no. 13, ed. Murray N. Rothbard, Karl Hess (New York, NY: Joseph R. Peden, 1 October 1969), 3.
+[^17]: John Locke, “Chapter. II. Of the State of Nature” in The Second Treatise of Government, sect 4.
+[^18]: Noam Chomsky, interview by Tim Halle, Reluctant Icon, 1999.
+[^19]: Ludwig von Mises, “Chapter XXIV. Harmony and Conflict of Interests: 4. Private Property” in Human Action: Scholar’s Edition.
