@@ -3,7 +3,7 @@ title: "The Ethics of Reciprocity"
 tags: ["ethics", "anarchism"]
 ---
 
-> “A man ought to be a friend to his friend and repay gift with gift. People should meet smiles with smiles and lies with treachery.” — *Edda*, 13[^th] century
+> “A man ought to be a friend to his friend and repay gift with gift. People should meet smiles with smiles and lies with treachery.” — *Edda*, 13<sup>th</sup> century
 
 ## 1. Introduction
 
