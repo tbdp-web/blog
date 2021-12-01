@@ -1,7 +1,7 @@
 ---
 title: "Human Being and the World, Part II"
 tags: ["existentialism-series"]
-
+toc: true
 ---
 
 > “There is no longer a single idea explaining everything, but an infinite number of essences giving a meaning to an infinite number of objects.  The world comes to a stop, but also lights up.” 

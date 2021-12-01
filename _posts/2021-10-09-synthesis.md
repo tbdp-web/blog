@@ -1,6 +1,6 @@
 ---
 title: "Synthesis Libertarianism: A Manifesto"
-published: true
+toc: true
 ---
 
 ## 1. Introduction
