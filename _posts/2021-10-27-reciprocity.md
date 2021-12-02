@@ -4,18 +4,42 @@ toc: true
 tags: ["ethics", "anarchism", "mutualism"]
 ---
 
-
-> “A man ought to be a friend to his friend and repay gift with gift. People should meet smiles with smiles and lies with treachery.” — *Edda*, 13<sup>th</sup> century
+> Up to now the victories of justice over injustice and of equality over inequality have been won by instinct and the simple force  of things, but the final triumph of our social nature will be due to our reason, or else we shall fall back into feudal chaos. — Pierre-Joseph Proudhon
 
 ## 1. Introduction
 
-There are two principles, which, when followed, bring the best results for each individual, and also form the basis for a society which benefits all who are members thereof. The first is **autonomy**: each individual must value for themselves as free a range of choice and action for their own lives and labor as possible, and must abhor domination, oppression, and authority. The second is **reciprocity**: each individual cooperating with all the others in expectation of like consideration for themselves, responding to cooperation with cooperation, and responding to a breach of this expectation with the cessation of cooperation, so that all are motivated to engage in mutually beneficial interactions.
+There are two principles, which, when generally followed, bring the best results for each individual, and also form the basis of a society which benefits all members thereof. These two principles (or values, things worthy of acting in favor of), are:
 
-If society follows these as general principles, and treats a violation of positive reciprocity on the part one of its members as a violation to all of them, then one can expect to find a society in which it is most pleasing to live, as each interaction leaves both sides better off than before, and no one accepts subjugation of themselves, nor attempts to subjugate others. Every person gives a little of their autonomy, in choosing not to dominate others, in return for similar (and much greater because of the difference in number) consideration on the part of all others, while not really losing much, since autonomy as it is exercised in the domination of others is far less important than autonomy in one's own labor and life choices.
+1. **The Principle of Autonomy**: each individual must value for themselves as free a range of choice for their own lives, time and labor as possible, and must abhor domination, oppression, and authority.
+2. **The Principle of Reciprocity**: each individual cooperating with as many others as possible, in expectation of like consideration for themselves, responding to cooperation with cooperation, and responding to a breach of this expectation with the cessation of cooperation.
 
-In this treatise, I will attempt to demonstrate that adhering to an ethic centered around autonomy and reciprocity, as well as promoting it in others, is in the interest, not just of the society as a whole, but also the individual as well. Therefore, I will present this as advice to the shrewd reader, who wishes to live in harmony with their neighbors and in a society which is most beneficial to them; the moral force of this 'ethic' therefore lies not in some external or objective moral imposition, but in the common interests of all human beings.
+The moral force of this treatise, insofar as it can be called 'moral' at all, is therefore contained in a form of egoistic consequentialism: it constitutes  advice, and general principles for action, which it would be wise for the (enlightened) self-interested individual to take heed of. No principle to be found herein is absolute; each is subject to the overriding force of total self-interested considerations, but neither should any principle be completely without force in the considerations of a rational individual. Thus the core of this treatise is an exhortation: if you want to promote your own autonomy and welfare, and moreover if you wish to cultivate a society with more of those things for all its members, then listen to what I say and consider it, because I think I present a good way to achieve those things.
 
-## 2. The Value of Autonomy
+Hence, within the cosmology the study of ethics, this treatise might be viewed as a form of rule consequentialist egoism: I lay out a set of principles (rules), based on a deeper value system but not totally contingent on in-the-moment considerations of that value system. That is, I present rules which should be followed by default, as a general course of action, because they are likely to produce more overall benefit to the individual than attempting to calculate the most beneficial action in each situation, and only abridged in situations where a clear violation of them is necessary and beneficial.
+
+In the following sections, I will explain why these two principles are indeed as beneficial as I claim, and then I will elaborate on them in more detail, explaining the implications of consistently applying these principles to various areas of political, social, and economic life. Although I attempt to draw out these implications by clear logical deduction, because each principle and its corollaries are necessarily general rules not to be applied in every situation, my statements concerning their implications are *also* general rules, as are my statements concerning the *benefits* of following any of these principles, corollaries, and implications. Therefore, consider all of my statements as statements of general fact, open to revision in the moment and in light of particular circumstances. Additionally, since this is an ethic for humans and for humans to interact with humans, I find it acceptable from time to time to use extraneous implicit axioms and intuitions, although I try to justify them wherever they crop up as particularly central to any argument. Please keep all of this in mind when reading further.
+
+## 2. Autonomy
+
+> *Here's to the greater good, for all*
+>
+> *Do what you know you should, for all*
+>
+> *We all may die*...
+>
+>
+>
+> *I said, "Hey (hey), you (you), feed the machine*
+>
+> *Bring them all back down to their knees*
+>
+> *There's no time to waste*
+>
+> *Remind the slaves*
+>
+> *They ain't gonna make it out alive today"*
+>
+> — *Feed the Machine*, by Poor Man's Poison
 
 **Autonomy** is the ability to freely choose how to live your own life, spend your own time, and dispose of your own labor. Some call this ability 'liberty,' or 'freedom,' but I prefer autonomy because it emphasizes that the individual is the captain of their own ship, controlling their own destiny separate from, but not in tension with, all others. The words freedom and liberty implies the lack of all boundaries, whereas autonomy has boundaries: the boundaries of an individual's own life and time. 
 
@@ -32,6 +56,8 @@ Autonomy also seems to be a core component of human flourishing for more intrins
 [^38]: https://www.semanticscholar.org/paper/Happiness-is-everything%2C-or-is-it-Explorations-on-Ryff/0b7cbc0e7b5946b39778784a2167019eebd53e52
 
 ## 3. Reciprocity
+
+> “A man ought to be a friend to his friend and repay gift with gift. People should meet smiles with smiles and lies with treachery.” — *Edda*, 13<sup>th</sup> century
 
 Reciprocity, both in the community and in the individual, is what will safeguard  individual autonomy. Communities are composed of individuals, and therefore our first task is to explore how it is in the interest of the individual to engage in reciprocal respect of the interests and autonomy of others. Once that is established, we can speak about how a community of people who understand this common interest can operate.
 
@@ -69,7 +95,35 @@ According to social anthropologists, reciprocity is actually a powerful basis fo
 
 > Richard Leakey and [Roger Lewin](https://en.wikipedia.org/wiki/Roger_Lewin) attribute the very nature of humans to reciprocity. They claim humans  survived because our ancestors learned to share goods and services "in  an honored network of obligation".[[11\]](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)#cite_note-11) ... [Cultural anthropologists](https://en.wikipedia.org/wiki/Cultural_anthropology) support this idea in what they call the "web of indebtedness" where  reciprocity is viewed as an adaptive mechanism to enhance survival.[[12\]](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)#cite_note-12) Within this approach, **reciprocity creates an interdependent environment where labor is divided so that humans may be more efficient**. For  example, if one member of the group cares for the children while another member hunts for food for the group, each member has provided a service and received one in return. Each member can devote more time and  attention to his or her allotted task and the whole group benefits. This meant that individuals could give away resources without actually  giving them away. **Through the rule of reciprocity, sophisticated systems of aid and trade were possible bringing immense benefits to the  societies that utilized them.[[1\]](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)#cite_note-:1-1) Given the benefits of reciprocity at the societal level, it is not  surprising that the norm has persisted and dictates our present  cognition and behavior.**
 
-### 3.2. The Principles of Reciprocity
+### 3.2. Reciprocity and Society
+
+I have demonstrated above that following the principles of reciprocity and autonomy is likely to be beneficial to each individual, whether or not those the interact also follow this ethic (but especially if they do). However, what benefits are there for promoting these principles generally, and encouraging an entire society to follow them? What, in other words, is the interest of the egoist in promoting others to follow this ethic besides the specific benefits contained in interacting with people who follow it? What are the benefits that are a result of the organic whole of society applying this?
+
+I will sketch out the answer in brief. If society follows these as general principles, and treats a violation of positive reciprocity on the part one of its members as a violation to all of them, then one can expect to find a society in which it is most pleasing to live, as each interaction leaves both sides better off than before, and no one accepts subjugation of themselves, nor attempts to subjugate others. Every person gives a little of their autonomy, in choosing not to dominate others, in return for similar (and much greater because of the difference in number) consideration on the part of all others, while not really losing much, since autonomy as it is exercised in the domination of others is far less important than autonomy in one's own labor and life choices. Such a society, committed to the autonomy and mutual benefit of all, would be on average the best society to live in. Yes, there are a few who would be on the top of the hierarchy of a society which did not value these things, but the probability that any given person would be a member of that powerful elite is minuscule, and the conditions in such a society of the vast majority would be so far improved that the tiny probability of even greater advancement is outweighed by a rational calculus. That is not to mention the general benefit to all of more people being free and able to support themselves, in innovation and a healthier market and society at large.
+
+### 3.3. Why Reciprocity Consistently?
+
+Instead of relying on a distributed, decentralized network of reciprocal actions and game theoretic payoffs to protect one's autonomy and interests, why not enforce it from the top down? Surely, if one desires to protect and ensure something absolutely, it is better to have a single entity that can impose it by force, for surely anything so loose and fluid as a reciprocal order cannot give as absolute guarantees!
+
+Not so. The introduction of unilateral force into any situation immediately gives everyone who you are using violence against an interest in rebelling against you. Worse, in instituting a system that is above you in order to safeguard your autonomy, you have placed your autonomy in its hands, and have it only at its sufferance. In your attempt to save your autonomy, you have in that very act destroyed it.
+
+Additionally, creating an institution of centralized power introduces an ineradicable conflict between everyone around it. It becomes a race to capture power by those who have a vision of society that they wish to use that power to enforce — whether that power was intended for that end originally or not, power is fungible, and any institution powerful enough to protect your freedom is powerful enough to destroy it — and people who now have no choice but to struggle for power in order to, at the very least, prevent others from getting their hands on it.
+
+Even more terribly, the introduction of unilateral force into a social network destroys all interest others might have in voluntarily helping you and cooperating with you: they will be subject to your violent invasions anyway, so they might as well acquiesce only at the point of your gun.
+
+In essence, while the reciprocal order is a natural equilibrium point, an attempt to introduce a centralized means of control inherently and necessarily destabilizes any network of interactions, turning it into a race for control of the institution, and incentivizing all sides to use it for their own gain and to the detriment of others. The principles upon which such an institution stands, compromising autonomy for some for the purposes of others, subordinating all to its will and enforcing a singular outcome, requiring the fealty of those under it, are principles that undermine the possibility of freedom and mutual benefit. To introduce or support such a thing might benefit an individual in the short run, but ultimately endangers their own interests as well: if you create something that can unilaterally ignore the interests of others, you have no guarantee that it will always operate in your interests; and if you create a culture that sees it as acceptable to ignore the autonomy of some and subordinate them to you, you create a culture that accepts subordination, and sooner or later it will turn on you.
+
+Another question that arises is why one should hold principles at all. Why not calculate out the benefits and costs of cooperation with others in each individual circumstance, and do as one pleases no matter what?
+
+The answer to this is threefold. First, because being *known* to have committed to a bargaining strategy, and taking steps to actually make it difficult to undo such a commitment, is an excellent way to actually get other people to cooperate with your strategy[^38], as they feel they can trust you better. Compare this to someone who respects the autonomy and interests of others only when they feel like it, or only when the benefit to them is obvious and the ramifications of not doing so severe. No one will want to interact with such a person, as it is simply too dangerous. Therefore, self-interested considerations of the general, overall effects of one's actions in a cumulative sense outweigh whatever one might think specifically and in the moment.
+
+[^38]: https://plato.stanford.edu/entries/game-theory/#Com
+
+Second, because adhering to a principle unless in exceptional situations actually changes one's habits and character, which is likely to make it far easier and more natural, and therefore even somewhat less costly, and certainly more safe and sure, to follow those principles. Committing to following certain principles, and building habits around them, is advantageous even if in some specific cases ignoring those principles is also advantageous.
+
+Now that I have hopefully demonstrated that the reciprocal ethic is an advantageous set of general principles to live by, and that a society founded on it will be far more stable and peaceful, and beneficial to each of its members instead of just a few, I can now freely continue elaborating it. In the next sections, I will be working out the implications, as I see them, of the two principles (autonomy and reciprocity) that compose this ethic. It should be noted that this is not an exercise in pure axiomatic deduction; instead, this is a working out of the implications of the reciprocal ethic by means of a combination of logic and intuition, as the task requires, since the point of this ethic is to foster understanding and cooperation between people, not purely philosophical robots, and so if something is a clear point of intuitive agreement, whether or not it can be fully justified from the ground up, it is acceptable. As long as the ethic clearly derives from a concern for individual autonomy and mutual reciprocity, it will serve to foster like concern in others, and eventually result in them following these principles as well.
+
+### 3.4. The Principles of Reciprocity
 
 There is a fundamental difference between two kinds of positive reciprocity, and so far I have treated these two variations of reciprocity as equivalent for the sake of simplifying the foregoing conceptual analysis. I think it is time, however, to split them out, as I begin to formalize what the principles an individual following this ethic of reciprocity would follow.
 
@@ -110,29 +164,25 @@ Mutual aid[^11] is when participants, who view each other as equals, instead of 
 [^13]: http://freenation.org/a/f21l1.html
 [^14]: https://theanarchistlibrary.org/library/william-batchelder-greene-mutual-banking
 
-### 3.3. Why Reciprocity
-
-Instead of relying on a distributed, decentralized network of reciprocal actions and game theoretic payoffs to protect one's autonomy and interests, why not enforce it from the top down? Surely, if one desires to protect and ensure something absolutely, it is better to have a single entity that can impose it by force, for surely anything so loose and fluid as a reciprocal order cannot give as absolute guarantees!
-
-Not so. The introduction of unilateral force into any situation immediately gives everyone who you are using violence against an interest in rebelling against you. Worse, in instituting a system that is above you in order to safeguard your autonomy, you have placed your autonomy in its hands, and have it only at its sufferance. In your attempt to save your autonomy, you have in that very act destroyed it.
-
-Additionally, creating an institution of centralized power introduces an ineradicable conflict between everyone around it. It becomes a race to capture power by those who have a vision of society that they wish to use that power to enforce — whether that power was intended for that end originally or not, power is fungible, and any institution powerful enough to protect your freedom is powerful enough to destroy it — and people who now have no choice but to struggle for power in order to, at the very least, prevent others from getting their hands on it.
-
-Even more terribly, the introduction of unilateral force into a social network destroys all interest others might have in voluntarily helping you and cooperating with you: they will be subject to your violent invasions anyway, so they might as well acquiesce only at the point of your gun.
-
-In essence, while the reciprocal order is a natural equilibrium point, an attempt to introduce a centralized means of control inherently and necessarily destabilizes any network of interactions, turning it into a race for control of the institution, and incentivizing all sides to use it for their own gain and to the detriment of others. The principles upon which such an institution stands, compromising autonomy for some for the purposes of others, subordinating all to its will and enforcing a singular outcome, requiring the fealty of those under it, are principles that undermine the possibility of freedom and mutual benefit. To introduce or support such a thing might benefit an individual in the short run, but ultimately endangers their own interests as well: if you create something that can unilaterally ignore the interests of others, you have no guarantee that it will always operate in your interests; and if you create a culture that sees it as acceptable to ignore the autonomy of some and subordinate them to you, you create a culture that accepts subordination, and sooner or later it will turn on you.
-
-Another question that arises is why one should hold principles at all. Why not calculate out the benefits and costs of cooperation with others in each individual circumstance, and do as one pleases no matter what?
-
-The answer to this is threefold. First, because being *known* to have committed to a bargaining strategy, and taking steps to actually make it difficult to undo such a commitment, is an excellent way to actually get other people to cooperate with your strategy[^38], as they feel they can trust you better. Compare this to someone who respects the autonomy and interests of others only when they feel like it, or only when the benefit to them is obvious and the ramifications of not doing so severe. No one will want to interact with such a person, as it is simply too dangerous. Therefore, self-interested considerations of the general, overall effects of one's actions in a cumulative sense outweigh whatever one might think specifically and in the moment.
-
-[^38]: https://plato.stanford.edu/entries/game-theory/#Com
-
-Second, because adhering to a principle unless in exceptional situations actually changes one's habits and character, which is likely to make it far easier and more natural, and therefore even somewhat less costly, and certainly more safe and sure, to follow those principles. Committing to following certain principles, and building habits around them, is advantageous even if in some specific cases ignoring those principles is also advantageous.
-
-Now that I have hopefully demonstrated that the reciprocal ethic is an advantageous set of general principles to live by, and that a society founded on it will be far more stable and peaceful, and beneficial to each of its members instead of just a few, I can now freely continue elaborating it. In the next sections, I will be working out the implications, as I see them, of the two principles (autonomy and reciprocity) that compose this ethic. It should be noted that this is not an exercise in pure axiomatic deduction; instead, this is a working out of the implications of the reciprocal ethic by means of a combination of logic and intuition, as the task requires, since the point of this ethic is to foster understanding and cooperation between people, not purely philosophical robots, and so if something is a clear point of intuitive agreement, whether or not it can be fully justified from the ground up, it is acceptable. As long as the ethic clearly derives from a concern for individual autonomy and mutual reciprocity, it will serve to foster like concern in others, and eventually result in them following these principles as well.
-
 ## 4. Property
+
+> *Devaluation reigns*
+>
+> *And fear of self destruction*
+>
+> *Adapt or be replaced*
+>
+> *And follow their instructions...*
+>
+> *So lay waste to all we've made*
+> 
+>*For your corporate palisade...*
+> 
+>*And no enterprise on Earth will make us kneel*
+> 
+>*To your empire of steel*
+> 
+>— *Empire of Steel* by Essenger
 
 Property can be seen as an extension of autonomy in two ways. One, it can be viewed as something that provides a sphere of free action for the individual, a guarantor of liberty, as a way to have resources at one's own disposal. Those resources can be used for labor, self-sustenance, or any other exercises of autonomy; the key is that they are separable from the collective and/or the rule of others and one has sole control over. Two, property can be seen as an extension of the past labor time invested in certain objects. To steal an object therefore undermines the autonomy of the labor that was done to modify that object, since now instead of being done for the rational purposes of the individual who did the labor, and therefore being autonomous, it turns out to have been done for the purposes of the thief, and thereby is no longer autonomous labor but servitude.
 
@@ -153,6 +203,14 @@ I must note here that one is not simply justified in using any means necessary t
 Furthermore, all the direct and known-beforehand consequences of actions taken in the name of negative reciprocity count as part of their consequences, and therefore must be counted when it comes to whether they are proportional or not.  Thus, kicking someone off of my property and hence directly off the edge of a cliff, forever, does not merely count (as naive right-libertarians imagine) as kicking them off my property, but also counts as killing them when they reach the bottom of that cliff. This does not include consequences of actions taken in defense of my autonomy that are merely the continuation of something that would have happened otherwise, where the violation of my autonomy which I am undoing is merely a suspension of what would have happened had that violation of my autonomy not occurred at all. For instance, if someone is dying, and they hook themselves up to me in order to use my body to survive, when I unhook them, I am defending my autonomy, but as a direct result of my action they are now dying again. This, however, is not my fault, since they were already dying before they interacted with me or I with them, and my action was merely removing an unjustly acquired suspension of an already-occurring process from their grasp.
 
 ## 5. Sale, Contract, and Consent
+
+> *The devil went down to Georgia, he was lookin' for a soul to steal*
+>
+> *He was in a bind 'cause he was way behind*
+>
+> *And he was willin' to make a deal*
+>
+> — *The Devil Went Down to Georgia*, by Charlie Daniels
 
 There are a myriad of forms which the hierarchies of authority which sap individual autonomy may take. One is force, another is dependence  (typically through claims on absentee property), and a third, less often discussed, is *contract*. Under the traditional conceptions of contracts seen throughout society and often preserved in right-libertarian writing, a contract is essentially a promise that is legally, or ethically, enforceable. Therefore, whatever each side of the contract promises to do or provide can be compelled from them if the other side of the contract performs their end of the bargain.
 
@@ -183,6 +241,12 @@ To establish a base level of ability to consent, maturing people could perhaps b
 There is also perhaps the seeds of a 'just theory of price' here: if the price, represented in property, demanded by a seller far exceeds (in invested labor time) the amount of labor time actually invested in the object, then it could be the case that this person is not respecting the autonomy of the other person, as represented by their labor time, as much as their own. This is not a total violation of positive reciprocal cooperation, but it is something important to consider, and may or may not constitute something that requires correction. This is especially true in the case when the amount of labor time (and invested autonomy) required for the use of property is designed to be indefinite and limitless, such as in the case of rent, profit, or interest: in those cases, we have someone demanding near limitless concessions of autonomy in return for a small concession of autonomy on their part. In this specific case, the limit of any number over a number tending towards infinity is zero, and so it could be said that the landlord, capitalist, or banker, in asking for these infinite rents, has no respect for the autonomy of others. Therefore, in this particular case of unequal price, it is not only an unequal respect for autonomy, which might be dealt with but might not (depending on the circumstances), but a complete violation of reciprocity, which should probably be met with some response. Note that this only applies to people charging a continuous price for a singular item which they invested a finite amount of labor time into in the past; if it is an ongoing service, then it is fair to ask an ongoing price for it.
 
 ## 6. Organization
+
+> *What a hell of a day to embrace disorder*
+>
+> *And there is something in your eyes that burns*
+> 
+> — *Dark All Day*, by GUNSHIP
 
 In a society of individuals committed to autonomy and an ethic of reciprocity, it is impossible to dictate, plan, or predict what the specific modes of organization and solutions to problems would be. To expect an individualist anarchist to give a precise account of what life post-state and post-capitalism *would* look like is like asking someone to predict the next invention on the market, or the next philosophy that would be produced, or any number of the other things that are the product of the creativity of individuals, acting alone or in concert. It is simply an impossible task, and a task that no one should *want* to do: freeing up individuals to use their own reason and their own ideas in their organization with others and attempts to figure out how to live with others is the entire point of anarchy, and the fact that so many more creative and individual minds will be set to the task, and so many more new solutions tried, is one of the many benefits. Therefore, not only can I not offer a picture of what an individualist anarchist 'society' would look like, I refuse to! However, I can offer some ideas about what I think will be most likely, and some ways things *could* work. Keep in mind, all the more, however, that these are merely ideas, not plans or prescriptions.
 
@@ -230,9 +294,17 @@ In conjunction with all of this, as well as free (and mutual) banking ensuring t
 [^34]: https://invisiblemolotov.files.wordpress.com/2009/09/garychartier_forprint_binding.pdf
 [^35]: https://c4ss.org/content/53949
 
-## 7. Law Under Anarchy: the Reciprocal Order
+## 7. Order Under Anarchy
 
-Heretofore I have only discussed how "law" — really, protection and conflict resolution — might be provided in an anarchist order dominated by reciprocal relationships in passing. I think it is probably now the time to elaborate in more depth how such protection and conflict resolution might be provided, given that the description of economic organization given above depends on some kind of coherent, stable order. Keep in mind that the same caveats about "planning" an anarchist society that I voiced above are in full effect here: this is all speculation, and trying to state that this *must be* how it will turn out, or trying to enforce such a result from above would defeat the entire purpose of anarchism in the first place. Nevertheless, it is interesting and sometimes profitable to speculate about how things might be done within the limits of a certain socio-ethical theory, so I will proceed with my analysis.
+> I stand ready to negotiate, but I want no part of laws: I acknowledge none; **I protest against every order with which some authority may feel pleased on the basis of some alleged necessity to over-rule my free will. Laws: We know what they are, and what they  are worth! They are spider webs for the rich and mighty, steel chains  for the poor and weak, fishing nets in the hands of government.** — Pierre-Joseph Proudhon
+
+A common objection levied against anarchists, which is probably now at the forefront of the minds of any who have read this treatise up till know, is that in the absence of the state, it is impossible to provide any stable order for society. After all, how can a community of individuals subject to no legitimized authority from above, which sets down uniform laws that govern how all may act, provide security and protection for its members, and prevent or solve conflicts? How will they know what to do, and what is to ensure that they do it, if there is no group of people to force them all to a single plan?
+
+This objection is the product of limited and indoctrinated thinking. In the absence of law — that top-down imposition of rules by an authority to govern the actions of all, legitimized as the 'one true way' — humans do not suddenly lose the ability to compromise with others in order to achieve peace and prosperous relations. They likewise do not lose their social capacity for good feelings: trust, empathy, etc. Least of all do they lose that common sense intuition for the game theory of interacting with others that allows most people to intuit the content of the two principles of my ethic when they are given time and mental space away from 'the law' to do so.
+
+An order that is founded on the autonomy of each individual participating in it, to recognize and compromise where necessary, convenient, or beneficial, and defend one's own interests and the interests of others in like conditions, can be just as stable as — if not more stable than — an order founded on the top-heavy conception that all order must stem from authority and imposition, instead of compromise and stigmergy.
+
+With these general statements in mind, I think it is time to elaborate in more depth how protection and conflict resolution might be provided in a system without laws, given that the description of economic organization given above depends on some kind of coherent, stable order. Keep in mind that the same caveats about 'planning' an anarchist society that I voiced above are in full effect here: this is all speculation, and trying to state that this *must be* how it will turn out, or trying to enforce such a result in an attempt to make it the only 'legitimate' option, would defeat the entire purpose of anarchism in the first place. I am merely presenting what I believe to be the most beneficial and probable methods of providing order to an anarchist society. Even within the context of these projection-suggestions, keep in mind that they will never be, and should never be, the sole source of legitimate decisions. There *is* no legitimacy or illegitimacy under anarchism, only what each individual thinks is correct, because there is no grant of authority to some standard, person, or group of people to decide what everyone says, thinks, or does regarding any matter, and the concept of a single legitimate outcome is a centralizing and hierarchical force itself. In the face of all these caveats, it is nonetheless interesting and sometimes profitable to speculate about how things might be done within the limits of a certain socio-ethical theory, so I will proceed with my analysis.
 
 In the first place, it should be noted that a reciprocal order, once established and understood, is stable in itself: each individual is motivated to continue cooperating with everyone else, even if they are not particularly interested in the cooperation of a specific person, because if they cease cooperation with that person, they might well lose cooperation from others. When they cease cooperation with someone, they run the risk of accruing a negative reputation: others become less sure of positive cooperation on their part being met with positive cooperation, making it less in their interest. If someone does not cooperate with your neighbor when it suits them not to, what is to guarantee that they will cooperate with you?
 
@@ -270,6 +342,24 @@ This is why it is not a valid criticism of these suggestions to point out that t
 
 ## 8. The State and The Reciprocal Order
 
+> Who says government, says negation of the people;
+> 
+> Who says negation of the people, says affirmation of political authority;
+> 
+> Who says affirmation of political authority, says individual dependency;
+> 
+> Who says individual dependency, says class supremacy;
+> 
+> Who says class supremacy, says inequality;
+> 
+> Who says inequality, says antagonism;
+> 
+> Who says antagonism, says civil war;
+> 
+> From which it follows that who says government, says civil war.
+>
+> — Anselme Bellegarrigue
+
 One of the important things to realize is that the very existence of the State not only violates the rules of the reciprocal order, but, as touched on in earlier sections, causes it to decay. After all, if your treatment is not up to your neighbors and those you interact with, but is enforced from above (whether you are treated with respect, or punished), one has little interest or care for what others think of you or how you treat them. If you treat someone poorly, and get away with it, *they* may know what you have done, but what can they do to you that the State will not stop? Hence the very existence of a top-down order of Law destroys much of the inherent interest we have in treating each other well, building trust and communities and relationships, outside of the State and what it can enforce, which is surprisingly little when it comes to the actual harm against people. After all, it is in the State's direct interest to enforce the collection of taxes and other such laws that benefit those in power, but as for actually protecting the people? They care little for that; after all, the people will placidly accept pretty much whatever they do, believing in the lie of the legitimacy of the organization that oppresses them. What little they do care for protecting the individual stems from doing just enough to preserve the fictional legitimacy they hold. They have even made this clear:
 
 > > “Neither the Constitution, nor state law, impose a  general duty upon police officers or other governmental officials to  protect individual persons from harm — even when they know the harm will occur,” said Darren L. Hutchinson, a professor and associate dean at  the University of Florida School of Law. “Police can watch someone  attack you, refuse to intervene and not violate the Constitution.”
@@ -280,9 +370,17 @@ One of the important things to realize is that the very existence of the State n
 
 The State also frays the reciprocal order by its very existence in other ways. For one thing, it is a tool of immense power to enact any social or economic change any group wishes to see. Once a State is introduced into society, the race is on to see who can capture it first in order to bend everyone else to their will, be it 'benevolent' or not. Worse, every side must compete all the harder for control over the Ring of Power that is the State because, were their enemies, or even those with simply a different vision of the world than they, to seize control of it, it would be worse for them than if no one had control of the State! Thus, by its very existence the State fosters an endless war of all against all for control of the apparatus of power. All the while, of course, those who seek nothing more than power and are willing to do anything to get it hide behind the fiction of legitimacy, social contracts, and constitutions as slowly strangle their society.
 
-Thus: "**Anarchy is order, government is civil war.**"
-
 ## 9. Conclusion: Praxis
+
+> We have arrived at the truth, but most people are still deluded believers in error; therefore, we must educate these people — via lectures, discussions, books, pamphlets, newspapers, or whatever — until  they become converted to the correct point of view. For a minority to  become a majority, a process of persuasion and conversion must take  place — in a word, education.
+>
+> — Murray Rothbard
+
+
+
+> Beneath the governmental machinery, in the shadow of political  institutions, out of the sight of statesmen and priests, society is  producing its own organism, slowly and silently; and constructing a new  order, the expression of its vitality and autonomy, and the denial of  the old politics, as well as of the old religion.
+>
+> — Pierre-Joseph Proudhon
 
 So, how do we get from here to there? How would a set of individuals committed to an ethic of reciprocity and the society envisioned therein ensure that the social norms and cultural knowledge are in place to support a transition from the  *status quo* to an order based on an ethic of reciprocity? There are three things such a group ('we' from here on) must do, and two it must not. The road I endorse is long and difficult, but I think it is ultimately worth it for anyone committed to the ideas of autonomy, individualism, and peace.
 
