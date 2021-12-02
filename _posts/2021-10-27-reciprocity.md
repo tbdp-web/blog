@@ -59,9 +59,9 @@ Autonomy also seems to be a core component of human flourishing for more intrins
 
 > “A man ought to be a friend to his friend and repay gift with gift. People should meet smiles with smiles and lies with treachery.” — *Edda*, 13<sup>th</sup> century
 
-Reciprocity, both in the community and in the individual, is what will safeguard  individual autonomy. Communities are composed of individuals, and therefore our first task is to explore how it is in the interest of the individual to engage in reciprocal respect of the interests and autonomy of others. Once that is established, we can speak about how a community of people who understand this common interest can operate.
-
 ### 3.1. Positive and Negative Reciprocity
+
+Reciprocity, both in the community and in the individual, is what will safeguard  individual autonomy. Communities are composed of individuals, and therefore our first task is to explore how it is in the interest of the individual to engage in reciprocal respect of the interests and autonomy of others. Once that is established, we can speak about how a community of people who understand this common interest can operate.
 
 If one respects the autonomy of others, and interacts with them in a positive way, one is much more likely to be able to convince those others to respect one's own autonomy, and to interact with oneself in mutually beneficial and positive ways. There are two reasons for this.
 
@@ -175,16 +175,20 @@ Mutual aid[^11] is when participants, who view each other as equals, instead of 
 > *And follow their instructions...*
 >
 > *So lay waste to all we've made*
-> 
->*For your corporate palisade...*
-> 
->*And no enterprise on Earth will make us kneel*
-> 
->*To your empire of steel*
-> 
->— *Empire of Steel* by Essenger
+>
+> *For your corporate palisade...*
+>
+> *And no enterprise on Earth will make us kneel*
+>
+> *To your empire of steel*
+>
+> — *Empire of Steel* by Essenger
+
+### 4.1. Two Aspects of Property
 
 Property can be seen as an extension of autonomy in two ways. One, it can be viewed as something that provides a sphere of free action for the individual, a guarantor of liberty, as a way to have resources at one's own disposal. Those resources can be used for labor, self-sustenance, or any other exercises of autonomy; the key is that they are separable from the collective and/or the rule of others and one has sole control over. Two, property can be seen as an extension of the past labor time invested in certain objects. To steal an object therefore undermines the autonomy of the labor that was done to modify that object, since now instead of being done for the rational purposes of the individual who did the labor, and therefore being autonomous, it turns out to have been done for the purposes of the thief, and thereby is no longer autonomous labor but servitude.
+
+### 4.2. Absentee Property (e.g. Land and Capital)
 
 Given this second conception of property, which is admittedly similar in many respects to the Lockean or Nozickean conception of property, it is important to clarify a key difference between the account of property in a reciprocal ethic, and the account of property in a side-constraints or natural rights ethic. In a side-constraints or natural rights ethic, property must be respected at all costs, and only in terms of its extension in labor, not the consequential extension the possession of property brings to people in having a free sphere for action. This is not the case in my ethic. If the possession of certain property is doing greater damage to the autonomy of an individual or group of individuals than violating positive passive reciprocity in this case would bring by making others (and the community as a whole) less likely to respect those individual's own property, then it is in fact in their interest to cease respecting that person's autonomy as expressed in that property.
 
@@ -192,11 +196,15 @@ This is a tricky calculation: one the one hand, we have a great subordination an
 
 In the case of *absentee* property, conversely, the story is different. Absentee property, through extortion, rent, or profit, can exact huge losses of autonomy on people, as the loss of something intimately necessary to their ability to labor, live, etc. is threatened in order to get them to subordinate themselves to another's authority docilely. On the other hand, the loss of absentee property causes no loss of autonomy in the first sense in which property is invested with it on the part of the absentee owner, as they were never using that property to begin with, nor was it something they were relying on to maintain their autonomy or free sphere of action. There is a loss of autonomy as represented in the past labor time invested into the property by the absentee owner, but with the benefit in alleviating subjugation, the direct gain in gaining new property to labor on and govern oneself with, and without the added direct loss of autonomy in the first respect, as well as the fact that others besides the owner of the property may not choose to even involve themselves in negative reciprocation, it should be clear that in most cases respect in absentee property should be hard to come by.
 
-Not that absentee property should not be respected at all; controlling the product of one's labor is very important to people's autonomy, and thus the respect of someone's labor time as it is invested in objects is too. A society that constantly, lightheartedly, and frivolously violated property rights, even in absentee property, undercuts half of the reason anyone respects anyone else's property at all, and endangers itself.
+Not that absentee property should not be totally disrespected in all cases; controlling the product of one's labor is very important to people's autonomy, and thus the respect of someone's labor time as it is invested in objects is too. A society that constantly, lightheartedly, and frivolously violated property rights, even in absentee property, undercuts half of the reason anyone respects anyone else's property at all, and endangers itself. Thus, property that is owned by a person who does not regularly use it, but which is neither needed by others, nor regularly used by others who are dominated by its owner, can and should be respected.
+
+### 4.3. Other Considerations
 
 On a similar subject, however, and to reiterate a point made some time ago, direct self-interest can overcome reciprocity, meaning that theft and squatting can be engaged in rationally even in the absence of the foregoing considerations, although one cannot rationally request that others do not follow the first two rules of reciprocity and try to remove one from their property or take back what you have stolen.
 
 An exception to this is if the theft or squatting has gone on long enough that the thief or squatter has in fact invested more of their labor time in the object or land or whatever than the original owner did, in which case taking that property back would actually do more harm to the new owner than they did to the old, violating the proportionality of negative reciprocity.
+
+### 4.4. The Defense of Property
 
 I must note here that one is not simply justified in using any means necessary to protect one's property, but instead must use methods to protect it that are proportional to what the violator did. For example, if someone enters my house, I cannot begin by shooting them. I must ask them to leave, try to guide them out by the arm, and only when they start resisting my attempts by attacking me, may I engage with them in self-defense while also trying to move them out of my house. However, preventing someone from entering my house in the first place is not an attack on their autonomy, as they had no right to be there in the first place, nor is preventing someone from entering some space, as I have just as much right to stand in a certain spot (even if it happens to be at the entrance of some place they desire to go) as they do, and if they attack me to move me out of the way, that is *their* fault.
 
@@ -212,6 +220,8 @@ Furthermore, all the direct and known-beforehand consequences of actions taken i
 >
 > — *The Devil Went Down to Georgia*, by Charlie Daniels
 
+### 5.1. Contracts
+
 There are a myriad of forms which the hierarchies of authority which sap individual autonomy may take. One is force, another is dependence  (typically through claims on absentee property), and a third, less often discussed, is *contract*. Under the traditional conceptions of contracts seen throughout society and often preserved in right-libertarian writing, a contract is essentially a promise that is legally, or ethically, enforceable. Therefore, whatever each side of the contract promises to do or provide can be compelled from them if the other side of the contract performs their end of the bargain.
 
 This has clearly authoritarian and oppressive implications. On a conceptual level, each person is in some sense the same individual as they were when they originally made a contract, but in some sense crucially relevant to autonomy, they are not. They are a different, similar person, and to be indefinitely and implacably bound to the promises and statements they have made in the past is its own special kind of odious bondage. If I promise to do something, but later realize that it was a poorly thought out idea and no longer want to participate in whatever I promised to do, it is fundamentally an extreme abridgment of my ability to rationally plan my own course in life and choose my actions, as well as my ability to control how my time (and labor) is spent, and with whom, to compel me by force to adhere to my promise. After all, when I, in passive positive cooperation, respect the autonomy of others, no positive action is required of me, and no encroachment is made into the sphere within which my autonomy exists. My absolute freedom is abridged, perhaps, but only slightly, and in return, a much more relevant freedom is ensured. And there is nothing on the other side of this equation: if I refuse to adhere to a contract, *no one's autonomy is abridged!* People are disappointed, certainly, and they may choose not to interact or trade with me in the future because they do not view me as trustworthy, but I *have not broken passive positive reciprocation whatsoever*. Therefore, the only motivation one has to keep contracts is the social motivation of wanting to be viewed as trustworthy and wanting to engage in positive active reciprocation.
@@ -224,7 +234,11 @@ In repossessing stolen property, it is important to remember that if damage is d
 
 In light of all this, a new picture of contracts emerges under this ethic: one where contracts can be voided at any time, for only the return of any transferred property or labor to their original owners if possible. This respects the choices and autonomy of all involved in my view.
 
+### 5.2. Sale
+
 Given the incompatibility of being forcefully held to one's promises and individual autonomy itself, what about sale? It would seem, since sale is simply the promise of an item to another person, that the seller could simply repossess their sold property at any time. This is actually incorrect, however: when someone transfers some property to another, they are not giving up the freedom or autonomy of their future selves at all. On the contrary, they are merely stating in that moment that the labor time that they invested in that object was done ultimately for the gain of that other person, and thereby disavowing a connection with that labor time. Once the connection is broken, it is no longer considered a part of their sphere of free action, their autonomy. Instead, the labor time the buyer invested in whatever they traded for the property is now invested in that property, as they *had to invest that labor time* in order to receive that property and so, by analogy, that labor time is invested *in* the property. Furthermore, it becomes part of their sphere of autonomous action.
+
+### 5.3. Coercion, Consent, and Just Price
 
 One crucial component of any contract, or any other interaction for that matter, is consent. Without consent, one party is merely subjugating and dominating the other party, abridging their autonomy and breaking the positive reciprocation of cooperation. Acting on someone without their consent is in fact the *primary* example of disrespecting someone else's autonomy, because when you do so, you are choosing for them — either directly, through non-consensual physical invasion — or indirectly — through extortion or other means — what happens to their body, time, and life, without consulting them as to whether it is part of their free plan for life, a choice of their own that is a product of their thinking mind. Furthermore, if someone does not clearly know the consequences of agreeing to some interaction, and the commitments that would entail, engaging in that interaction is just as clearly a violation of their autonomy as engaging in an interaction they actively reject. After all, if they do not know the consequences of what they are agreeing to, how can they actually have chosen what will result from that interaction?
 
