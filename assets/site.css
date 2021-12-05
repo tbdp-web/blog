@@ -6,6 +6,6 @@
     font-family: auto !important;
 }
 
-.masthead {
+.masthead .masthead__inner-wrap {
     background-color: #AA6688;
 }
