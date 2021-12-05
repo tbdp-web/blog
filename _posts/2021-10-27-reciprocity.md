@@ -21,15 +21,15 @@ In the following sections, I will explain why these two principles are indeed as
 
 ## 2. Autonomy
 
-> *Here's to the greater good, for all*
-> *Do what you know you should, for all*
-> *We all may die*...
+> *Here's to the greater good, for all*<br/>
+> *Do what you know you should, for all*<br/>
+> *We all may die*...<br/>
 >
-> *I said, "Hey (hey), you (you), feed the machine*
-> *Bring them all back down to their knees*
-> *There's no time to waste*
-> *Remind the slaves*
-> *They ain't gonna make it out alive today"*
+> *I said, "Hey (hey), you (you), feed the machine*<br/>
+> *Bring them all back down to their knees<br/>*
+> *There's no time to waste*<br/>
+> *Remind the slaves*<br/>
+> *They ain't gonna make it out alive today"*<br/>
 > — *Feed the Machine*, by Poor Man's Poison
 
 **Autonomy** is the ability to freely choose how to live your own life, spend your own time, and dispose of your own labor. Some call this ability 'liberty,' or 'freedom,' but I prefer autonomy because it emphasizes that the individual is the captain of their own ship, controlling their own destiny separate from, but not in tension with, all others. The words freedom and liberty implies the lack of all boundaries, whereas autonomy has boundaries: the boundaries of an individual's own life and time. 
@@ -157,14 +157,14 @@ Mutual aid[^11] is when participants, who view each other as equals, instead of 
 
 ## 4. Property
 
-> *Devaluation reigns*
-> *And fear of self destruction*
-> *Adapt or be replaced*
-> *And follow their instructions...*
-> *So lay waste to all we've made*
-> *For your corporate palisade...*
-> *And no enterprise on Earth will make us kneel*
-> *To your empire of steel*
+> *Devaluation reigns*<br/>
+> *And fear of self destruction*<br/>
+> *Adapt or be replaced<br/>*
+> *And follow their instructions...*<br/>
+> *So lay waste to all we've made*<br/>
+> *For your corporate palisade...*<br/>
+> *And no enterprise on Earth will make us kneel*<br/>
+> *To your empire of steel<br/>*
 > — *Empire of Steel* by Essenger
 
 ### 4.1. Property As a Guarantor and Extension of Autonomy
@@ -203,9 +203,9 @@ Furthermore, all the direct and known-beforehand consequences of actions taken i
 
 ## 5. Sale, Contract, and Consent
 
-> *The devil went down to Georgia, he was lookin' for a soul to steal*
-> *He was in a bind 'cause he was way behind*
-> *And he was willin' to make a deal*
+> *The devil went down to Georgia, he was lookin' for a soul to steal*<br/>
+> *He was in a bind 'cause he was way behind<br/>*
+> *And he was willin' to make a deal*<br/>
 > — *The Devil Went Down to Georgia*, by Charlie Daniels
 
 ### 5.1. Contracts
@@ -250,8 +250,8 @@ This is crucially different than the Marxist labor theory of value because it do
 
 ## 6. Organization
 
-> *What a hell of a day to embrace disorder*
-> *And there is something in your eyes that burns*
+> *What a hell of a day to embrace disorder<br/>*
+> *And there is something in your eyes that burns<br/>*
 > — *Dark All Day*, by GUNSHIP
 
 In a society of individuals committed to autonomy and an ethic of reciprocity, it is impossible to dictate, plan, or predict what the specific modes of organization and solutions to problems would be. To expect an individualist anarchist to give a precise account of what life post-state and post-capitalism *would* look like is like asking someone to predict the next invention on the market, or the next philosophy that would be produced, or any number of the other things that are the product of the creativity of individuals, acting alone or in concert. It is simply an impossible task, and a task that no one should *want* to do: freeing up individuals to use their own reason and their own ideas in their organization with others and attempts to figure out how to live with others is the entire point of anarchy, and the fact that so many more creative and individual minds will be set to the task, and so many more new solutions tried, is one of the many benefits. Therefore, not only can I not offer a picture of what an individualist anarchist 'society' would look like, I refuse to! However, I can offer some ideas about what I think will be most likely, and some ways things *could* work. Keep in mind, all the more, however, that these are merely ideas, not plans or prescriptions.
@@ -348,13 +348,13 @@ This is why it is not a valid criticism of these suggestions to point out that t
 
 ## 8. The State and The Reciprocal Order
 
-> Who says government, says negation of the people;
-> Who says negation of the people, says affirmation of political authority;
-> Who says affirmation of political authority, says individual dependency;
-> Who says individual dependency, says class supremacy;
-> Who says class supremacy, says inequality;
-> Who says inequality, says antagonism;
-> Who says antagonism, says civil war;
+> Who says government, says negation of the people;<br/>
+> Who says negation of the people, says affirmation of political authority;<br/>
+> Who says affirmation of political authority, says individual dependency;<br/>
+> Who says individual dependency, says class supremacy;<br/>
+> Who says class supremacy, says inequality;<br/>
+> Who says inequality, says antagonism;<br/>
+> Who says antagonism, says civil war;<br/>
 > From which it follows that who says government, says civil war.
 > — Anselme Bellegarrigue
 
@@ -370,12 +370,12 @@ The State also frays the reciprocal order by its very existence in other ways. F
 
 ## 9. Conclusion: Praxis
 
-> We have arrived at the truth, but most people are still deluded believers in error; therefore, we must educate these people — via lectures, discussions, books, pamphlets, newspapers, or whatever — until  they become converted to the correct point of view. For a minority to  become a majority, a process of persuasion and conversion must take  place — in a word, education.
+> We have arrived at the truth, but most people are still deluded believers in error; therefore, we must educate these people — via lectures, discussions, books, pamphlets, newspapers, or whatever — until  they become converted to the correct point of view. For a minority to  become a majority, a process of persuasion and conversion must take  place — in a word, education.<br/>
 > — Murray Rothbard
 
 
 
-> Beneath the governmental machinery, in the shadow of political  institutions, out of the sight of statesmen and priests, society is  producing its own organism, slowly and silently; and constructing a new  order, the expression of its vitality and autonomy, and the denial of  the old politics, as well as of the old religion.
+> Beneath the governmental machinery, in the shadow of political  institutions, out of the sight of statesmen and priests, society is  producing its own organism, slowly and silently; and constructing a new  order, the expression of its vitality and autonomy, and the denial of  the old politics, as well as of the old religion.<br/>
 > — Pierre-Joseph Proudhon
 
 So, how do we get from here to there? How would a set of individuals committed to an ethic of reciprocity and the society envisioned therein ensure that the social norms and cultural knowledge are in place to support a transition from the  *status quo* to an order based on an ethic of reciprocity? There are three things such a group ('we' from here on) must do, and two it must not. The road I endorse is long and difficult, but I think it is ultimately worth it for anyone committed to the ideas of autonomy, individualism, and peace.
