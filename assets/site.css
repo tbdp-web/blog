@@ -6,7 +6,7 @@
     font-family: auto !important;
 }
 
-.masthead .masthead__inner-wrap {
+.masthead .masthead__inner-wrap .masthead__menu .greedy-nav {
     background-color: #AA6688;
     color: #fff;
 }
