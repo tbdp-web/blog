@@ -2,14 +2,14 @@ remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 plugins: ["jekyll-include-cache", "jekyll-feed"]
 include: ["_pages"]
 
-logo: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s108-c-k-c0x00ffffff-no-rj
+logo: https://www.gravatar.com/avatar/cf9d2998c0d9cb26334028f72185fe38
 minimal_mistakes_skin: "contrast"
-title: "The Brain-Damaged Philosopher"
-subtitle: "Unscripted speech, premeditated thought."
+title: "The Gay Science"
+subtitle: "Investigations in philosophy"
 author:
-  name: "The Brain-Damaged Philosopher"
-  avatar: https://yt3.ggpht.com/yti/ANoDKi7j-ErL9pPCHK38AoudrFprzPxx_3yA3Ld0UdTu=s108-c-k-c0x00ffffff-no-rj
-  bio: "I am a left-market anarchist, existentialist atheist, transgender philosopher with chronic migraines. I am currently getting a Bachelor's in Computer Science with a minor in philosophy at Penn State University."
+  name: "Alexis"
+  avatar: https://www.gravatar.com/avatar/cf9d2998c0d9cb26334028f72185fe38
+  bio: "I am a mutualist, existentialist atheist, transgender philosopher with chronic migraines. I am currently getting a Bachelor's in Computer Science with a minor in philosophy at Penn State University."
   location: "California"
 search: true
 
