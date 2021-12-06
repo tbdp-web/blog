@@ -192,7 +192,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Two Principles of Anarchism",
-        "excerpt":"Up to now the victories of justice over injustice and of equality over inequality have been won by instinct and the simple force of things, but the final triumph of our social nature will be due to our reason, or else we shall fall back into feudal chaos. — Pierre-Joseph...","categories": [],
+        "excerpt":"1. Introduction Up to now the victories of justice over injustice and of equality over inequality have been won by instinct and the simple force of things, but the final triumph of our social nature will be due to our reason, or else we shall fall back into feudal chaos....","categories": [],
         "tags": ["ethics","anarchism","mutualism"],
         "url": "/2021/10/27/reciprocity.html",
         "teaser": null

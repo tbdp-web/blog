@@ -8,15 +8,123 @@
 
 .greedy-nav {
     background-color: #A68 !important;
-    color: #fff;
 }
 
 .masthead__inner-wrap {
     background-color: #A68 !important;
-    color: #fff;
 }
 
 .masthead {
     background-color: #A68 !important;
-    color: #fff;
+}
+
+.site-title {
+    color: #fff !important;
+}
+
+.masthead__menu-item > a {
+    color: #fff !important;
+}
+
+.search__toggle {
+    color: #EE88BB;
+}
+
+.greedy-nav .visible-links a::before {
+    background: #EE88BB;
+}
+
+.toc .nav__title {
+    background: #EE88BB;
+}
+
+.page__content > p, .page__content > blockquote {
+    text-align: justify;
+    max-width: 70ch;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page__content > h2 {
+    text-align: center;
+}
+
+.page__title {
+    font-size: 2em;
+}
+
+.site-logo > img {
+    border-radius: 50%;
+}
+
+blockquote {
+    padding-left: 2em;
+    padding-right: 2em;
+    font-style: normal;
+    border-left: none;
+    font-size: 16pt;
+}
+
+sup > a, p > a {
+    color: #dd77aa !important;
+}
+
+sup > a, p > a:hover {
+    color: #dd77aa !important;
+    transition: color 0.1s ease;
+    filter: brightness(50%);
+    outline: 0;
+}
+
+.list__item {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border: 1px solid #eee;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 20px;
+    margin-bottom: 1em;
+    border-radius: 10px;
+}
+
+.list__item:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.archive__item-title {
+    margin-bottom: 0em;
+    font-family: 'Architects Daughter';
+    line-height: initial;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.archive__item-title > a {
+    color: black;
+    text-align: center;
+    font-size: 1.15em;
+    text-decoration: none;
+}
+
+.list__item .page__meta, .list__item .comment__date {
+    margin: 0 0 4px;
+    font-size: 0.6em;
+    padding-bottom: 47px;
+    color: #333;
+}
+
+.archive__item-excerpt {
+    margin-top: 0;
+    font-size: 0.75em;
+    border: 1px solid #cad;
+    padding: 20px;
+    border-radius: 10px;
+    font-style: italic;
+    font-size: .85em;
+}
+
+form {
+    border-radius: 10px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2);
+    background: rgb(238, 136, 187, 0.1);
 }
