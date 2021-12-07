@@ -131,12 +131,6 @@ var store = [{
         "url": "/2021/08/13/calvinism.html",
         "teaser": null
       },{
-        "title": "Rescuing Masculinity?",
-        "excerpt":"Introduction I’ve been working on a political manifesto, finishing the essay on egoistic equilibrium social norms, and working on an ongoing fantasy story with my girlfriend, so I haven’t been able to post here a lot recently. However, there’s an interesting post I made in response to something I saw...","categories": [],
-        "tags": [],
-        "url": "/2021/08/20/masculinity.html",
-        "teaser": null
-      },{
         "title": "Debates— What're They Good For?",
         "excerpt":"Hello everyone and today you guys are going to be in for another irregularly posted angry rant about something random on this blog. I have a pretty terrible headache today, and I’m just bored as fuck and I’ve been thinking about this subject for quite a while so here it...","categories": [],
         "tags": [],
