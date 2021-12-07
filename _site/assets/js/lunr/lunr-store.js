@@ -162,7 +162,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Transgenderism: A Conversation With My Past (Transphobic) Self",
-        "excerpt":"Introduction This essay has been on my mind for a long time. There is actually an embryonic form of it on this blog that I tried to write using voice dictation, but that just didn’t satisfy the itch, and so now that I’m feeling well enough to write and research...","categories": [],
+        "excerpt":"Author’s Note Since I wrote this article, I have realized that I myself am a trans girl. That obviously had a deep effect on how I viewed what I wrote here, and a lot of it is due for revision. Please keep that in mind if you read this. Introduction...","categories": [],
         "tags": [],
         "url": "/2021/09/12/transgender.html",
         "teaser": null

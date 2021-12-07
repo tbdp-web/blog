@@ -1,7 +1,12 @@
 ---
 title: "Transgenderism: A Conversation With My Past (Transphobic) Self"
+toc: true
 published: true
 ---
+
+## Author's Note
+
+Since I wrote this article, I have realized that I myself am a trans girl. That obviously had a deep effect on how I viewed what I wrote here, and a lot of it is due for revision. Please keep that in mind if you read this.
 
 ## Introduction
 
@@ -12,19 +17,6 @@ My social views have changed drastically even in the past half a year or so (as 
 This will take the form of a dialogue, where I will first, in bold, put forward the most challenging beliefs or questions my younger self had, and then I will explain why they are wrong. In essence, then: "Brain-Damaged Philosopher CALMLY DISMANTLES His Younger Self." I hope you enjoy.
 
 ## Beliefs and Answers
-
-Table of Contents:
-- ["Transgenderism is a denial of basic biology. You can't change your sex."](#1)
-- ["If transgender people don't claim to be trying to change their biological sex, why do they want to be referred to as of the opposite gender to their biological sex?"](#2)
-- ["Transgenderism is just a mental illness or delusion, like lycanthropy, not an actual medical condition."](#3)
-- ["We should be focusing on convincing transgender people that they are of the gender their biological sex indicates, rather than allowing them to transition to the opposite gender."](#4)
-- ["Letting transgender people get surgeries so they can match their preferred gender violates the Hippocratic Oath to 'do no harm.' Plus, transgender people could really regret making such drastic moves."](#5)
-- ["It's okay for adults to do whatever they want with their bodies, but letting a child transition is child abuse!"](#6)
-- ["The idea that there is an inherent difference between male and female brains contradicts the feminists! Transgenderism and feminism are at war, and thus we see how social progressivism eats itself."](#7)
-- ["We shouldn't let transgender women compete in women's sports. Men have a lot more stamina and strength and so on, so they would have an unfair advantage."](#8)
-- ["There never used to be transgender people, but now their numbers are increasing rapidly. Trans acceptance is just encouraging confused people."](#9)
-- ["Be that as it may, I refuse to respect the chosen names/pronouns of transgender people. Respect must be earned!"](#10)
-- ["Transgenderism is equivalent to 'transracialism' or 'transpeciesism' or 'transageism'."](#11)
 
 ### Definitions
 
