@@ -185,12 +185,6 @@ var store = [{
         "url": "/2021/10/11/life-meaning.html",
         "teaser": null
       },{
-        "title": "Human Being and the World, Part II",
-        "excerpt":"“There is no longer a single idea explaining everything, but an infinite number of essences giving a meaning to an infinite number of objects. The world comes to a stop, but also lights up.” ― Albert Camus 1. Introduction The purpose of this chapter of Human Being and the World...","categories": [],
-        "tags": ["existentialism-series"],
-        "url": "/2021/10/24/life-meaning-2.html",
-        "teaser": null
-      },{
         "title": "Two Principles of Anarchism",
         "excerpt":"1. Introduction Up to now the victories of justice over injustice and of equality over inequality have been won by instinct and the simple force of things, but the final triumph of our social nature will be due to our reason, or else we shall fall back into feudal chaos....","categories": [],
         "tags": ["ethics","anarchism","mutualism"],
