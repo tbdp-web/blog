@@ -191,6 +191,12 @@ var store = [{
         "url": "/2021/12/05/intolerance.html",
         "teaser": null
       },{
+        "title": "An Introduction to Anarchist Egoism",
+        "excerpt":"1. The Problem With ‘Objective’ Ethics The common discourse surrounding ethical philosophy in the mainstream is, I contend, largely meaningless. It is dominated by discussions over reified abstractions that have no real ties either to normativity or reality, phantoms which require only a little thought and a single question —...","categories": [],
+        "tags": ["anarchism","mutualism","ethics"],
+        "url": "/2021/12/08/egoism.html",
+        "teaser": null
+      },{
         "title": "Why I Am No Longer An Anarcho-Capitalist",
         "excerpt":"1. A Fundamental Confusion Of Values My primary problem with anarcho-capitalists, as I mentioned in another essay (‘Two Principles of Anarchism’) is that they are fundamentally confused about values. The value at the heart of all libertarian movements is autonomy, often referred to as liberty: the desire to be a...","categories": [],
         "tags": [],

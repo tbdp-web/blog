@@ -1,6 +1,6 @@
 # Two Principles of Anarchism
 
-## 1. Introduction
+## Introduction
 
 > Up to now the victories of justice over injustice and of equality over inequality have been won by instinct and the simple force  of things, but the final triumph of our social nature will be due to our reason, or else we shall fall back into feudal chaos. — Pierre-Joseph Proudhon
 
@@ -17,7 +17,7 @@ There is also a positivist, amoral aspect to my analysis: because human beings a
 
 In the following sections, I will explain why these two principles are indeed as beneficial as I claim, and then I will elaborate on them in more detail, explaining the implications of consistently applying these principles to various areas of political, social, and economic life. Although I attempt to draw out these implications by clear logical deduction, because each principle and its corollaries are necessarily general rules not to be applied in every situation, my statements concerning their implications are *also* general rules, as are my statements concerning the *benefits* of following any of these principles, corollaries, and implications. Therefore, consider all of my statements as statements of general fact, open to revision in the moment and in light of particular circumstances. Additionally, since this is an ethic for humans and for humans to interact with humans, I find it acceptable from time to time to use extraneous implicit axioms and intuitions, although I try to justify them wherever they crop up as particularly central to any argument. Please keep all of this in mind when reading further.
 
-## 2. Autonomy
+## Autonomy
 
 > *Here's to the greater good, for all*<br/>
 > *Do what you know you should, for all*<br/>
@@ -30,15 +30,15 @@ In the following sections, I will explain why these two principles are indeed as
 > *They ain't gonna make it out alive today"*<br/>
 > — *Feed the Machine*, by Poor Man's Poison
 
-### 2.1. What Is Autonomy?
+### What Is Autonomy?
 
 **Autonomy** is the freedom to choose what to do with one's body, time, and labor. To think, speak, and act as one wills. We all, technically, have the *ability* to do those things, even if there is a gun held to our heads, but to be free to do them means to have a range of choices about what to do with them that are all serious options — options that do not in themselves represent serious choices that will further narrow agency or destroy the capacity for it in a significant way, or cause significant harm to the individual. Thus, I am not in fact free to do what I want with my time, I do not have autonomy, if my choices are to do what you want or to starve because you withhold food from me, because my choices are limited to two, one which represents axiological (and actual) suicide, essentially, and the choice you present. Thus, I have autonomy to the degree that there are no serious obstacles to me choosing to do what I want with myself.
 
 The reason I do not use the words 'freedom' or 'liberty' to describe this value, and instead prefer to say autonomy, is that freedom and liberty are, particularly in a right-libertarian context but even outside of it, associated with a specific conception of 'rights' that is unhelpful to my analysis, and allowing such a connotation to creep it would only serve to muddy the waters for those familiar with most discourse around rights and freedoms. In this conception, one is free just in case one can do whatever one has a right to do, and any action that one is prevented from taking outside that sphere has, in this conception, no effect on one's freedom, either to lessen it or increase it. Here is an example from Rothbard, from *For A New Liberty*:
 
-> Freedom is a condition in which a person’s ownership rights in his own body and his legitimate material property are not invaded, are not aggressed against. A man who steals another man’s property is  invading  and  restricting  the  victim’s  freedom,  as  does  the man  who  beats  another  over  the  head.[^41]
+> Freedom is a condition in which a person’s ownership rights in his own body and his legitimate material property are not invaded, are not aggressed against. A man who steals another man’s property is  invading  and  restricting  the  victim’s  freedom,  as  does  the man  who  beats  another  over  the  head... **Freedom  and  unrestricted property right go hand in hand.** [^41]
 
-[^41]: See Rothbard, Murray N. “Free Exchange and Free Contract.” *For a New Liberty: The Libertarian Manifesto*, 2nd ed., Ludwig Von Mises Institute, United States, Alabama, 2006, pp. 59–59. 
+[^41]: See Rothbard, Murray N. “Free Exchange and Free Contract.” *For a New Liberty: The Libertarian Manifesto*, 2nd ed., Ludwig Von Mises Institute, United States, Alabama, 2006, pp. 50-50. 
 
 Thus, in this conception, the fact that I cannot take some food from you, even if I need it, is not a restriction on my freedom, because you have a *right* to that food. This conception of freedom is merely an imperfect representation of what is actually valuable about freedom, however, which is clear from the example that I gave in the first paragraph: if I am presented with two choices, one which represents axiological or actual suicide, and one which does not, then it should be clear that by any normal definition of freedom I am *not* free to simply reject the other option. I am *forced*, the common usage of the term, to take the other option. This is why we say 'I have to work' or 'my boss is forcing me to do' this or that: yes, technically, we can stop working altogether, or disobey our boss, but if we do that, we likely face starvation and homelessness, at least ultimately, so we do not have any other real, live options.
 
@@ -48,7 +48,7 @@ On the contrary, all freedom is important: any restriction on my autonomy, wheth
 
 This is not to say that all autonomy is equally worth protecting. The free ability to choose what to do with my body, time, labor, and the products thereof, in spheres which effect few or no one besides myself, is autonomy that is far more important, and far more closely felt, ordinarily, than the ability to go somewhere else and harass someone else. Nevertheless, sometimes it is not: sometimes not being able to do something that might effect someone else is an incredible, costly hindrance, a severe restriction on autonomy. It is important to recognize when some autonomy in the ability to interfere with the business and lives of others has been given up in return for greater security in one's own life, because sometimes more is given up when the former is released than is gained from the latter. Likewise, it is important to recognize that all talk of rights, property, and freedom defined in terms of these things is an imperfect approximation of what we actually care about what it comes right down to it, because we care about *all* freedom, and sometimes the freedom we care most deeply about does not map onto property rights.
 
-### 2.2. Why Is Autonomy Important?
+### Why Is Autonomy Important?
 
 Why *do* we care about autonomy so much? Another reason that I prefer to use the word autonomy instead of 'freedom' or 'liberty' is that the word autonomy has an implication of self-directedness and self-determination to it that is important for a holistic understanding of what it is, which in turn is necessary to understand why it is so valuable. It will therefore begin to become even clearer why autonomy is so valuable if we explore the psychological definition of it, and the words surrounding it.
 
@@ -76,11 +76,11 @@ Autonomy also seems to be a core component of human flourishing, too: we have br
 
 There is a more fundamental reason that autonomy is crucially valuable, which allows me to treat it as a value that all human beings share — and provides the basis and framework for all others — without assuming that all human beings share the same values in other respects, as a moral realist would. This fundamental reason is that autonomy is the prerequisite for achieving all other values. If one is to pursue any value whatsoever, one must first have the freedom to do so: the freedom to use one's own reasoning mind to choose what to do with one's time and one's body. If someone is subordinated to another they cannot be free to exercise their own mind and choice, and therefore cannot achieve any value of their own except at the sufferance of another, whose interests necessarily cannot be trusted to align with their own.
 
-## 3. Reciprocity
+## Reciprocity
 
 > “A man ought to be a friend to his friend and repay gift with gift. People should meet smiles with smiles and lies with treachery.” — *Edda*, 13<sup>th</sup> century
 
-### 3.1. Positive and Negative Reciprocity
+### Positive and Negative Reciprocity
 
 Reciprocity, both in the community and in the individual, is what will safeguard  individual autonomy. Communities are composed of individuals, and therefore our first task is to explore how it is in the interest of the individual to engage in reciprocal respect of the interests and autonomy of others. Once that is established, we can speak about how a community of people who understand this common interest can operate.
 
@@ -112,7 +112,7 @@ This ethic of reciprocity might begin to sound like the primitive ethics of "an 
 [^9]: See Axelrod, Robert, and William D Hamilton. “The Evolution of Cooperation - Science.org.” *Science*, 27 Mar. 1981, https://www.science.org/doi/10.1126/science.7466396.
 [^10]: See Jaeggi, Adrian V, and Michael Gurven. “Reciprocity Explains Food Sharing in Humans and Other Primates Independent of Kin Selection and Tolerated Scrounging: A Phylogenetic Meta-Analysis.” *Proceedings of the Royal Society B: Biological Sciences*, 7 Oct. 2013, https://royalsocietypublishing.org/doi/10.1098/rspb.2013.1615.
 
-### 3.2. Reciprocity and Society
+### Reciprocity and Society
 
 I have demonstrated above that following the principles of reciprocity and autonomy is likely to be beneficial to each individual, whether or not those the interact also follow this ethic (but especially if they do). However, what benefits are there for promoting these principles generally, and encouraging an entire society to follow them? What, in other words, is the interest of the egoist in promoting others to follow this ethic besides the specific benefits contained in interacting with people who follow it? What are the benefits that are a result of the organic whole of society applying this?
 
@@ -124,7 +124,7 @@ According to social anthropologists, reciprocity is actually a powerful basis fo
 
 > Richard Leakey and [Roger Lewin](https://en.wikipedia.org/wiki/Roger_Lewin) attribute the very nature of humans to reciprocity. They claim humans  survived because our ancestors learned to share goods and services "in  an honored network of obligation".<sup>[[11](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)#cite_note-11)]</sup> ... [Cultural anthropologists](https://en.wikipedia.org/wiki/Cultural_anthropology) support this idea in what they call the "web of indebtedness" where  reciprocity is viewed as an adaptive mechanism to enhance survival.<sup>[[12](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)#cite_note-12)]</sup> Within this approach, **reciprocity creates an interdependent environment where labor is divided so that humans may be more efficient**... Each member can devote more time and attention to his or her allotted task and the whole group benefits. This meant that individuals could give away resources without actually  giving them away. Through the rule of reciprocity, sophisticated systems of aid and trade were possible bringing immense benefits to the  societies that utilized them.<sup>[[1](https://en.wikipedia.org/wiki/Reciprocity_(social_psychology)#cite_note-:1-1)]</sup> Given the benefits of reciprocity at the societal level, it is not  surprising that the norm has persisted and dictates our present  cognition and behavior.
 
-### 3.3. Why Reciprocity Consistently?
+### Why Reciprocity Consistently?
 
 Instead of relying on a distributed, decentralized network of reciprocal actions and game theoretic payoffs to protect one's autonomy and interests, why not enforce it from the top down? Surely, if one desires to protect and ensure something absolutely, it is better to have a single entity that can impose it by force, for surely anything so loose and fluid as a reciprocal order cannot give as absolute guarantees!
 
@@ -146,7 +146,7 @@ Second, because adhering to a principle unless in exceptional situations actuall
 
 Now that I have hopefully demonstrated that the reciprocal ethic is an advantageous set of general principles to live by, and that a society founded on it will be far more stable and peaceful, and beneficial to each of its members instead of just a few, I can now freely continue elaborating it. In the next sections, I will be working out the implications, as I see them, of the two principles (autonomy and reciprocity) that compose this ethic. It should be noted that this is not an exercise in pure axiomatic deduction; instead, this is a working out of the implications of the reciprocal ethic by means of a combination of logic and intuition, as the task requires, since the point of this ethic is to foster understanding and cooperation between people, not purely philosophical robots, and so if something is a clear point of intuitive agreement, whether or not it can be fully justified from the ground up, it is acceptable. As long as the ethic clearly derives from a concern for individual autonomy and mutual reciprocity, it will serve to foster like concern in others, and eventually result in them following these principles as well.
 
-### 3.4. The Principles of Reciprocity
+### The Principles of Reciprocity
 
 There is a fundamental difference between two kinds of positive reciprocity, and so far I have treated these two variations of reciprocity as equivalent for the sake of simplifying the foregoing conceptual analysis. I think it is time, however, to split them out, as I begin to formalize what the principles an individual following this ethic of reciprocity would follow.
 
@@ -187,7 +187,7 @@ Mutual aid[^11] is when participants, who view each other as equals, instead of 
 [^13]: See Long, Roderick T. “Anarchy in the U.K.: The English Experience With Private Protection.” *Formulations*, Free Nation Foundation, 1994, http://freenation.org/a/f21l1.html.
 [^14]: See Greene, William B. “Mutual Banking.” *The Anarchist Library*, 17 Mar. 2019, https://theanarchistlibrary.org/library/william-batchelder-greene-mutual-banking.
 
-## 4. Property
+## Property
 
 > *Devaluation reigns*<br/>
 > *And fear of self destruction*<br/>
@@ -199,7 +199,7 @@ Mutual aid[^11] is when participants, who view each other as equals, instead of 
 > *To your empire of steel<br/>*
 > — *Empire of Steel* by Essenger
 
-### 4.1. Property As a Guarantor and Extension of Autonomy
+### Property As a Guarantor and Extension of Autonomy
 
 Although most forms of anarchism are hostile to property, I view it as a crucial guarantor of individual autonomy. Without the ability to own things, both to support one's own life, such as food and shelter, and to allow for the ongoing support of one's life, in the means of production, the individual is placed at the mercy of the collective. This can be formalized, as it is in some forms of anarcho-communism and in all forms of authoritarian communism, where the means of production are officially owned by the community, and so each individual is in the end subordinated to one community or another, unable to separate themselves from groups. This can also be informal: if anyone can take from you your means of survival and production at any time, for any reason, whenever they feel like it, you are just as at the mercy of everyone else as if it was formalized, just in a different way. You have no sphere to plan and act according to your own will.
 
@@ -211,7 +211,7 @@ Property is also an extension of autonomy in another way, however. It represents
 
 So, property is both a guarantor of, and an extension of, individual autonomy. At the same time, property is *just* that, not a substitute for it. Elevating respect for and protection of private property to the top of one's hierarchy of values is to serve an abstract ideal. This might seem like the right thing to do, but that is only because some of one's own self-interest in generally protecting property has been invested into that ideal, and you are serving that component of your self-interest to the detriment of the others, and poorly as well. To do that is to make yourself a slave to something that is not representative of your full interests, and therefore is just as problematic as elevating god, altruism, the collective, the state, tradition, or a specific master over oneself. In light of this truth, the wise egoist must not make the same mistake that propertarians (right-libertarians and anarcho-capitalists) make by substituting true freedom for the freedom to dispose of property (externally or in one's own person) how one pleases. There is more to freedom than that, even if that represents, and protects, some important components of freedom.
 
-### 4.2. Absentee Property (e.g. Land and Capital)
+### Absentee Property (e.g. Land and Capital)
 
 Given this second conception of property, which is admittedly similar in many respects to the Lockean or Nozickean conception of property, it is important to clarify a key difference between the account of property in a reciprocal ethic, and the account of property in a side-constraints or natural rights ethic. In a side-constraints or natural rights ethic, property must be respected at all costs, and only in terms of its extension in labor, not the consequential extension the possession of property brings to people in having a free sphere for action. This is not the case in my ethic. If the possession of certain property is doing greater damage to the autonomy of an individual or group of individuals than violating positive passive reciprocity in this case would bring by making others (and the community as a whole) less likely to respect those individual's own property, then it is in fact in their interest to cease respecting that person's autonomy as expressed in that property.
 
@@ -221,26 +221,26 @@ In the case of *absentee* property, conversely, the story is different. Absentee
 
 Not that absentee property should not be totally disrespected in all cases; controlling the product of one's labor is very important to an individual's autonomy, and thus the respect of someone's labor time as it is invested in objects is too. A society that constantly, lightheartedly, and frivolously violated property rights, even in absentee property, undercuts half of the reason anyone respects anyone else's property at all, and endangers itself. Thus, property that is owned by a person who does not regularly use it, but which is neither needed by others, nor regularly used by others who are dominated by its owner, can and should be respected as a general principle.
 
-### 4.3. Abandonment
+### Abandonment
 
 Another exception to the rule of respecting private property on the basis of the invested labor time of the original owner is in the case when the thief, having held the property for some amount of time, has actually invested more labor into it than the original owner did, in either repairs, upkeep, or improvements. In such a case, to return the property to the original owner would be a greater disrespect of the autonomy of the thief than the thief's original theft was of the owner's autonomy.
 
 Of course, this is not a hard-and-fast rule, as proportionality is more in the eyes of the beholders than it is an objective rational science, but it would still produce a tendency for property to stay with the person who has worked on it more. Additionally, such cases are usually only going to arise in the case of property that was either clearly abandoned, or absentee to begin with, with the original owner swooping in at some later date in order to reclaim something they never cared about before. That means that people are even less likely to care about respecting their original claim.
 
-### 4.4. The Defense of Property
+### The Defense of Property
 
 I must note here that one is not simply justified in using any means necessary to protect one's property, but instead must use methods to protect it that are proportional to what the violator did. For example, if someone enters my house, I cannot begin by shooting them. I must ask them to leave, try to guide them out by the arm, and only when they start resisting my attempts by attacking me, may I engage with them in self-defense while also trying to move them out of my house. However, preventing someone from entering my house in the first place is not an attack on their autonomy, as they had no right to be there in the first place, nor is preventing someone from entering some space, as I have just as much right to stand in a certain spot (even if it happens to be at the entrance of some place they desire to go) as they do, and if they attack me to move me out of the way, that is *their* fault.
 
 Furthermore, all the direct and known-beforehand consequences of actions taken in the name of negative reciprocity count as part of their consequences, and therefore must be counted when it comes to whether they are proportional or not.  Thus, kicking someone off of my property and hence directly off the edge of a cliff, forever, does not merely count (as naive right-libertarians imagine) as kicking them off my property, but also counts as killing them when they reach the bottom of that cliff. This does not include consequences of actions taken in defense of my autonomy that are merely the continuation of something that would have happened otherwise, where the violation of my autonomy which I am undoing is merely a suspension of what would have happened had that violation of my autonomy not occurred at all. For instance, if someone is dying, and they hook themselves up to me in order to use my body to survive, when I unhook them, I am defending my autonomy, but as a direct result of my action they are now dying again. This, however, is not my fault, since they were already dying before they interacted with me or I with them, and my action was merely removing an unjustly acquired suspension of an already-occurring process from their grasp.
 
-## 5. Sale, Contract, and Consent
+## Sale, Contract, and Consent
 
 > *The devil went down to Georgia, he was lookin' for a soul to steal*<br/>
 > *He was in a bind 'cause he was way behind<br/>*
 > *And he was willin' to make a deal*<br/>
 > — *The Devil Went Down to Georgia*, by Charlie Daniels
 
-### 5.1. Contracts
+### Contracts
 
 There are a myriad of forms which the hierarchies of authority which sap individual autonomy may take. One is force, another is dependence  (typically through claims on absentee property), and a third, less often discussed, is *contract*. Under the traditional conceptions of contracts seen throughout society and often preserved in right-libertarian writing, a contract is essentially a promise that is legally, or ethically, enforceable. Therefore, whatever each side of the contract promises to do or provide can be compelled from them if the other side of the contract performs their end of the bargain.
 
@@ -254,11 +254,11 @@ In repossessing stolen property, it is important to remember that if damage is d
 
 In light of all this, a new picture of contracts emerges under this ethic: one where contracts can be voided at any time, for only the return of any transferred property or labor to their original owners if possible. This respects the choices and autonomy of all involved in my view.
 
-### 5.2. Sale
+### Sale
 
 Given the incompatibility of being forcefully held to one's promises and individual autonomy itself, what about sale? It would seem, since sale is simply the promise of an item to another person, that the seller could simply repossess their sold property at any time. This is actually incorrect, however: when someone transfers some property to another, they are not giving up the freedom or autonomy of their future selves at all. On the contrary, they are merely stating in that moment that the labor time that they invested in that object was done ultimately for the gain of that other person, and thereby disavowing a connection with that labor time. Once the connection is broken, it is no longer considered a part of their sphere of free action, their autonomy. Instead, the labor time the buyer invested in whatever they traded for the property is now invested in that property, as they *had to invest that labor time* in order to receive that property and so, by analogy, that labor time is invested *in* the property. Furthermore, it becomes part of their sphere of autonomous action.
 
-### 5.3. Coercion and Consent
+### Coercion and Consent
 
 One crucial component of any contract, or any other interaction for that matter, is consent. Without consent, one party is merely subjugating and dominating the other party, abridging their autonomy and breaking the positive reciprocation of cooperation. Acting on someone without their consent is in fact the *primary* example of disrespecting someone else's autonomy, because when you do so, you are choosing for them — either directly, through non-consensual physical invasion — or indirectly — through extortion or other means — what happens to their body, time, and life, without consulting them as to whether it is part of their free plan for life, a choice of their own that is a product of their thinking mind. Furthermore, if someone does not clearly know the consequences of agreeing to some interaction, and the commitments that would entail, engaging in that interaction is just as clearly a violation of their autonomy as engaging in an interaction they actively reject. After all, if they do not know the consequences of what they are agreeing to, how can they actually have chosen what will result from that interaction?
 
@@ -272,7 +272,7 @@ How should this response be carried out? Because consent is more of a gradient t
 
 To establish a base level of ability to consent, maturing people could perhaps be presented with a rite of passage, or a psychological evaluation that results in a score or set of scores, on the basis of which each member of the community could judge whether the person is generally — when in their right mind, etc — able to consent to interactions, and react to that person and those who interact with *them* accordingly. It would be important that there be no specific 'pass' or 'fail' state to such a test, but instead a score that accurately represents some capacity, so that the decision is made available for all to judge.
 
-### 5.4. Just Price
+### Just Price
 
 There is also perhaps the seeds of a 'just theory of price' here: if the price, represented in property, demanded by a seller far exceeds (in invested labor time) the amount of labor time actually invested in the object, then it could be the case that this person is not respecting the autonomy of the other person, as represented by their labor time, as much as their own. This is not a total violation of positive reciprocal cooperation, but it is something important to consider, and may or may not constitute something that requires correction. This is especially true in the case when the amount of labor time (and invested autonomy) required for the use of property is designed to be indefinite and limitless, such as in the case of rent, profit, or interest: in those cases, we have someone demanding near limitless concessions of autonomy in return for a small concession of autonomy on their part. In this specific case, the limit of any number over a number tending towards infinity is zero, and so it could be said that the landlord, capitalist, or banker, in asking for these infinite rents, has no respect for the autonomy of others. Therefore, in this particular case of unequal price, it is not only an unequal respect for autonomy, which might be dealt with but might not (depending on the circumstances), but a complete violation of reciprocity, which should probably be met with some response. Note that this only applies to people charging a continuous price for a singular item which they invested a finite amount of labor time into in the past; if it is an ongoing service, then it is fair to ask an ongoing price for it.
 
@@ -280,7 +280,7 @@ This is crucially different than the Marxist labor theory of value because it do
 
 [^40]: See Bland, Amy R, et al. “Cooperative Behavior in the Ultimatum Game and Prisoner's Dilemma Depends on Players' Contributions.” *Frontiers*, Frontiers, 1 Jan. 1AD, https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01017/full.
 
-## 6. Organization
+## Organization
 
 > *What a hell of a day to embrace disorder<br/>*
 > *And there is something in your eyes that burns<br/>*
@@ -455,11 +455,11 @@ Furthermore, we would, hopefully at least, see an end to the strange, disjointed
 [^34]: Read also: https://invisiblemolotov.files.wordpress.com/2009/09/garychartier_forprint_binding.pdf
 [^35]: See Glitterbomb, Logan Marie. “Bullshit Jobs and the End of Work (as We Know It).” *Center for a Stateless Society*, 20 Nov. 2020, https://c4ss.org/content/53949.
 
-## 7. Order Under Anarchy
+## Order Under Anarchy
 
 > I stand ready to negotiate, but I want no part of laws: I acknowledge none; **I protest against every order with which some authority may feel pleased on the basis of some alleged necessity to over-rule my free will. Laws: We know what they are, and what they  are worth! They are spider webs for the rich and mighty, steel chains  for the poor and weak, fishing nets in the hands of government.** — Pierre-Joseph Proudhon
 
-### 7.1. General Statements
+### General Statements
 
 A common objection levied against anarchists, which is probably now at the forefront of the minds of any who have read this treatise up till know, is that in the absence of the state, it is impossible to provide any stable order for society. After all, how can a community of individuals subject to no legitimized authority from above, which sets down uniform laws that govern how all may act, provide security and protection for its members, and prevent or solve conflicts? How will they know what to do, and what is to ensure that they do it, if there is no group of people to force them all to a single plan?
 
@@ -469,7 +469,7 @@ An order that is founded on the autonomy of each individual participating in it,
 
 With these general statements in mind, I think it is time to elaborate in more depth how protection and conflict resolution might be provided in a system without laws, given that the description of economic organization given above depends on some kind of coherent, stable order. Keep in mind that the same caveats about 'planning' an anarchist society that I voiced above are in full effect here: this is all speculation, and trying to state that this *must be* how it will turn out, or trying to enforce such a result in an attempt to make it the only 'legitimate' option, would defeat the entire purpose of anarchism in the first place. I am merely presenting what I believe to be the most beneficial and probable methods of providing order to an anarchist society. Even within the context of these projection-suggestions, keep in mind that they will never be, and should never be, the sole source of legitimate decisions. There *is* no legitimacy or illegitimacy under anarchism, only what each individual thinks is correct, because there is no grant of authority to some standard, person, or group of people to decide what everyone says, thinks, or does regarding any matter, and the concept of a single legitimate outcome is a centralizing and hierarchical force itself. In the face of all these caveats, it is nonetheless interesting and sometimes profitable to speculate about how things might be done within the limits of a certain socio-ethical theory, so I will proceed with my analysis.
 
-### 7.2. A Picture of Order
+### A Picture of Order
 
 In the first place, it should be noted that a reciprocal order, once established and understood, is stable in itself: each individual is motivated to continue cooperating with everyone else, even if they are not particularly interested in the cooperation of a specific person, because if they cease cooperation with that person, they might well lose cooperation from others. When they cease cooperation with someone, they run the risk of accruing a negative reputation: others become less sure of positive cooperation on their part being met with positive cooperation, making it less in their interest. If someone does not cooperate with your neighbor when it suits them not to, what is to guarantee that they will cooperate with you?
 
@@ -497,7 +497,7 @@ It should be noted that in such a society, it would profit no one to have prison
 
 Thus we arrive at a patchwork view of social order, where most 'law' is provided by merely the necessity of living with other humans and avoiding, or satisfactorily ending, conflicts. For the most part, institutionalized order will not be necessary, as the Nash equilibrium of social order does its work. Order will reinforce itself, and 'law', as embodied in agreements, will be fluid, built and destroyed as needed, and individualized to the specific relevant case. In the few occasions where such institutions are needed, they will be radically egalitarian and decentralized, ensuring that there is competition and free agreement as much as possible for everyone, and that everyone's interests are represented. This is what I call **the reciprocal order.** As Proudhon says, liberty (autonomy) is "not the daughter, but the mother of order."
 
-## 8. The State and The Reciprocal Order
+## The State and The Reciprocal Order
 
 > Who says government, says negation of the people;<br/>
 > Who says negation of the people, says affirmation of political authority;<br/>
@@ -509,13 +509,13 @@ Thus we arrive at a patchwork view of social order, where most 'law' is provided
 > From which it follows that who says government, says civil war.
 > — Anselme Bellegarrigue
 
-### 8.1. The Law
+### The Law
 
 One of the striking features of the reciprocal order is that in it, everyone's interests are represented; order is preserved and conflicts are resolved on a horizontal plane, between equals, where there is not one single verdict or outcome that is universally true or correct. This is in stark contrast to the law of the State, which is enforced from above: each side appeals to a third party (the State) instead of to each other, and it does not matter what *either* side thinks the correct outcome is, nor what everyone else involved in the conflict thinks the outcome should be; only what the State believes is best matters. It is the State's sole power to perform unilateral action against those it deems 'guilty' without repercussions or consideration for the interests of the guilty party. Often, this hurts all parties to the conflict, since the State, being a representative always ultimately only of itself, and which can enforce whatever it so desires without considering the interests of either person, has no interest in making the victim whole again, in restitution or making life return to a cooperative balance. No, it punishes the 'guilty' party because they have offended it, and makes the victim pay for it, and leaves both the worse for wear. It leaves the 'criminal' with no pathway to joining society again, and therefore little incentive to avoid committing crimes anymore — after all, they will suffer either way, because they are forever marked.
 
 The law of the state is the ultimate violation of autonomy: it descends on all involved, in every case of law, and enforces its will on others without thought for what they want, even when these actions are totally consensual and/or effect no one, and so are not violations of the reciprocal order. It takes property, it gives property, it protects property the very existence of which is a violation of the autonomy of others greater than the autonomy that property represents. It fights wars. It prevents the reciprocal order from forming by preventing people from protecting themselves or others, from constituting alternatives to its enforcement methods. It puts the enforcement of cooperation in respecting autonomy, insofar as it does enforce this instead of violating it, in the hands of people no one consented to do this for them, and prevents other options from forming. The state is the ultimate abomination from the stand point of my two principles.
 
-### 8.2. The State as a Force of Decay and Atomization
+### The State as a Force of Decay and Atomization
 
 One of the important things to realize is that the very existence of the State not only violates the rules of the reciprocal order, but, as touched on in earlier sections, causes it to decay. After all, if your treatment is not up to your neighbors and those you interact with, but is enforced from above (whether you are treated with respect, or punished), one has little interest or care for what others think of you or how you treat them. If you treat someone poorly, and get away with it, *they* may know what you have done, but what can they do to you that the State will not stop? Hence the very existence of a top-down order of Law destroys much of the inherent interest we have in treating each other well, building trust and communities and relationships, outside of the State and what it can enforce, which is surprisingly little when it comes to the actual harm against people. After all, it is in the State's direct interest to enforce the collection of taxes and other such laws that benefit those in power, but as for actually protecting the people? They care little for that; after all, the people will placidly accept pretty much whatever they do, believing in the lie of the legitimacy of the organization that oppresses them. What little they do care for protecting the individual stems from doing just enough to preserve the fictional legitimacy they hold. They have even made this clear:
 
@@ -529,7 +529,7 @@ The State also frays the reciprocal order by its very existence in other ways. F
 
 Without a state already in place to defend property that others have little interest in respecting otherwise, and to give them privileges, monopolies, and subsidies, it will be difficult for anyone to become too rich, especially on the backs of exploited others, and so it will be exponentially more difficult for any one person to become powerful enough to institute a state themselves. Indeed, to become rich, one would need to already be rich in order to put together what is necessary to defend and acquire the riches one intends to gain, unless one really intends to engage in a war against everyone else. Hence, in a society with no respect for authority, and respect for other's autonomy only if it is reciprocated and only if it does not severely curtail their own, it will be almost impossible for Kings, Presidents, or Ministers to ever arise again. Thus, the reciprocal order protects itself.
 
-### 8.3. The State and Culture
+### The State and Culture
 
 Yes, this vision of a possible society as a mesh network of individual peers interacting reciprocally relies on the majority of the people in it sharing certain cultural beliefs concerning legitimacy, authority, and hierarchy. This is not a difficulty unique to an anarchist order, though: all power structures ultimately rest on public opinion. Whatever the public views as illegitimate ultimately crumbles and falls away, and whatever it sees as legitimate is raised up in response. The state cannot exist if its citizens do not placidly submit to its auspices, either crying its praises or mumbling about how it is a 'necessary evil' and there is no other option but to accept it. If its citizens refuse to cooperate with it, to lend it their compliance and their support, it will be paralyzed: it will be a few oligarchs and politicians sitting around a table giving orders futilely to people who will not listen to their ranting and raving. 
 
@@ -551,7 +551,7 @@ Thus the two most common criticisms of anarchism, first that it is dependent on 
 
 This also forms the basis of a response to another common objection to anarchy, as opposed to the state. Under the rule of the state, I hear it said, this or that can be achieved by enough people voting in favor of it. Thus, the state's existence brings about an assurance that certain things can be done. The state can be used to prevent bigotry, to provide for the poor, and other such things. What, under anarchy, can be done? To answer this, it one must realize that someone asking this question is hiding the ball: if there are enough people to *vote* for something, there are enough people to contribute to actually doing it directly. If the majority of society is able to vote successfully to end bigotry — than most of society isn't bigoted. If most of society wants a social safety net, than most of society can organize into a federation of mutual aid organizations to provide for each other. Whatever the democratic state does for the people, it does on the basis of the majority's desire for it to do that thing (that is not to say that it *only* or even *often* does what the people want), and whatever the democratic state can do, the people who vote can do directly.
 
-## 9. Conclusion: Praxis
+## Conclusion: Praxis
 
 > We have arrived at the truth, but most people are still deluded believers in error; therefore, we must educate these people — via lectures, discussions, books, pamphlets, newspapers, or whatever — until  they become converted to the correct point of view. For a minority to  become a majority, a process of persuasion and conversion must take  place — in a word, education.<br/>
 > — Murray Rothbard

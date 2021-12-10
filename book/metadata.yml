@@ -3,8 +3,10 @@ to: latex
 standalone: true
 documentclass: book
 
-papersize:
-- a5
+fontsize: 12pt
+
+numbersections: true
+top-level-division: chapter
 
 pdf-engine: xelatex
 header-includes:
