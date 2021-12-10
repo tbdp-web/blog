@@ -1,0 +1,16 @@
+from: markdown
+to: latex
+standalone: true
+documentclass: book
+
+papersize:
+- a5
+
+pdf-engine: xelatex
+header-includes:
+- \usepackage[Conny]{fncychap}
+- \usepackage{lettrine}
+
+toc: true
+author: "Alexis Dumas"
+title: "Two Principles of Anarchism and Other Essays"
