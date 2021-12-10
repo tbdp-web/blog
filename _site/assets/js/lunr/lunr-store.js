@@ -190,4 +190,10 @@ var store = [{
         "tags": [],
         "url": "/2021/12/05/intolerance.html",
         "teaser": null
+      },{
+        "title": "Why I Am No Longer An Anarcho-Capitalist",
+        "excerpt":"1. A Fundamental Confusion Of Values My primary problem with anarcho-capitalists, as I mentioned in another essay (‘Two Principles of Anarchism’) is that they are fundamentally confused about values. The value at the heart of all libertarian movements is autonomy, often referred to as liberty: the desire to be a...","categories": [],
+        "tags": [],
+        "url": "/2021/12/09/not-ancap.html",
+        "teaser": null
       }]
