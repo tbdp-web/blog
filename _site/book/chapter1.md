@@ -1,3 +1,4 @@
+\pagestyle{fancy}
 # An Introduction to Anarchist Egoism
 
 ## The Problem With 'Objective' Ethics
