@@ -1,6 +1,7 @@
 ---
 published: true
 title: 'The Foundations of Mathematics: My Layman Take'
+tags: ["epistemology"]
 ---
 I've recently had a bit of a revival in my interest in the philosophy of mathematics, and although it's difficult to do the proper research and learning that would be necessary to cover that subject in an adequate amount of detail and with an adequate amount of rigor in my current state, I do think it might be fun to write down some of my main conclusions about the foundations of mathematics that I've come to over the past few years and which I have touched up and improved slightly in the past few days as I've been researching the philosophy of mathematics once more.
 

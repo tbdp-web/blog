@@ -1,6 +1,7 @@
 ---
 published: true
 title: What Is Philosophy?
+tags: ["meta-philosophy"]
 ---
 I recently began a discussion with one of my friends in our Discord server which we agreed to finish in our upcoming philosophy meeting this week, as we intend to begin that tradition again now that I've recovered from a recent setback and I'm feeling study again. However, I'm going to make this short voice dictated article on it just because I had originally intended to make another article, but forgotten the topic on which I'd wanted to do it, but still have the desire to make an article, and this topic is as good as any.
 

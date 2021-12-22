@@ -1,6 +1,6 @@
 ---
 title: "Human Being and the World, Part I"
-tags: ["existentialism-series"]
+tags: ["existentialism", "human-being"]
 
 ---
 

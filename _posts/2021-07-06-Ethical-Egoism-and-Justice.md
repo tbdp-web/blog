@@ -1,7 +1,7 @@
 ---
 title: "Ethical Egoism and Justice"
 date: "2021-07-06 00:05:23"
-
+tags: ["ethics", "egoism"]
 ---
 
 **This is another essay that I hadn't released anywhere else that I'm reproducing here for convenience.**

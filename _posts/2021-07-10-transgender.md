@@ -1,6 +1,7 @@
 ---
 published: true
 title: Linguistic Pragmatism and the Incoherency of Transphobia
+tags: ["lgbtq", "politics", "linguistics"]
 ---
 
 So I have no idea why I'm making a post about this besides the fact that some random commenters on YouTube pissed me off and now I'm going to take out my wrath on my blog for some reason, so enjoy this long unedited and voice dictated rant.

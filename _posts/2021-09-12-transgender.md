@@ -2,6 +2,7 @@
 title: "Transgenderism: A Conversation With My Past (Transphobic) Self"
 toc: true
 published: true
+tags: ["politics", "ethics", "lgbtq"]
 ---
 
 ## Author's Note

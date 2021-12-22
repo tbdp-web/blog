@@ -1,5 +1,6 @@
 ---
 title: The Problem With Presuppositionalism
+tags: ["religion", "presuppositionalism", "epistemology"]
 ---
 
 **This is an essay I wrote awhile ago as a Google Doc, which I'm reposting to this blog because it seems relevant. I haven't looked at it or edited it in awhile, so it's not the most polished or up-to-date version of my philosophy or responses to these things, but I generally stand by it.**
@@ -154,15 +155,17 @@ syllogistic form for clarity, but it's his own words):
 1.  Logical absolutes exist.
 
 2.  Logical absolutes are conceptual by nature --- are not dependent on
+    
     > space, time, physical properties, or human nature.
-
+    
 3.  They are not the product of the physical universe (space, time,
     > matter) because if the physical universe were to disappear,
     > logical absolutes would still be true.
 
 4.  Logical absolutes are not the product of human minds because human
+    
     > minds are different --- not absolute.
-
+    
 5.  But, since logical absolutes are always true everywhere and not
     > dependent upon human minds, it must be an absolute transcendent
     > mind that is authoring them.
@@ -174,6 +177,7 @@ syllogistic form for clarity, but it's his own words):
     > the other position is validated.
 
 8.  Therefore, part of the argument is that the atheist position cannot
+    
     > account for the existence of logical absolutes from its worldview.
 
 I did not feel the need to bring in his longer version, as it suffers
@@ -250,8 +254,9 @@ own. First:
 Logical Absolutes are the result of natural existence.
 
 1.  In what sense are they the result of natural existence? How do
+    
     > conceptual absolutes form as a result of the existence of matter?
-
+    
 2.  How does one chemical state of the physical brain that leads to
     > another physical state of the physical brain produce Logical
     > Absolutes that are not dependent upon the physical brain for their
@@ -263,6 +268,7 @@ Logical Absolutes are the result of natural existence.
     1.  This has not been proven to be true.
 
     2.  It implies that logic is a property of physical matter, but this
+        
         > is addressed in point 5 above.
 
 In response to point one, the logical absolutes are not a direct result
@@ -319,11 +325,13 @@ me to look at his response to that. Here it is, in all its fallacious
 glory:
 
 1.  Logical Absolutes are not found in atoms, motion, heat, under rocks,
+    
     > etc.
-
+    
 2.  Logical Absolutes cannot be photographed, frozen, weighed, or
+    
     > measured.
-
+    
 3.  Logical Absolutes are not the product of the physical universe since
     > that would mean they were contingent on atoms, motion, heat, etc.,
     > and that their nature was dependent on physical existence.
@@ -350,6 +358,7 @@ glory:
         > same time.
 
     3.  Therefore, Logical Absolutes are not dependent on the material
+        
         > world.
 
 In response to point one, yes they are: they are found in the behavior
@@ -476,8 +485,9 @@ can:
 1.  Knowledge is justified true belief.
 
 2.  In order for a belief to be justified, the premises it is based on
+    
     > must be justified.
-
+    
 3.  The laws of logic, and the provisional validity of the senses,
     > cannot be justified without appealing to them, resulting in a
     > circular argument. Therefore, they cannot be justified at all.
@@ -489,11 +499,13 @@ can:
     > premise 2.
 
 5.  Therefore, knowledge is impossible without appealing to an
+    
     > omniscient being, which we call God.
-
+    
 6.  The Christian Bible is the word of an omniscient being, which we
+    
     > call God.
-
+    
 7.  Therefore, knowledge is impossible apart from the Christian Bible.
 
 There are, again, a whole plethora of problems with this argument. First
@@ -617,6 +629,7 @@ fundamental argument goes as follows:
 2.  There is a possibility of assigning truth values to propositions.
 
 3.  Therefore, the Bible is entirely correct on all metaphysical,
+    
     > epistemological, and ethical teachings.
 
 This is basically the prototypical presuppositionalist argument, and it
@@ -1261,13 +1274,15 @@ them, since this is an important part of their black and white fallacy)
 share which assume neither the existence nor non-existence of God:
 
 1.  The provisional validity of the senses in perceiving an external
+    
     > existence
-
+    
 2.  That other minds exist which share our reality
 
 3.  The validity of the laws of logic
 
 4.  The uniformity of nature in the absence of a cause for it not to be
+    
     > uniform
 
 Whether these assumptions are assumed as presuppositions themselves,

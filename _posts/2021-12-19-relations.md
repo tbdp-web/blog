@@ -1,5 +1,6 @@
 ---
 title: "Anarchistic Relations"
+tags: ["anarchism", "ethics", "politics", "mutualism"]
 ---
 
 ## Introduction

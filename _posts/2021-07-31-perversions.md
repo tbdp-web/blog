@@ -1,6 +1,7 @@
 ---
 published: true
 title: 'Christianity: Three Perversions'
+tags: ["religion"]
 ---
 > "This eternal accusation against Christianity I shall write upon all walls, wherever walls are to be found... I call Christianity the one great curse, the one great intrinsic depravity, the one great instinct of revenge, for which no means are venomous enough, or secret, subterranean and small enough, — I call it the one immortal blemish upon the human race..." — Friedrich Nietzsche, The Anti-Christ
 

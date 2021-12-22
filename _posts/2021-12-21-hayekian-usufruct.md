@@ -1,5 +1,6 @@
 ---
 title: A Hayekian Argument For Occupancy-and-Use
+tags: ["mutualism", "ethics", "anarchism", "economics"]
 ---
 
 ## 1

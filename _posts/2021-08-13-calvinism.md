@@ -1,6 +1,7 @@
 ---
 published: true
 title: Why I Hate Calvinism
+tags: ["religion", "presuppositionalism"]
 ---
 ## Do I Just "Love My Sin"?
 

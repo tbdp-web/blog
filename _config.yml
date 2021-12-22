@@ -32,8 +32,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "the-brain-damaged-philosopher"

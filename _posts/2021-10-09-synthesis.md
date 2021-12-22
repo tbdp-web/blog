@@ -1,6 +1,7 @@
 ---
 title: "Synthesis Libertarianism: A Manifesto"
 toc: true
+tags: ["politics", "ethics", "lgbtq"]
 ---
 
 ## 1. Introduction

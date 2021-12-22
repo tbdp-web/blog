@@ -1,5 +1,6 @@
 ---
 title: Egoism and Game Theory Speculation
+tags: ["ethics", "egoism", "politics"]
 ---
 
 One thing I've been thinking about recently is game theory and how it affects the dominant strategy of a materialistic/simplistic egoist with regards to harming others, as well as how Nash equilibria affect the general outcome of the society composed of such egoists. I haven't been able to rigorously do the game theory, decision theory, and mathematics necessary to come to a certain and rigorous conclusion about these things, but I can put some of my rambling thoughts here so that I can have something somewhere to keep my notes on it.

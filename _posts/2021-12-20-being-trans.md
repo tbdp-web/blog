@@ -1,5 +1,6 @@
 ---
 title: "The Ontology of Being Trans"
+tags: ["lgbtq", "ontology", "politics"]
 ---
 
 ## 1. Introduction

@@ -1,6 +1,7 @@
 ---
 published: true
 title: Abiogenesis Back Of the Napkin Calculations
+tags: ["science", "religion"]
 ---
 > Although the chosen values are spectacularly approximate, the linear nature of the equation ensures that variations in any factors by even a few orders of magnitude do little to alter the basic outcome. In the scenarios considered, the abiogenesis probability per unit time per set of building blocks is found to range from Pa∼10−36, Pa∼10−36 to Pa∼10−30Pa∼10−30, with a value of Pa<10−33Pa<10−33 being broadly compatible with the specific case of the Earth. Thus, in this case, Eq. 1 indicates that a very small assembly probability per unit time could in principle be compensated for by the large scale of a planetary “search engine” —readily producing at least one abiogenesis event within a geologically appropriate timespan. ([1](https://www.pnas.org/content/113/29/8127 "citation 1"))
 

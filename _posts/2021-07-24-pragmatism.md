@@ -1,6 +1,7 @@
 ---
 title: "The Two Kinds of Pragmatism"
 published: true
+tags: ["epistemology"]
 ---
 
 So I recently listened to the chapter on William James that Bertrand Russell wrote in his book *A History of Western Philosophy*, And it's prompted me to consider exactly where my theory of pragmatism, insofar as my epistemology is adjacent to pragmatism, differs from the pragmatism of William James. After all, there are some very significant differences between my views and James's, ones that I think get at the core of both our different conclusions and our different approaches to constructing philosophy in the first place, and differences that I think get at the core of the difference between my approach to epistemology and philosophy and the approach to epistemology and philosophy of many other pragmatists, including and especially religious pragmatists of the vein that James was and Jordan Peterson now is.

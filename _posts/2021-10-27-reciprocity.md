@@ -1,7 +1,7 @@
 ---
 title: "Two Principles of Anarchism"
 toc: true
-tags: ["ethics", "anarchism", "mutualism"]
+tags: ["ethics", "anarchism", "mutualism", "politics", "economics"]
 ---
 
 ## 1. Introduction

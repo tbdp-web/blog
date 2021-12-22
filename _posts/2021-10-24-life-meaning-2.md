@@ -1,6 +1,6 @@
 ---
 title: "Human Being and the World, Part II"
-tags: ["existentialism-series"]
+tags: ["human-being", "existentialism", "nihilism", "ethics", "religion"]
 toc: true
 ---
 

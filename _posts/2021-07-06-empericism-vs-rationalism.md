@@ -1,6 +1,6 @@
 ---
 title: "Empiricism Versus Rationalism, Philosophical Bayesian Priors"
-
+tags: ["epistemology"]
 ---
 
 **From a conversation I had earlier today, verbatim except for minor grammatical edits.**

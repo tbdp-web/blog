@@ -1,5 +1,6 @@
 ---
 title: The Paradox of Intolerance Resolved
+tags: ["lgbtq", "politics", "ethics"]
 ---
 
 One of the common refrains you will here from the conservative/anti-SJW/'politically incorrect' sphere is that progressives are just as intolerant as they are, just of different things. While conservatives are intolerant of other lifestyles, other races, LGBTQ+ people, immigrants, and so on, progressives are just as intolerant of bigots, racists, sexists, and authoritarians. They are equally intolerant, just of different things. There's something crucially wrong with this statement, however, and in this post I want to briefly analyze what it is.
