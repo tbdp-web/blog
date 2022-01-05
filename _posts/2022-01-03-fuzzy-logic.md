@@ -61,7 +61,7 @@ There are other ways to measure the complexity of a theory than counting the num
 
 Since all of these have to do with different components of the overall propositional complexity, then you can either sum them up or multiply them (as the case requires for the individual aspect) without fear of double-counting. IF there are any other aspects of the complexity of a theory that are left out, you can also add those in. In essence, then, you can look at the complexity of a theory as a mathematical equation, like this:
 
-![img]("https://tbdp-web.github.io/blog/assets/math1.png")
+![img](https://tbdp-web.github.io/blog/assets/math1.png)
 
 Then just add in any variables or values you should to capture other parts of the propositional complexity not dealt with by the variables in the table above.
 
@@ -89,7 +89,7 @@ This theorem is applied recursively: for each no experience, the *posterior* pro
 
 I should actually clarify something I said above: the prior probability of a theory is not *literally* 100% minus the complexity of a theory. That would imply all kinds of strange things, especially since the default needs to be *not* believing in a theory and that would imply that even before any evidence, if a theory is simple enough we should have a high credence in it. Instead, credence should start out at 50% — essentially agnostic to the truth or falsity of a theory, and then the complexity of a theory should (through some log function probably, to avoid an absolutely zero starting credence for a non-infinitely complex theory) subtract from that starting credence value. So something like this:
 
-![img]("https://tbdp-web.github.io/blog/assets/math2.png")
+![img](https://tbdp-web.github.io/blog/assets/math2.png)
 
 Then, in order to have the probabilities weigh against each other proportionately, instead of having the complexity weigh less than it should, each adjustment of the evidence in favor of a theory should also be decreased by the corresponding (reversal of) the logarithm of the complexity of the theory. That way the inherent improbability of a theory is weighed equally against the probability benefits that evidence brings to it, but this does not lead to a zero or negative prior probability, or to positive evidence weighing against the theory. To sum this up in a verbal way that doesn't require mathematics: you should never start more than agnostic to a theory, either in the positive or negative direction, but your starting places should be heavily informed by how complex the theory is to start with; and positive evidence should always weigh in a theory's favor, but it should weigh much less in favor of a more complex theory than a simpler one that also predicted that evidence.
 

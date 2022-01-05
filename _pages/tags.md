@@ -9,7 +9,7 @@ permalink: "/tags/"
   <ul>
     {% for post in tag[1] %}
       <li>
-          <a href="/blog/{{ post.url }}">
+          <a href="{{ post.url }}">
               <span style="color:black;font-family: 'Architects Daughter';" >{{post.title}}</span>
           </a>
       </li>
