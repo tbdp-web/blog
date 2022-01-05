@@ -1,13 +1,11 @@
 ---
-title: "Transgenderism: A Conversation With My Past (Transphobic) Self"
+title: "Understanding Being Transgender: A Conversation With My Past (Transphobic) Self"
 toc: true
 published: true
 tags: ["politics", "ethics", "lgbtq"]
 ---
 
-## Author's Note
-
-Since I wrote this article, I have realized that I myself am a trans girl. That obviously had a deep effect on how I viewed what I wrote here, and a lot of it is due for revision. Please keep that in mind if you read this.
+Since I wrote this article, I have realized that I myself am a trans girl. That obviously had a deep effect on how I viewed what I wrote here, and a lot of it is due for revision. Please keep that in mind if you read this. Some of my more recent thoughts can be found in a later blog post, ['The Ontology of Being Trans'](https://blog.alexisdumas.org/2021/12/20/being-trans.html) — A.D.
 
 ## Introduction
 
