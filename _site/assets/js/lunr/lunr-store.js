@@ -5,22 +5,10 @@ var store = [{
         "url": "/2021/06/08/afraid.html",
         "teaser": null
       },{
-        "title": "A Short Criticism of Solipsistic Skepticism",
-        "excerpt":"My own views on solipsistic skepticism, besides the point that it is incredibly unpragmatic to hold that view and completely useless in almost any way that one could define “use”, is that solipsistic skepticism could never be falsified, since it could be adapted to fit any evidence of the reason...","categories": [],
-        "tags": ["epistemology"],
-        "url": "/2021/06/09/solipsism.html",
-        "teaser": null
-      },{
         "title": "Aphorisms On Religion, Tyranny, and Nihilism",
         "excerpt":"1 Many seem to think that the only antidote to nihilism is tyranny: tyranny of the political sphere — after the mold of fascist Germany and Italy, which sought to repair the social fabric through the enforcment of a common culture, set of values, and religion — or, what is...","categories": [],
         "tags": ["nihilism","politics","religion","atheism"],
         "url": "/2021/06/28/on-religion-tyranny-and-nihilism.html",
-        "teaser": null
-      },{
-        "title": "Empiricism Versus Rationalism, Philosophical Bayesian Priors",
-        "excerpt":"From a conversation I had earlier today, verbatim except for minor grammatical edits. Empiricism Versus Rationalism So I’ve been thinking about empiricism versus rationalism again because of how useful a tool I’ve found Bayesian reasoning to be, and because, at least in my own epistemology, deduction is just a form...","categories": [],
-        "tags": ["epistemology"],
-        "url": "/2021/07/06/empericism-vs-rationalism.html",
         "teaser": null
       },{
         "title": "Foundationalism and Presuppositionalism",
@@ -53,46 +41,16 @@ var store = [{
         "url": "/2021/07/09/convo.html",
         "teaser": null
       },{
-        "title": "Egoism and Game Theory Speculation",
-        "excerpt":"One thing I’ve been thinking about recently is game theory and how it affects the dominant strategy of a materialistic/simplistic egoist with regards to harming others, as well as how Nash equilibria affect the general outcome of the society composed of such egoists. I haven’t been able to rigorously do...","categories": [],
-        "tags": ["ethics","egoism","politics"],
-        "url": "/2021/07/09/game-theory.html",
-        "teaser": null
-      },{
         "title": "Linguistic Pragmatism and the Incoherency of Transphobia",
         "excerpt":"So I have no idea why I’m making a post about this besides the fact that some random commenters on YouTube pissed me off and now I’m going to take out my wrath on my blog for some reason, so enjoy this long unedited and voice dictated rant. To all...","categories": [],
         "tags": ["lgbtq","politics","linguistics"],
         "url": "/2021/07/10/transgender.html",
         "teaser": null
       },{
-        "title": "My Post Concussion Serious Reading List",
-        "excerpt":"This is a list of various books and essays that are at the absolute top of my list as far as being things I’m interested in reading. They’re in no particular order except the order I thought of them in, though. Books A Treatise of Human Nature The Nichomachean Ethics...","categories": [],
-        "tags": [],
-        "url": "/2021/07/10/your-filename.html",
-        "teaser": null
-      },{
         "title": "Abiogenesis Back Of the Napkin Calculations",
         "excerpt":"Although the chosen values are spectacularly approximate, the linear nature of the equation ensures that variations in any factors by even a few orders of magnitude do little to alter the basic outcome. In the scenarios considered, the abiogenesis probability per unit time per set of building blocks is found...","categories": [],
         "tags": ["science","religion"],
         "url": "/2021/07/11/abiogenesis.html",
-        "teaser": null
-      },{
-        "title": "Well Fucking Hell",
-        "excerpt":"Damn, Christianity is a helluva drug. I’ve long been obsessed with the Objectivist idea of integration, specifically as it leads to the almost moral imperative that we have to eliminate cognitive dissonance from our psychology. Essentially, if we cannot make our actions, beliefs, and self-identity cohere into a unified, rational,...","categories": [],
-        "tags": ["lgbtq"],
-        "url": "/2021/07/12/bisexual.html",
-        "teaser": null
-      },{
-        "title": "The Principle of Phenomenological Conservatism",
-        "excerpt":"My response (in a YouTube comment) to a criticism of G.E. Moore in a podcast which I thought was silly. I haven’t read GE Moore’s papers on this subject as of yet, but I’ve researched this argument, especially in the context of the rest of his beliefs, and I think...","categories": [],
-        "tags": ["epistemology"],
-        "url": "/2021/07/13/ge-moore.html",
-        "teaser": null
-      },{
-        "title": "The Foundations of Mathematics: My Layman Take",
-        "excerpt":"I’ve recently had a bit of a revival in my interest in the philosophy of mathematics, and although it’s difficult to do the proper research and learning that would be necessary to cover that subject in an adequate amount of detail and with an adequate amount of rigor in my...","categories": [],
-        "tags": ["epistemology"],
-        "url": "/2021/07/13/mathematics.html",
         "teaser": null
       },{
         "title": "Fuck the NYT",
@@ -111,12 +69,6 @@ var store = [{
         "excerpt":"So I recently listened to the chapter on William James that Bertrand Russell wrote in his book A History of Western Philosophy, And it’s prompted me to consider exactly where my theory of pragmatism, insofar as my epistemology is adjacent to pragmatism, differs from the pragmatism of William James. After...","categories": [],
         "tags": ["epistemology"],
         "url": "/2021/07/24/pragmatism.html",
-        "teaser": null
-      },{
-        "title": "Reddit Comment on Egoistic Ethics",
-        "excerpt":"A comment I made recently on Reddit that has a nice summary of how I think virtues and character works for egoists: I agree with this. Importantly, too, if you realize that in most cases virtuous actions have the better payoff matrix, you’ll want to built up habits of acting...","categories": [],
-        "tags": ["egoism","ethics"],
-        "url": "/2021/07/31/habits.html",
         "teaser": null
       },{
         "title": "Christianity: Three Perversions",
@@ -143,26 +95,14 @@ var store = [{
         "url": "/2021/08/26/philosophy.html",
         "teaser": null
       },{
-        "title": "Setting Priors 2.0",
-        "excerpt":"I was watching a video from digital gnosis about the Bayesian approach that the McGrews used to attempt to prove the historicity of the resurrection of Jesus Christ of Nazareth, and I decided to construct a little guide on how to set your priors properly in a philosophical discussion, since...","categories": [],
-        "tags": ["epistemology"],
-        "url": "/2021/08/29/priors.html",
-        "teaser": null
-      },{
-        "title": "The Consequentialist Component of My Ethical System",
-        "excerpt":"Introduction In this essay, I’m going to discuss the consequentialist component of my ethical system, which has heretofore been neglected quite significantly. I discuss it a little bit in a recent Crunchy Thoughts podcast, which I highly recommend you listen to for some context on what prompted this essay and...","categories": [],
-        "tags": ["ethics"],
-        "url": "/2021/09/07/foo.html",
-        "teaser": null
-      },{
         "title": "Meme Theory and Religion",
         "excerpt":"Introduction Conservatively minded people often try to justify an institution, belief, or practice using evolutionary arguments. For example, they would look at something like religion and argue that since it has been around for so long it must be advantageous to humanity, otherwise it would not still be around. A...","categories": [],
         "tags": ["religion"],
         "url": "/2021/09/11/memes.html",
         "teaser": null
       },{
-        "title": "Transgenderism: A Conversation With My Past (Transphobic) Self",
-        "excerpt":"Author’s Note Since I wrote this article, I have realized that I myself am a trans girl. That obviously had a deep effect on how I viewed what I wrote here, and a lot of it is due for revision. Please keep that in mind if you read this. Introduction...","categories": [],
+        "title": "Understanding Being Transgender: A Conversation With My Past (Transphobic) Self",
+        "excerpt":"Since I wrote this article, I have realized that I myself am a trans girl. That obviously had a deep effect on how I viewed what I wrote here, and a lot of it is due for revision. Please keep that in mind if you read this. Some of my...","categories": [],
         "tags": ["politics","ethics","lgbtq"],
         "url": "/2021/09/12/transgender.html",
         "teaser": null
@@ -189,12 +129,6 @@ var store = [{
         "excerpt":"1. Introduction Up to now the victories of justice over injustice and of equality over inequality have been won by instinct and the simple force of things, but the final triumph of our social nature will be due to our reason, or else we shall fall back into feudal chaos....","categories": [],
         "tags": ["ethics","anarchism","mutualism","politics","economics"],
         "url": "/2021/10/27/reciprocity.html",
-        "teaser": null
-      },{
-        "title": "The Paradox of Intolerance Resolved",
-        "excerpt":"One of the common refrains you will here from the conservative/anti-SJW/’politically incorrect’ sphere is that progressives are just as intolerant as they are, just of different things. While conservatives are intolerant of other lifestyles, other races, LGBTQ+ people, immigrants, and so on, progressives are just as intolerant of bigots, racists,...","categories": [],
-        "tags": ["lgbtq","politics","ethics"],
-        "url": "/2021/12/05/intolerance.html",
         "teaser": null
       },{
         "title": "An Introduction to Anarchist Egoism",
@@ -225,5 +159,53 @@ var store = [{
         "excerpt":"1 Occupancy-and-use is the term given by anarchist theory to a vague collection of property norms focused around the idea that the right1 to use a thing, to determine what happens to it, and determine the conditions of its transfer, etc, should be assigned to those who actually do use...","categories": [],
         "tags": ["mutualism","ethics","anarchism","economics"],
         "url": "/2021/12/21/hayekian-usufruct.html",
+        "teaser": null
+      },{
+        "title": "Property Provisos",
+        "excerpt":"1 One of the particularly interesting threads from ‘Anarchistic Relations’ that I wanted to follow more was that a set of limitations on property were a natural outgrowth of property based on egoistic reciprocity. To recap: Essentially, if we take the idea that generally speaking people want to be able...","categories": [],
+        "tags": ["politics","ethics","anarchism","egoism","rawls"],
+        "url": "/2021/12/24/difference-principle.html",
+        "teaser": null
+      },{
+        "title": "Moral Persuasion",
+        "excerpt":"1 In my previous article on egoism, ‘An Introduction to Anarchist Egoism,’ I stated that all normativity ultimately breaks down to desire, and therefore that moral statements are expressions of desire alienated from their actual origin and source of force (the individual), or, secondarily and derivatively, prescriptive statements about what...","categories": [],
+        "tags": ["egoism","ethics"],
+        "url": "/2021/12/27/non-cog.html",
+        "teaser": null
+      },{
+        "title": "Cops, Vigilantes, and Protection",
+        "excerpt":"1 There is a fine line between the defense of oneself and others, which is proper to anarchistic relations, and the exercise of authority which (when unleashed) is paradigmatic of police. This is not to say that there is a fine line between reciprocal anarchistic relations and the state’s jackbooted...","categories": [],
+        "tags": ["ethics","anarchism","politics"],
+        "url": "/2021/12/29/protection.html",
+        "teaser": null
+      },{
+        "title": "Going Back to School",
+        "excerpt":"1 It’s New Year’s Eve. I’m sitting on the couch, sunlight falling in slanted lines across my legs, browsing on my phone. My right eyelid is twitching constantly, and it’s extremely distracting. It’s been doing it since yesterday morning; I think it’s the stress. You see, that first sentence only...","categories": [],
+        "tags": [],
+        "url": "/2021/12/31/afraid.html",
+        "teaser": null
+      },{
+        "title": "Possession Versus Absentee Property",
+        "excerpt":"1 In this post, I’m just going to try to explain, as succinctly as possible, the important differences between possession and absentee property (generally just referred to as “property” by Proudhon, e.g. “property is theft”). I’ve covered this distinction several times before, but I think I’ve boiled it down enough...","categories": [],
+        "tags": ["anarchism","ethics","politics"],
+        "url": "/2022/01/01/pvp.html",
+        "teaser": null
+      },{
+        "title": "Abortion and Individualist Anarchism: Why Pro-Choice Is The Only Choice",
+        "excerpt":"1 Ever since I first began my journey towards anarchism, my views on abortion have been in a constant state of flux — multiple conflicting intuitions and considerations all pulling my values in different directions, while the prevailing winds of my evolving moral system changed which were foremost in my...","categories": [],
+        "tags": ["ethics","politics","feminism","anarchism"],
+        "url": "/2022/01/03/abortion.html",
+        "teaser": null
+      },{
+        "title": "An Introduction to Fuzzy Pragmatist Bayesian Epistemology",
+        "excerpt":"1. Introduction The goal of pragmatist epistemology is not to arrive at absolute truth, at certain knowledge about the universe, or any of the other goals which have occupied philosophers across the millennia. It has a more humble goal: to help human beings achieve our goals in a world that...","categories": [],
+        "tags": ["epistemology","pragmatism"],
+        "url": "/2022/01/03/fuzzy-logic.html",
+        "teaser": null
+      },{
+        "title": "What Is Individualist Anarchism?",
+        "excerpt":"“Infernal world! and thou, profoundest Hell, Receive thy new possessor—one who brings A mind not to be changed by place or time. The mind is its own place, and in itself Can make a Heaven of Hell, a Hell of Heaven. What matter where, if I be still the same,...","categories": [],
+        "tags": ["anarchism","ethics","politics","mutualism"],
+        "url": "/2022/01/17/what-is-individualist-anarchism.html",
         "teaser": null
       }]

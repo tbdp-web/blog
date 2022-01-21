@@ -7,15 +7,19 @@
 }
 
 .greedy-nav {
-    background-color: #A68 !important;
+    background-color: #111 !important;
 }
 
 .masthead__inner-wrap {
-    background-color: #A68 !important;
+    background-color: #111 !important;
 }
 
 .masthead {
-    background-color: #A68 !important;
+    background-color: #111 !important;
+}
+
+.navicon::before, .navicon, .navicon::after {
+    background: #FF7900;
 }
 
 .site-title {
@@ -26,16 +30,24 @@
     color: #fff !important;
 }
 
+.hidden-links > .masthead__menu-item > a {
+    color: #111 !important;
+}
+
 .search__toggle {
-    color: #EE88BB;
+    color: #FF7900;
+}
+
+.search__toggle:hover {
+    color: #EE6800;
 }
 
 .greedy-nav .visible-links a::before {
-    background: #EE88BB;
+    background: #FF7900;
 }
 
 .toc .nav__title {
-    background: #EE88BB;
+    background: #FF7900;
 }
 
 .page__content > p, .page__content > blockquote {
