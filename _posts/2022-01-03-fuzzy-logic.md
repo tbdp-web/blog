@@ -1,5 +1,5 @@
 ---
-title: "An Introduction to Fuzzy Pragmatist Bayesian Epistemology"
+title: An Introduction to Fuzzy Pragmatist Bayesian Epistemology
 tags: ["epistemology", "pragmatism"]
 ---
 

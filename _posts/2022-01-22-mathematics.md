@@ -1,7 +1,6 @@
 ---
 title: Logic and Mathematics
 tags: ["mathematics", "epistemology"]
-published: false
 ---
 
 > “Contrariwise”, continued Tweedledee, “if it was so, it might be, and if it were so, it would be; but **as it isn't, it ain't.** **That's logic!**” — Lewis Carroll, *Through the Looking-Glass*
@@ -59,6 +58,12 @@ This principle describes the methods by which the implications of a meaningful p
 To return to my original point about logic, logic cannot be justified, but as I have explained, and you have just seen, it is nevertheless inescapable for any thinking (let alone acting and communicating) human being. This means that while it is impossible to justify it according to the principles usually used for justification (which use logic), there is a sort of **meta**-justification for the use of logic, and strict adherence to it, to be had. If it is inescapable, better to document that it is a presupposition implied by all thought and argument, document how it works, and apply it consistently.
 
 Formal systems of logic (including classical Aristotelian logic) are ways of encapsulating the principles of meaning and derivation I described above and working through their implications; they, like math (as I will discuss below) are human constructions, and can be modified as we discover new things about how meaning works, and what types of implications are likely to consistently lead to positive results, as opposed to what are not (this is why we have to build up a list of fallacies, and some moves in logic were recognized as valid for a long time before being discovered not to work). These formal systems of logic are justified only inasmuch as they approximate well how meaning actually works, and therefore inherent the meta-justification of logic (in the abstract, meaning) itself.
+
+### 2.3 Logic and Experience
+
+So, logic is the inescapable precondition for meaning and comprehensibility for the human mind. That, already, is reason enough for it to be useful and important to understand; after all, if one wants to communicate or convince others, logic is a crucial component of doing that. Nevertheless, there is another crucial reason that logic is important. It, like mathematics, is a useful way of breaking down and understanding our world. There may be things in our world that are simply brute facts, or fundamentally random — in fact, I actively believe that there are such things — and so are in a sense beyond human logic, but because logic is the precondition for comprehensibility, it functionally defines the limits of the reality we inhabit. Reality, for us, will always at some level obey logic. For instance, although a brute fact or a truly random event cannot be "explained" or "justified" through logic, it nevertheless can be described by logic, because it does not violate logic by for instance having contradictory properties or implications for the rest of our experience.
+
+I think that we develop logic, both through experience and from the structure of our brains itself, because it is a reasonable facsimile of the basic building blocks of how reality works. As long as logic continues to be useful for us in that way, as it has so far been, we can continue to try to use it. And should we be confronted with an experience that is truly beyond logic — some eldritch cosmic horror, perhaps — we will deal with that eventuality when we arrive there. But so far logic has turned out to be extremely useful, and we have never yet found something that completely violates it, nor would we even know how to understand, act on, or make sense of a statement that violated it, so if someone asks you to abandon logic, ask them why. The answer you receive will be fascinating either way: either it will use logic in an attempt to convince you to abandon it, further demonstrating the necessity of logic, or it will use logic to undermine itself in an actually valid way (somehow) in which case you have learned something crucial and important.
 
 ## 3. Mathematics
 
