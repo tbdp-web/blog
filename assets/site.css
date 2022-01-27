@@ -145,7 +145,6 @@ sup > a, p > a:hover {
 form {
     border-radius: 10px;
     box-shadow: 0 2px 6px 0 rgba(0,0,0,0.2);
-    background: rgb(238, 136, 187, 0.1);
 }
 
 .page__content > p:first-of-type:first-letter {
@@ -155,21 +154,3 @@ form {
   line-height: 0.65;
   margin: 0.1em 0.1em 0.1em 0;
 }
-
-.flag {
-    display: inline-box;
-    width: 57;
-    height: 30;
-}
-
-.transgender {
-	background: linear-gradient(180deg, #5BCEFA 20%, #F5A9B8 20%, 40%, #FFFFFF 40%, 60%, #F5A9B8 60%, 80%, #5BCEFA 80%);
-}
-
-.lesbian {
-	background: linear-gradient(180deg, #A60061 14.285%,
-		#B95393 14.285%, 28.57%, #D260A7 28.57%, 42.855%,
-		#EDEDEB 42.855%, 57.14%, #E5ABD0 57.14%, 71.425%,
-		#C74D52 71.425%, 85.71%, #8C1D00 85.71%);
-}
-
