@@ -208,4 +208,16 @@ var store = [{
         "tags": ["anarchism","ethics","politics","mutualism"],
         "url": "/2022/01/17/what-is-individualist-anarchism.html",
         "teaser": null
+      },{
+        "title": "Logic and Mathematics",
+        "excerpt":"“Contrariwise”, continued Tweedledee, “if it was so, it might be, and if it were so, it would be; but as it isn’t, it ain’t. That’s logic!” — Lewis Carroll, Through the Looking-Glass 1. Introduction In my previous blog post I introduced what I call fuzzy pragmatist Bayesian epistemology. To summarize,...","categories": [],
+        "tags": ["mathematics","epistemology"],
+        "url": "/2022/01/22/mathematics.html",
+        "teaser": null
+      },{
+        "title": "A Fuzzy Bayesian Analysis of Argumentation",
+        "excerpt":"1 Now that I’ve finally gotten around to writing out some of the more fundamental components of my epistemology,1 I can at last proceed to writing one of the articles that I’ve been planning to do pretty much since I started writing on this blog months ago: a fuzzy Bayesian...","categories": [],
+        "tags": ["logic","epistemology"],
+        "url": "/2022/01/26/bayesian-analysis-of-argument.html",
+        "teaser": null
       }]

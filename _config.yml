@@ -1,5 +1,9 @@
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
-plugins: ["jekyll-include-cache", "jekyll-feed"]
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+
 include: ["_pages"]
 
 logo: https://www.gravatar.com/avatar/cf9d2998c0d9cb26334028f72185fe38

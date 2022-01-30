@@ -1,0 +1,778 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>A Fuzzy Bayesian Analysis of Argumentation - Luciferian Locutions</title>
+<meta name="description" content="1">
+
+
+  <meta name="author" content="Alexis Purslane">
+  
+  <meta property="article:author" content="Alexis Purslane">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Luciferian Locutions">
+<meta property="og:title" content="A Fuzzy Bayesian Analysis of Argumentation">
+<meta property="og:url" content="http://localhost:4000/2022/01/26/bayesian-analysis-of-argument.html">
+
+
+  <meta property="og:description" content="1">
+
+
+
+
+
+
+
+  <meta property="article:published_time" content="2022-01-26T00:00:00-05:00">
+
+
+
+
+
+
+<link rel="canonical" href="http://localhost:4000/2022/01/26/bayesian-analysis-of-argument.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": null,
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Luciferian Locutions Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+    <link rel="stylesheet" href="/assets/site.css"/>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  </head>
+
+  <body class="layout--single">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/"><img src="https://www.gravatar.com/avatar/cf9d2998c0d9cb26334028f72185fe38" alt="Luciferian Locutions"></a>
+        
+        <a class="site-title" href="/">
+          Luciferian Locutions
+          <span class="site-subtitle">'Tis better to reign in Hell...</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/year-archive/">Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/">Tags</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about/">About</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+        <img src="https://www.gravatar.com/avatar/cf9d2998c0d9cb26334028f72185fe38" alt="Alexis Purslane" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Alexis Purslane</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>I am a mutualist, existentialist atheist, transgender philosopher with chronic tension headaches, OCD, autism, and (probably) bipolar. I am currently getting a Bachelor’s in Computer Science with a minor in philosophy at Penn State University.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+        
+          
+            <li><a href="https://alexisdumas.org" rel="nofollow noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span class="label">Business Website</span></a></li>
+          
+        
+          
+            <li><a href="https://en.pronouns.page/@Alexis__1" rel="nofollow noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span class="label">Pronouns and LGBT Info</span></a></li>
+          
+        
+          
+            <li><a href="https://github.com/alex-dumas" rel="nofollow noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+          
+        
+          
+            <li><a href="https://www.reddit.com/user/mammon-of-lilith" rel="nofollow noopener noreferrer"><i class="fas fa-link" aria-hidden="true"></i><span class="label">Reddit (I make a lot of long and in-depth comments)</span></a></li>
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="A Fuzzy Bayesian Analysis of Argumentation">
+    <meta itemprop="description" content="1">
+    <meta itemprop="datePublished" content="2022-01-26T00:00:00-05:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">A Fuzzy Bayesian Analysis of Argumentation
+</h1>
+          
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          16 minute read
+        
+      </span>
+    
+  </p>
+
+
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+        <h2 id="1">1</h2>
+
+<p>Now that I’ve finally gotten around to writing out some of the more fundamental components of my epistemology,<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> I can at last proceed to writing one of the articles that I’ve been planning to do pretty much since I started writing on this blog months ago: a fuzzy Bayesian analysis of deductive philosophical argumentation. This was inspired in part by a <a href="https://www.youtube.com/watch?v=ybUW693C8UY">discussion</a> of how arguments work on the part of Dr. Graham Oppy. In that interview, he discusses how deductive arguments in philosophy are actually far less effective than they are typically supposed to be, at least in more classically-inclined circles (e.g. philosophy of religion). When I heard him talk about that, I immediately realized that what he was saying could easily be formalized by an application of Bayes’ rule, and that this would serve to demonstrate the strength and coherence of his more holistic theory-focused approach to philosophy as a separate method from the traditional deductive approach.</p>
+
+<p>Therefore, the goals of this essay are, first, to do an analysis of the structure of deductive arguments in Bayesian and pragmatic terms; second, on the basis of this analysis, assess the efficacy and pitfalls of such deductive arguments; and finally, third, to sketch an alternative approach to philosophical argumentation, based on comparing holistic theories on the basis of intellectual cost and explanatory power, and compare the pros and cons of that approach with the traditional argumentative approach.</p>
+
+<h2 id="2">2</h2>
+
+<p>An argument typically takes the form of a set of premises, which are logical propositions that are supported by further argumentation or evidence, and a conclusion, which is also a logical proposition, derived by the rules of the logical system being used from the foregoing premises. An argument is <strong>valid</strong> if the conclusion <em>would</em> follow from the premises <em>if</em> they were true, while an argument is <strong>sound</strong> if the premises are true. An example of a valid and sound argument, according to the definitions given above, would be something like this:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Proposition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>All women are mortal</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Alexis is a woman</td>
+    </tr>
+    <tr>
+      <td>∴</td>
+      <td>Alexis is mortal</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Here, there are two premises and one conclusion, and the conclusion follows from the premises according to certain logical rules of inference. Furthermore the premises are true (so far as I am aware!). Therefore, this is an argument, and it is both valid and sound. Arguments can be represented in various notations, with various rules of inference, from classical Aristotalian logic to modal logic; in this essay I will be using propositional logic translated into English, primarily in the interest of easier typesetting and reading for those not used to mathematical logic, but also because the ins and outs of logical systems and notation are not really relevant to the more general analysis of logical arguments I am attempting to do, surprising as that may seem.</p>
+
+<p>Typically, when dealing with deductive arguments in philosophy, the premises are taken to be either true or false, and by extension the argument is either sound or unsound, the conclusion either demonstrated or undemonstrated. The problem with this approach is that, although it is reasonable to assume that, concerning the objective state of the world, propositions are either descriptive of it or not descriptive of it, within the limits of human knowledge propositions can never be taken to be binary like that. We can never be absolutely certain of the truth or falsity of a proposition about the external world, and pretending that we can for the sake of constructing an argument is likely to lead to error. We instead should apportion our level of certainty in a proposition (premise) according to the level of evidence we have for it and its inherent improbability, which means that we should have a spectrum of credence levels about propositions, not just a binary true/false judgment concerning them. Furthermore, if we have uncertain credence levels in the premises of an argument, the conclusion of that argument, whose truth is <em>derived</em> from a combination of those premises, should have a credence level proportional to the chance that all of the premises are true.</p>
+
+<p>This has two implications for the form that philosophical arguments take. First of all, anyone reading an argument should plug in their confidence levels in each of the premises and multiply them together to ascertain how confident they should be in the conclusion of the argument algorithmically. Second of all, if the purpose of the argument is to establish the truth of its conclusion, instead of merely establish a relation between the premises and their conclusion, then the premises themselves need to be proven sound, and as an extension, confidence levels must be provided by the author of the argument for the premises, to encapsulate how well-evidenced they think the inputs to their argument are, to justify the confidence they have in the truth of the conclusion.</p>
+
+<p>In light of all this, the proper form that a philosophical argument should take is something like this:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Proposition</th>
+      <th>Credence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>…</td>
+      <td>60%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>…</td>
+      <td>78%</td>
+    </tr>
+    <tr>
+      <td>∴</td>
+      <td>…</td>
+      <td>47%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>There is just one problem with the format of this argument: it doesn’t take into account the inherent improbability of the conclusion and the other evidence that might be available for or against the conclusion, including other arguments for or against the conclusion. It treats the argument as an epistemic island, isolated from everything else. This is obviously wrong, since arguments such as <em>reductio ad absurdum</em>, where, by valid argument, an absurd conclusion is drawn from supposedly sound premises, thereby demonstrating that one of those premises must actually be false, are a recognized form of argumentation. If a <em>reductio</em> is to work, knowledge about the plausibility or credibility of a conclusion must be drawn from <em>outside</em> the sphere of the one argument that is being made, either from other available evidence, or from inherent improbability (metaphysical or epistemic cost) of the conclusion itself.</p>
+
+<p>To demonstrate the statistical validity of the <em>reductio</em> in a fuzzy Bayesian framework, we just need to realize that if you are looking at an individual argument (if there is only one argument for a certain proposition instead of a set of them), if the prior probability of the proposition in the conclusion is low enough, even if it is still greater than 50%, it can be a good idea to look through the list of premises and see if there are one or more premises that would cost less to reject than it would cost to accept the conclusion. For instance, if there is a premise that is more likely wrong than the conclusion is likely to be true given the prior probability, even if in a vacuum both are more likely to be true than not, your overall system of beliefs will be more likely to be true if you reject the premise that has a lower probability of being true than the conclusion does based on your other evidence concerning it. For example:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Proposition</th>
+      <th>%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>…</td>
+      <td>70%</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>…</td>
+      <td>90%</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>…</td>
+      <td>81%</td>
+    </tr>
+    <tr>
+      <td>∴ (A)</td>
+      <td>…</td>
+      <td>~51%</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>If the prior probability of proposition \(A\) is \(20%\), then it is more probable that premise (1) is wrong than that the conclusion is true from an inherent standpoint, so we can reject premise (1), and the cost to the overall probability of our knowledge-web will be 70% instead of 80%. This is a way to both mathematically demonstrate how a <em>reductio</em> works, and at the same time rationally determine (given enough information) <em>which</em> premise in a <em>reductio</em> should be rejected. Notice that, just as with a regular reductio, given its premises this argument still serves as a valid demonstration of its conclusion, which <em>could</em> be factored into one’s overall credence in the proposition in the conclusion, so <em>if</em> one chooses to “bite the bullet” and accept the reductio the math still works out — you just have an overall epistemic database that is less likely to be accurate.</p>
+
+<p>Importantly, this transform is actually not limited to obvious cases of <em>reductio</em>, where the conclusion is clearly contradictory or ridiculous. It can work in <em>any</em> case where the conclusion of an argument is unlikely enough to outweigh whatever <em>prima facie</em> appearance of truth the premises of the argument may have. This is why “one person’s <em>modus ponens</em> is another’s <em>modus tollens</em>.” Although you may not find the conclusion of your argument particularly unlikely, and the premises strong, and therefore run the argument forward, if I find your conclusion unlikely enough (based on having access to different evidence or a different assessment of its inherent improbability) I can just run your argument backwards. This is one of the reasons that deductive arguments in philosophy are ineffective: none of the premises of your typical metaphysical argument are actually sound enough to prevent someone from converting any <em>modus ponens</em> into a <em>modus tollens</em> if they don’t like your conclusion; all that can be done when this occurs is to discuss the relative merits of the holistic metaphysical theory and knowledge web which the affirmation or rejection of a premise entails. I’ll talk more about this later.</p>
+
+<p>This of course does not solve the general problem of how to incorporate multiple deductive arguments and other evidence for a proposition into a confidence level in that proposition, however. Luckily, this is (despite the amount of time it took me to figure this out) not that hard to calculate. Essentially, the probability that the proposition under consideration is true, given evidence calculated into a Bayesian posterior probability, as well as a set of arguments that have a certain chance of being sound and therefore demonstrating the proposition, is the probability of at least one of these “events” actually “happening” (one of these methods actually being sound/accurate and therefore making the proposition true), or the probability of the union of all these events. So:</p>
+
+\[P(H) = P(\bigcup_{i=1}^n P(A_i) \cup P(H|E))\]
+
+<p>Where \(H\) is the proposition under consideration, \(A\) is the set of all arguments for \(H\), \(P(H\|E)\) is the probability of H given any empirical data (calculated via Bayes theorem), although it also encapsulates the prior probability of \(H\), and is in fact equal to it if there is no empirical data available.</p>
+
+<p>Note that, crucially, each argument in \(A\) must be strictly independent of all of the others. If any group of arguments are intertwined, such that if one is true it increases the chances that others are true, or if one is true it necessitates that the others are true (which can happen even for arguments that don’t at first appear to be identical, if they use similar propositions, assumptions, or argumentative forms, or if the secondary conclusions of one argument form premises in another argument that uses them in a different way to arrive at the same conclusions), then the arguments that are intertwined must be reduced to a single argument, to keep \(A\) a proper set where each element is strictly unique. This can be done by selecting the strongest argument out of the group of similar arguments, melding them together, or any other process that seems fit — this is a process that I can’t provide a general theorem for, since it will depend on the particularities of the arguments in question.</p>
+
+<h2 id="3">3</h2>
+
+<p>Before I move on to the next phase of this essay, let me briefly discuss a few other miscellaneous notes which, while probably intuitively obvious, still deserve to be stated explicitly.</p>
+
+<p>First of all, when a premise is actually the combination of multiple propositions through various conjunctions, the probability of the premise being true is constituted by the individual probabilities of each of the propositions which compose the premise, combined according to the statistical rules for each of the conjunctions involved.</p>
+
+<p>Second, following on from points I made in my first essay on fuzzy Bayesian logic, assigning specific probabilities to propositions and arguments is a very dangerous game, more likely to lead to nonsense and the appearance of certainty than it is to actually get you closer to the truth. The point of these mathematical equations is more to demonstrate general rules of thumb and approaches from combining or relating the fuzzy, intuitive confidence levels you have in your head. I only specify specific values for things to make the examples a bit easier to understand, but you have to realize that they’re just toy examples with random values.</p>
+
+<h2 id="4">4</h2>
+
+<p>One thing you might have noticed while I was going through the examples above is that, on the whole, deductive arguments just <em>aren’t that effective</em>. After all, if you need all of the premises of your argument to be true simultaneously for the conclusion to be true, that’s a really big burden; the probability that you’ll get what you want given that we don’t live in a world of absolute certainty scales inversely geometrically with the number of premises you have. This is why science, which increases statistical credences in hypothesis by way of going out and checking them directly, where the only possible error is the likelihood of getting a result that makes it look like your hypothesis is true without it actually being true, is so much more effective than armchair logic. Instead of building a conclusion on a house of cards that could fail if even a single premise turns out to be wrong, when <em>all</em> of them have a non-insignificant chance of being wrong, it just skips directly to demonstrating whether the final proposition you are interested in proving or disproving is a useful way to look at the world.</p>
+
+<p>This is also why arguments that have a lot of premises, while they look impressive, are actually incredibly dubious and weak. After all, the more premises you have, the more certain you have to be in all your premises to have even the bare minimum level of certainty in your conclusion. Take, for example, Plantinga’s modal ontological argument:</p>
+
+<blockquote>
+  <ol>
+    <li>
+      <p>There is a possible world <em>W</em> in which there exists a being with maximal greatness.</p>
+    </li>
+    <li>
+      <p>Maximal greatness entails having maximal excellence in every possible world.</p>
+    </li>
+    <li>
+      <p>Maximal excellence entails omniscience, omnipotence, and moral perfection in every possible world.</p>
+    </li>
+    <li>
+      <p>So in <em>W</em> there exists a being which is omniscient, omnipotent, and morally perfect in every possible world.</p>
+    </li>
+    <li>
+      <p>So in <em>W</em> the proposition “There is no omniscient, omnipotent, and morally perfect being” is impossible.</p>
+    </li>
+    <li>
+      <p>But what is impossible in one possible world is impossible in every possible world.</p>
+    </li>
+    <li>
+      <p>So the proposition “There is no omniscient, omnipotent, and morally perfect being” is impossible in the actual world.</p>
+    </li>
+    <li>
+      <p>So there is in the actual world an omniscient, omnipotent, and morally perfect being.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></p>
+    </li>
+  </ol>
+</blockquote>
+
+<p>For the argument to justifiably even slightly budge someone’s credence in the theory that a god exists up from being agnostic or even negative toward it, the soundness probability of the argument needs to be at least \(51%\). That means that the probabilities of each of the premises being sound need to all multiply up to at least \(51%\). We can estimate the average necessary soundness probability for each premise, therefore, by calculating the seventh root of \(0.51\), which is \(0.908\). This means that we would need to be on average 91% sure of each of these problematic and hotly contested, abstract, premises. And even that 0.51% would be a drop in the bucket compared to the inherent improbability of a maximally great being existing.</p>
+
+<p>The inherent uncertainty of the premises of an argument, and the resulting weakness of philosophical arguments in general, is not actually the only problem with deductive philosophical arguments. Since the rules of logic themselves are constructed by human philosophers, in an attempt to describe what they think constitutes the rules of meaning and basic ontology, they themselves are not strictly <em>certain</em>, and so some logical rules, which are not directly entailed by the criteria for meaning I covered in my previous epistemology article, bring with them their own kind of uncertainty. For instance, the validity of the S5 axiom of modal logic when it pertains to metaphysical truth is hotly contested in some circles, and so the use of this axiom should be considered as something that decreases the likelihood that an argument is valid. Furthermore, the specific way that you actually run logical rules on your premises may even be incorrect, and the likelihood of this also increases with the size and complexity of your argument. All of this is why if you’re going to criticize an argument, you <em>don’t</em> actually have to point to one of the premises, you can instead call out problems and equivocations that happen in-between the premises and the conclusion. All of these factors must also be integrated into the probability that an argument actually demonstrates its premise, turning the “soundness probability” I’ve been talking about so far into a “demonstration probability” that includes both soundness <em>and</em> validity.</p>
+
+<h2 id="4-1">4</h2>
+
+<p>This indicates a core problem with philosophical argumentation as it has been done in the past, since at least Aristotle. Simply sitting back in your armchair and coming up with a list of premises and assumptions that seem likely to you, based on your own intuitions, and then stringing them together into long streams of argumentation is just <em>not effective enough</em> when you actually treat the credence levels you should have in your premises with honesty and humility. What, then, should we do? Should philosophers retreat to conceptual analysis and clarification, philosophy of science, math, and logic,  synthesizing the conclusions of science together, and documenting and understanding properties of the human condition (whether in the manner of phenomenologists and epistemologists or existentialists)? While these are all worthy goals, and are actually the fields that I am most interested in and in which I think the discipline of philosophy has the most to offer, there is nevertheless a place for philosophy in cosmology and metaphysics too — it is just that a different route must be taken to ensure it remains useful in those areas.</p>
+
+<p>This is where Graham Oppy’s views on the nature of philosophical argumentation come in. Instead of focusing on arguments for particular conclusions, which are necessarily piecemeal and therefore fall afoul of the geometric decrease in probability as the number of premises grow, one should consider holistic theories concerning some subject, and compare the explanatory and predictive power of the theory, as well as the intellectual virtues the theory demonstrates as a whole, with the intellectual “cost” of the theory. This approach relies primarily on the ability to state a set of core premises and then use conceptual analysis to elaborate on their implications, in order to derive specific hypothesis and sub-theories, instead of one’s ability to construct deductive philosophical arguments of the kind spoken about above. Moreover, it directly maps the process of choosing beliefs concerning some phenomena onto the underlying pragmatic reasons that we choose beliefs, instead of being based on logic, which is in turn based on those pragmatic reasons, and therefore only being based on pragmatic reasons by proxy. This also allows you to apply the fuzzy Bayesian logic described in my previous articles more directly and conveniently to the theories themselves.</p>
+
+<p>In conclusion, then, applying my fuzzy Bayesian reasoning to theories of certain phenomena as a whole, according to their intellectual virtues and costs, and relying on science to demonstrate the predictive power of such theories, is by far superior to relying on deductive philosophical argument, due to the inherent nature of how uncertainty interacts with deductive arguments.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>see <a href="https://blog.alexisdumas.org/2022/01/03/fuzzy-logic.html">An Introduction to Fuzzy Pragmatist Bayesian Epistemology</a> and <a href="https://blog.alexisdumas.org/2022/01/22/mathematics.html">Logic and Mathematics</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>This is his argument from his book <em>The Nature of Necessity</em>, pulled off of Edward Feser (the theocratic semi-fascist bigoted “analytic Thomist”)’s <a href="https://edwardfeser.blogspot.com/2010/12/plantingas-ontological-argument.html">blog</a>. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2022-01-26T00:00:00-05:00">January 26, 2022</time></p>
+
+
+      </footer>
+
+      <section class="page__share">
+  
+
+  <a href="https://twitter.com/intent/tweet?text=A+Fuzzy+Bayesian+Analysis+of+Argumentation%20http%3A%2F%2Flocalhost%3A4000%2F2022%2F01%2F26%2Fbayesian-analysis-of-argument.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2022%2F01%2F26%2Fbayesian-analysis-of-argument.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2022%2F01%2F26%2Fbayesian-analysis-of-argument.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/2022/01/22/mathematics.html" class="pagination--pager" title="Logic and Mathematics
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/2022/01/22/mathematics.html" rel="permalink">Logic and Mathematics
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          22 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+  “Contrariwise”, continued Tweedledee, “if it was so, it might be, and if it were so, it would be; but as it isn’t, it ain’t. That’s logic!” — Lewis Carrol...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/2022/01/17/what-is-individualist-anarchism.html" rel="permalink">What Is Individualist Anarchism?
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          12 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">
+  “Infernal world! and thou, profoundest Hell,
+Receive thy new possessor—one who brings
+A mind not to be changed by place or time.
+The mind is its own place...</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/2022/01/03/fuzzy-logic.html" rel="permalink">An Introduction to Fuzzy Pragmatist Bayesian Epistemology
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          38 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">1. Introduction
+
+</p>
+  </article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title no_toc" itemprop="headline">
+      
+        <a href="/2022/01/03/abortion.html" rel="permalink">Abortion and Individualist Anarchism: Why Pro-Choice Is The Only Choice
+</a>
+      
+    </h2>
+    
+
+  <p class="page__meta">
+    
+
+    
+
+    
+      
+      
+
+      <span class="page__meta-readtime">
+        <i class="far fa-clock" aria-hidden="true"></i>
+        
+          20 minute read
+        
+      </span>
+    
+  </p>
+
+
+    <p class="archive__item-excerpt" itemprop="description">1
+
+</p>
+  </article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2022 Luciferian Locutions. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+
+
+
+  </body>
+</html>
