@@ -215,9 +215,15 @@ var store = [{
         "url": "/2022/01/22/mathematics.html",
         "teaser": null
       },{
-        "title": "A Fuzzy Bayesian Analysis of Argumentation",
+        "title": "A Fuzzy Bayesian Analysis of Deductive Argumentation",
         "excerpt":"1 Now that I’ve finally gotten around to writing out some of the more fundamental components of my epistemology,1 I can at last proceed to writing one of the articles that I’ve been planning to do pretty much since I started writing on this blog months ago: a fuzzy Bayesian...","categories": [],
         "tags": ["logic","epistemology"],
         "url": "/2022/01/26/bayesian-analysis-of-argument.html",
+        "teaser": null
+      },{
+        "title": "What Is \"Anti-Work?\"",
+        "excerpt":"1 Wanting work reform is not anti-work. Not wanting to do anything challenging or productive is not anti-work. These are the two primary misconceptions about what it means to be anti-work that I hope to correct. The latter comes from our overt enemies, and the former from those cultists of...","categories": [],
+        "tags": ["anti-work","anarchism","economics","human-being"],
+        "url": "/2022/01/29/anti-work.html",
         "teaser": null
       }]
