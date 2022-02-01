@@ -6,7 +6,7 @@ plugins:
 
 include: ["_pages"]
 
-logo: https://www.gravatar.com/avatar/cf9d2998c0d9cb26334028f72185fe38
+logo: ./assets/logo.png
 minimal_mistakes_skin: "contrast"
 title: "Luciferian Locutions"
 subtitle: "'Tis better to reign in Hell..."
