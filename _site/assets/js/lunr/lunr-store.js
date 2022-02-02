@@ -35,8 +35,8 @@ var store = [{
         "url": "/2021/07/09/convo.html",
         "teaser": null
       },{
-        "title": "Linguistic Pragmatism and the Incoherency of Transphobia",
-        "excerpt":"So I have no idea why I’m making a post about this besides the fact that some random commenters on YouTube pissed me off and now I’m going to take out my wrath on my blog for some reason, so enjoy this long unedited and voice dictated rant. To all...","categories": [],
+        "title": "Linguistic Pragmatism and the Incoherence of Transphobia",
+        "excerpt":"1 To all the “superstraight” and transphobic people out there: your categories are fucked. Your language is incomprehensible, and your philosophy of languages is confused. Here’s why. 2 As a naturalist, nominalist, and linguistic pragmatist, my position on how words are used is pretty simple: A lot of things in...","categories": [],
         "tags": ["lgbtq","politics","linguistics"],
         "url": "/2021/07/10/transgender.html",
         "teaser": null
@@ -60,7 +60,7 @@ var store = [{
         "teaser": null
       },{
         "title": "The Two Kinds of Pragmatism",
-        "excerpt":"So I recently listened to the chapter on William James that Bertrand Russell wrote in his book A History of Western Philosophy, And it’s prompted me to consider exactly where my theory of pragmatism, insofar as my epistemology is adjacent to pragmatism, differs from the pragmatism of William James. After...","categories": [],
+        "excerpt":"Author’s Note: I originally voice-dictated this essay off the cuff, and only later (Febuary 2nd, 2022) came back and edited it into the form you see it now, as part of a project of going back and either deleting my old voice-dictated blog posts, or raising them to the standards...","categories": [],
         "tags": ["epistemology"],
         "url": "/2021/07/24/pragmatism.html",
         "teaser": null

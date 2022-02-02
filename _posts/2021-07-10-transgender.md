@@ -1,12 +1,14 @@
 ---
 published: true
-title: Linguistic Pragmatism and the Incoherency of Transphobia
+title: Linguistic Pragmatism and the Incoherence of Transphobia
 tags: ["lgbtq", "politics", "linguistics"]
 ---
 
-So I have no idea why I'm making a post about this besides the fact that some random commenters on YouTube pissed me off and now I'm going to take out my wrath on my blog for some reason, so enjoy this long unedited and voice dictated rant.
+## 1
 
 To all the "superstraight" and transphobic people out there: your categories are fucked. Your language is incomprehensible, and your philosophy of languages is confused. Here's why.
+
+## 2
 
 As a naturalist, nominalist, and linguistic pragmatist, my position on how words are used is pretty simple: A lot of things in our world share certain common features. There are a lot of different ways that we could taxonomize those common features, in the same way that there are a lot of different words that you can draw out of a block of randomly assorted letters for instance, but generally what we do is we take a set of common features of a group of objects that are most regularly useful to refer to together, or have the most common features out of any particular cross section that we could take, and then assign a word to that list of common properties from that taxonomy. This is how we do abstraction. Thus, words don't have objective meanings that are handed down from on high are generated directly from the sounds that comprise the word or anything like that. We use words because they represent useful tags to label abstractions that we generate out of pragmatic taxonomies of the particulars in our sense experience.
 
