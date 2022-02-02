@@ -222,7 +222,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Why I Identify As a Satanist",
-        "excerpt":"Now the serpent was more subtle than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the...","categories": [],
+        "excerpt":"“Did [Satan] rebel against his maker? It was, as he himself informs us, because he saw no sufficient reason, for that extreme inequality of rank and power which the creator assumed.” — William Godwin, anarchist, 1793 1 I think, given the rather obvious Satanist imagery that has permeated my blog,...","categories": [],
         "tags": ["religion"],
         "url": "/2022/02/01/satanism.html",
         "teaser": null
