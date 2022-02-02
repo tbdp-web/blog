@@ -226,4 +226,10 @@ var store = [{
         "tags": ["anti-work","anarchism","economics","human-being"],
         "url": "/2022/01/29/anti-work.html",
         "teaser": null
+      },{
+        "title": "Why I Identify As a Satanist",
+        "excerpt":"Now the serpent was more subtle than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden? And the woman said unto the serpent, We may eat of the...","categories": [],
+        "tags": ["religion"],
+        "url": "/2022/02/01/satanism.html",
+        "teaser": null
       }]
