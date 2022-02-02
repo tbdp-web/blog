@@ -23,12 +23,6 @@ var store = [{
         "url": "/2021/07/06/the-problem-with-presuppositionalism.html",
         "teaser": null
       },{
-        "title": "Ethical Egoism and Justice",
-        "excerpt":"This is another essay that I hadn’t released anywhere else that I’m reproducing here for convenience. Introduction Traditional ethical egoism seems to focus on a simplistic account of self-interest, and therefore well-being, that usually only includes a material and emotional dimension, and has no systematic account of human nature or...","categories": [],
-        "tags": ["ethics","egoism"],
-        "url": "/2021/07/06/Ethical-Egoism-and-Justice.html",
-        "teaser": null
-      },{
         "title": "The Character of an Egoist",
         "excerpt":"So I’ve been thinking for a while now about how best to explain how my ethics actually works and why it can actually overwhelm materialistic egoistic ends under certain circumstances, and I think I’ve hit upon a new way to explain it that might make it clearer what I’m trying...","categories": [],
         "tags": ["egoism","ethics"],
