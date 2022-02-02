@@ -23,12 +23,6 @@ var store = [{
         "url": "/2021/07/06/the-problem-with-presuppositionalism.html",
         "teaser": null
       },{
-        "title": "The Character of an Egoist",
-        "excerpt":"So I’ve been thinking for a while now about how best to explain how my ethics actually works and why it can actually overwhelm materialistic egoistic ends under certain circumstances, and I think I’ve hit upon a new way to explain it that might make it clearer what I’m trying...","categories": [],
-        "tags": ["egoism","ethics"],
-        "url": "/2021/07/09/character.html",
-        "teaser": null
-      },{
         "title": "Consciousness, Ethics, and Religion in Society",
         "excerpt":"[Mostly unedited voice dictation, have fun!] So I just had one of the most productive and interesting discussions I’ve ever had in my life with one of my friends, and I now regret bitterly not recording it, because I think it would have been really great to have it up...","categories": [],
         "tags": ["religion","epistemology","human-being"],
@@ -225,5 +219,11 @@ var store = [{
         "excerpt":"“Did [Satan] rebel against his maker? It was, as he himself informs us, because he saw no sufficient reason, for that extreme inequality of rank and power which the creator assumed.” — William Godwin, anarchist, 1793 1 I think, given the rather obvious Satanist imagery that has permeated my blog,...","categories": [],
         "tags": ["religion"],
         "url": "/2022/02/01/satanism.html",
+        "teaser": null
+      },{
+        "title": "The Character of an Egoist",
+        "excerpt":"1 Probably one of the most instantaneous assumptions that someone might make, after reading about my views, as a moral subjectivist and an egoist, not to mention a Nietzschiean, is that I am someone who holds to no principles, has no character, and simply does whatever I feel might benefit...","categories": [],
+        "tags": ["egoism","ethics"],
+        "url": "/2022/02/02/character.html",
         "teaser": null
       }]
