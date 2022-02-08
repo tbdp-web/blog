@@ -1,5 +1,5 @@
 ---
-title: Logic and Mathematics
+title: Logic and Mathematics: New Pragmatism and Conceptual Reasoning
 tags: ["mathematics", "epistemology"]
 ---
 

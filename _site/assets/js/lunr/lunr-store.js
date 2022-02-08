@@ -185,8 +185,8 @@ var store = [{
         "url": "/2022/01/03/abortion.html",
         "teaser": null
       },{
-        "title": "An Introduction to Fuzzy Pragmatist Bayesian Epistemology",
-        "excerpt":"1. Introduction The goal of pragmatist epistemology is not to arrive at absolute truth, at certain knowledge about the universe, or any of the other goals which have occupied philosophers across the millennia. It has a more humble goal: to help human beings achieve our goals in a world that...","categories": [],
+        "title": "An Introduction to the New Pragmatism",
+        "excerpt":"Author’s Note: For a comparison of this ‘new pragmatism’ with the ‘old’ pragmatism of William James, see my essay ‘Two Kinds of Pragmatism’. 1. Introduction The goal of pragmatist epistemology is not to arrive at absolute truth, at certain knowledge about the universe, or any of the other goals which...","categories": [],
         "tags": ["epistemology","pragmatism"],
         "url": "/2022/01/03/fuzzy-logic.html",
         "teaser": null
@@ -195,12 +195,6 @@ var store = [{
         "excerpt":"“Infernal world! and thou, profoundest Hell, Receive thy new possessor—one who brings A mind not to be changed by place or time. The mind is its own place, and in itself Can make a Heaven of Hell, a Hell of Heaven. What matter where, if I be still the same,...","categories": [],
         "tags": ["anarchism","ethics","politics","mutualism"],
         "url": "/2022/01/17/what-is-individualist-anarchism.html",
-        "teaser": null
-      },{
-        "title": "Logic and Mathematics",
-        "excerpt":"“Contrariwise”, continued Tweedledee, “if it was so, it might be, and if it were so, it would be; but as it isn’t, it ain’t. That’s logic!” — Lewis Carroll, Through the Looking-Glass 1. Introduction In my previous blog post I introduced what I call fuzzy pragmatist Bayesian epistemology. To summarize,...","categories": [],
-        "tags": ["mathematics","epistemology"],
-        "url": "/2022/01/22/mathematics.html",
         "teaser": null
       },{
         "title": "A Fuzzy Bayesian Analysis of Deductive Argumentation",
@@ -225,5 +219,17 @@ var store = [{
         "excerpt":"1 Probably one of the most instantaneous assumptions that someone might make, after reading about my views, as a moral subjectivist and an egoist, not to mention a Nietzschiean, is that I am someone who holds to no principles, has no character, and simply does whatever I feel might benefit...","categories": [],
         "tags": ["egoism","ethics"],
         "url": "/2022/02/02/character.html",
+        "teaser": null
+      },{
+        "title": null,
+        "excerpt":"“Contrariwise”, continued Tweedledee, “if it was so, it might be, and if it were so, it would be; but as it isn’t, it ain’t. That’s logic!” — Lewis Carroll, Through the Looking-Glass 1. Introduction In my previous blog post I introduced what I call fuzzy pragmatist Bayesian epistemology. To summarize,...","categories": [],
+        "tags": null,
+        "url": "/2022/02/08/2022-01-22-mathematics.html",
+        "teaser": null
+      },{
+        "title": null,
+        "excerpt":"Author’s Note: I recommend you read at least these two previous articles on my epistemology before you dive into this one: ‘An Introduction to the New Pragmatism’ and ‘Logic and Mathematics: New Pragmatism and Conceptual Reasoning’ unless you are already familiar with my thoughts on epistemology from other sources. 1...","categories": [],
+        "tags": null,
+        "url": "/2022/02/08/2022-02-06-dyadic-epistemology.html",
         "teaser": null
       }]

@@ -1,7 +1,9 @@
 ---
-title: An Introduction to Fuzzy Pragmatist Bayesian Epistemology
+title: An Introduction to the New Pragmatism
 tags: ["epistemology", "pragmatism"]
 ---
+
+**Author's Note**: For a comparison of this 'new pragmatism' with the 'old' pragmatism of William James, see my essay ['Two Kinds of Pragmatism'](https://blog.alexisdumas.org/2021/07/24/pragmatism.html).
 
 ## 1. Introduction
 
