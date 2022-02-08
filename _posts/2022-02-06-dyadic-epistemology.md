@@ -1,5 +1,5 @@
 ---
-title: New Pragmatism: Dyadic Epistemology
+title: "New Pragmatism: Dyadic Epistemology"
 tags: ["epistemology"]
 ---
 

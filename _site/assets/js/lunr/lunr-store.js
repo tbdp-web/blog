@@ -197,6 +197,12 @@ var store = [{
         "url": "/2022/01/17/what-is-individualist-anarchism.html",
         "teaser": null
       },{
+        "title": "Logic and Mathematics: New Pragmatism and Conceptual Reasoning",
+        "excerpt":"“Contrariwise”, continued Tweedledee, “if it was so, it might be, and if it were so, it would be; but as it isn’t, it ain’t. That’s logic!” — Lewis Carroll, Through the Looking-Glass 1. Introduction In my previous blog post I introduced what I call fuzzy pragmatist Bayesian epistemology. To summarize,...","categories": [],
+        "tags": ["mathematics","epistemology"],
+        "url": "/2022/01/22/mathematics.html",
+        "teaser": null
+      },{
         "title": "A Fuzzy Bayesian Analysis of Deductive Argumentation",
         "excerpt":"1 Now that I’ve finally gotten around to writing out some of the more fundamental components of my epistemology,1 I can at last proceed to writing one of the articles that I’ve been planning to do pretty much since I started writing on this blog months ago: a fuzzy Bayesian...","categories": [],
         "tags": ["logic","epistemology"],
@@ -221,15 +227,9 @@ var store = [{
         "url": "/2022/02/02/character.html",
         "teaser": null
       },{
-        "title": null,
-        "excerpt":"“Contrariwise”, continued Tweedledee, “if it was so, it might be, and if it were so, it would be; but as it isn’t, it ain’t. That’s logic!” — Lewis Carroll, Through the Looking-Glass 1. Introduction In my previous blog post I introduced what I call fuzzy pragmatist Bayesian epistemology. To summarize,...","categories": [],
-        "tags": null,
-        "url": "/2022/02/08/2022-01-22-mathematics.html",
-        "teaser": null
-      },{
-        "title": null,
+        "title": "New Pragmatism: Dyadic Epistemology",
         "excerpt":"Author’s Note: I recommend you read at least these two previous articles on my epistemology before you dive into this one: ‘An Introduction to the New Pragmatism’ and ‘Logic and Mathematics: New Pragmatism and Conceptual Reasoning’ unless you are already familiar with my thoughts on epistemology from other sources. 1...","categories": [],
-        "tags": null,
-        "url": "/2022/02/08/2022-02-06-dyadic-epistemology.html",
+        "tags": ["epistemology"],
+        "url": "/2022/02/06/dyadic-epistemology.html",
         "teaser": null
       }]
