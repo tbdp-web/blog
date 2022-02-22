@@ -3,11 +3,12 @@ published: true
 title: Why I Hate Calvinism
 tags: ["religion", "presuppositionalism"]
 ---
+
 ## Do I Just "Love My Sin"?
 
 I always love the little "they love their sin" line that Calvinists always give. They're trying to portray people who don't believe in their cult as doing so for purely hedonistic reasons, but this fails massively on two counts:
 
-1. because it's demonstrably not true --- I disbelieve in religion because I want to be as truthful, honest, fair, and just as I can be, and I think any God worthy of worship would either not punish me or even reward me for doing so, since I evaluate what those things are by evaluating my own nature and if a God created me he would have created me with a nature that points towards whatever I should do and is capable of doing whatever I should do; and
+1. Because it's demonstrably not true --- I disbelieve in religion because I want to be as truthful, honest, fair, and just as I can be, and I think any God worthy of worship would either not punish me or even reward me for doing so, since I evaluate what those things are by evaluating my own nature and if a God created me he would have created me with a nature that points towards whatever I should do and is capable of doing whatever I should do; and
 1. because refusing to follow a religion that is not demonstrably true, or even refusing to acknowledge a God that you believe exists, because that God is a tyrannical asshole that designs human beings to live a certain way, and then tries to shut out huge parts of their experience from them, disallowing them from loving certain people or living certain ways or enjoying certain things, is not an act of mindless hedonism and selfishness, but an act of defiance in the best way possible.
 
 Defying a being that is infinitely more powerful than you because it is a cruel monster is an act of selflessness and commitment to truth and beauty and justice that I could only envy and honor in another, it is not a mean and small minded thing as Calvinists like to portray it. This is why I think Lucifer from Paradise Lost is, to some degree, a hero, despite what John Milton intended.

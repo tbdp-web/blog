@@ -232,4 +232,10 @@ var store = [{
         "tags": ["epistemology"],
         "url": "/2022/02/06/dyadic-epistemology.html",
         "teaser": null
+      },{
+        "title": "Why I Am An Atheist",
+        "excerpt":"1   ","categories": [],
+        "tags": ["religion","atheism","epistemology"],
+        "url": "/2022/02/08/atheism.html",
+        "teaser": null
       }]
