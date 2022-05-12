@@ -7,6 +7,8 @@ A new vision of an anarchist society, different in important ways from the ones 
 
 This new vision of anarchism, and accompanying understanding, has increasingly made my previous essays about anarchism obsolete. Furthermore, I have found myself giving nearly the following exposition to many people in nearly identical form, which indicates that it strikes at the heart of my current mentality. Considering that, I think it's time to transcribe it into something a little more permanent.
 
+Before or after you read this essay, I highly recommend you read [What Is Individualist Anarchism](https://blog.alexisdumas.org/2022/01/17/what-is-individualist-anarchism.html), which overlaps with this one in a few ways but in general elaborates more on values, property norms, and long term goals, but less on institutions specifically. I view these essays as essentially two sides of the same coin, and the way I phrase my ideas in one or the other my make more sense to you.
+
 ## 1. Conflict Resolution
 
 The primary problem of 'organization' in an anarchist society is conflict resolution. The fullest extent of each person's interests are always, at least at the borders, going to come into conflict with those of others, since the full satisfaction of everyone's desires is not possible. This naturally leads to conflict, but that conflict itself is expensive and generally undesirable compared to a state of reconciliation and cooperation, since it imposes material and interpersonal costs. Thus, it is in everyone's interests to have some means of resolving the conflicts that arise of necessity as part of living among other people.
