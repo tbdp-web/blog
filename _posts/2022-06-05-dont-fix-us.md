@@ -4,6 +4,8 @@ tags: ["transgender", "gender", "ethics"]
 published: true
 ---
 
+> You want, if possible – and there is no more insane “if possible” – to abolish suffering. And we? It really seems that we would rather have it higher and worse than ever. Well-being as you understand it – that is no goal, that seems to us an end, a state that soon makes man ridiculous and contemptible – that makes his destruction desirable. The discipline of suffering, of great suffering – do you not know that only this discipline has created all enhancements of man so far? --- Nietzsche, _Beyond Good and Evil_
+
 A kaleidoscopic whirlwind of pernicious lies, half-truths, misrepresentations, abuse, and bigotry swirl around trans people. I'm privileged to live in California and on the PSU University Park campus primarily, where I'm insulated from the worst of American transphobia in my everyday physical life, but on the internet, where we are all connected regardless of location, and where anonymity protects those who wish to do us harm just as much as it helps us hide from it, it's not so easy. Every once in awhile something slips through, usually due to my own actions. One such instance occurred yesterday, when I found myself engaging in a digital self-harming spree, scrolling through the abusive, ignorant, and hateful comments under a Medium article by trans feminist Julia Serano. Through the flurry of vitriol, one comment stood out to me as particularly harmful and insidious. It posed a simple question:
 
 "Why not fix them?"
