@@ -1,7 +1,7 @@
 ---
 title: "Don't Fix Us"
 tags: ["transgender", "gender", "ethics"]
-published: false
+published: true
 ---
 
 A kaleidoscopic whirlwind of pernicious lies, half-truths, misrepresentations, abuse, and bigotry swirl around trans people. I'm privileged to live in California and on the PSU University Park campus primarily, where I'm insulated from the worst of American transphobia in my everyday physical life, but on the internet, where we are all connected regardless of location, and where anonymity protects those who wish to do us harm just as much as it helps us hide from it, it's not so easy. Every once in awhile something slips through, usually due to my own actions. One such instance occurred yesterday, when I found myself engaging in a digital self-harming spree, scrolling through the abusive, ignorant, and hateful comments under a Medium article by trans feminist Julia Serano. Through the flurry of vitriol, one comment stood out to me as particularly harmful and insidious. It posed a simple question:
