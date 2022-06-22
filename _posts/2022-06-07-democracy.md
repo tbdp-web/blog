@@ -1,5 +1,5 @@
 ---
-title: "Democracy, Society, and Anarchism"
+title: "Democracy Won't Save You"
 tags: ["politics", "ethics", "anarchism"]
 ---
 
