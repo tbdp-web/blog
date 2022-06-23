@@ -8,10 +8,9 @@ include: ["_pages"]
 
 logo: ./assets/logo.png
 minimal_mistakes_skin: "contrast"
-title: "Luciferian Locutions"
-subtitle: "'Tis better to reign in Hell..."
+title: "Alexis' Journal"
 author:
-  name: "Alexis Purslane Dumas"
+  name: "Alexis Purslane"
   avatar: ./assets/avatar.jpg
   bio: "I am a queer, egoist, mutualist anarchist, existentialist atheist, and transgender philosopher. I have chronic tension headaches, OCD, autism, and GAD. I am currently getting a Bachelor's in Computer Science at Penn State University."
   links:
@@ -19,6 +18,8 @@ author:
       url: "https://alexisdumas.org"
     - label: "Pronouns and LGBT Info"
       url: "https://en.pronouns.page/@Alexis__1"
+    - lable: "Mastodon"
+      url: "https://mastodon.lol/@alexispurslane"
     - label: "GitHub"
       url: "https://github.com/alex-dumas"
     - label: "Reddit"
