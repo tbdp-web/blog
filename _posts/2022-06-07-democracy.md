@@ -129,7 +129,7 @@ In comparison, without the state, I believe minorities will be vastly better off
 
 Finally, it should be noted that whatever sociocultural factors a defender of the democratic sacred ideal might appeal to to explain why democracy would be a positive force for justice and egalitarianism - good education, a tolerant culture, even the rationality of the mob and its susceptibility to "moral argument," laughable as that is - could just as easily, and perhaps even more justly, be claimed by an anarchist society. Thus whatever positive benefits democracy can claim, anarchism can claim them two-fold insofar as the majority has power over the minority in an anarchist society.
 
-## Epigraph
+## Epilogue
 
 > I put my lips to your profane ear and launch a cry. A frightening cry that will make you grow pale... So listen to it, since only by virtue of this magic cry will you vanish as rabble in order to rise up again in the flowering potential of all of your individualized members. Here is the magic cry: “The egoist has always affirmed himself with crime and, with sacrilegious hand, has pulled the sacred idols down from their pedestals. It is necessary to put an end to the sacred; or better still: the need to violate the sacred must become general. It is not a new revolution that approaches; but a mighty, impetuous, superb, shameless, conscienceless crime sounds in the thunder on the horizon. Don’t you see how already the foreboding sky grows dark and silent?”
 
