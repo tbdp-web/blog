@@ -107,13 +107,13 @@ sup > a, p > a:hover {
     padding-top: 20px;
 }
 
-.list__item:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+.list__item:hover > .archive_item-title > a {
+    color: #333;
+    text-decoration: underline;
 }
 
 .archive__item-title {
     margin-bottom: 0em;
-    font-family: 'Architects Daughter';
     line-height: initial;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -129,18 +129,17 @@ sup > a, p > a:hover {
 .list__item .page__meta, .list__item .comment__date {
     margin: 0 0 4px;
     font-size: 0.6em;
-    padding-bottom: 47px;
+    padding-bottom: 10px;
     color: #333;
 }
 
 .archive__item-excerpt {
     margin-top: 0;
-    font-size: 0.75em;
-    border: 1px solid #cad;
+    border-left: 3px solid #ddd;
     padding: 20px;
     border-radius: 10px;
     font-style: italic;
-    font-size: .85em;
+    font-size: 1.01em;
 }
 
 form {
