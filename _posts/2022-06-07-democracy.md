@@ -3,8 +3,6 @@ title: "Democracy Won't Save You"
 tags: ["politics", "ethics", "anarchism"]
 ---
 
-<style>img { width: 100% }</style>
-
 > God, the State, Society, Humanity, etc., etc. have their own cause for themselves. If I don’t want to subjugate myself God’s cause, I am a “sinner”. If I don’t want to submit to the State, Society, Humanity, I am a “wicked man”, a “criminal”, a “delinquent”. “Sacred”! This is the most monstrous and terrible phantom before which all have trembled up to now. Here is the old, harsh tablet that the new human beings must shatter!
 > --- Renzo Nevatore, _Cry of Rebellion_
 
