@@ -9,6 +9,7 @@ tags: ["politics", "ethics", "lgbtq", "transgender"]
 
 * ["Don't Fix Us" by Alexis Purslante](https://blog.alexisdumas.org/2022/06/05/dont-fix-us.html) spends most of its length after the introduction primarily dealing with what gender is and how it is separate from biological sex
 * Various excellent resources regarding various trans topics can be found on [Julia Serano's blog](https://www.juliaserano.com/writings.html).
+* For understanding how defitinitions work, and that you don't need a definition with essential (necessary and sufficient) conditions in order to use and understand a word or category, and how that's often impossible anyway, and what the alternative is, I recommend checking out aphorism 65 and onward in [Wittgenstein's *Philosophical Investigations*](http://fs2.american.edu/dfagel/www/Class%20Readings/Wittgenstein/Philosophical%20Investigations%20(1st%20100).html#65)
 
 ## Functional similarities between transgender brains and the brains of the gender they identify with
 
@@ -48,9 +49,6 @@ potentially harmful."
 2. <https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2265.2009.03625.x>:
 "We identified 28 eligible studies. These studies enrolled 1833 participants with GID (1093 male-to-female, 801 female-to-male) who underwent sex reassignment that included hormonal therapies... Pooling across studies shows that after sex reassignment, 80% of individuals with GID reported significant improvement in gender dysphoria (95% CI = 68–89%; 8 studies; I2 = 82%); 78% reported significant improvement in psychological symptoms (95% CI = 56–94%; 7 studies; I2 = 86%); 80% reported significant improvement in quality of life (95% CI = 72–88%; 16 studies; I2 = 78%); and 72% reported significant improvement in sexual function (95% CI = 60–81%; 15 studies; I2 = 78%)."
 
-3. <https://www.gendergp.com/risk-into-perspective-for-trans-patients/>:
-"[quoting from an article about a study instead of the study itself because the article does a better job of boiling the information down] In this study there were 3,398 patients, 16 mentioned regret or detransition. 12 attribute this to social pressure, and only 3 de-transitioned with no intention to transition again. That’s 3 people from a sample of 3,398 trans people. That’s 0.088% of people sampled. Literally less than 1 in 1000 people seeking treatment to aid transition. Therefore the successful treatment rate is 99.92% of people treated being trans, and happy with the results of treatment."
-
 4. <https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.2019.19010080>: "In this first total population study of transgender individuals with a gender incongruence diagnosis, the longitudinal association between gender-affirming surgery and reduced likelihood of mental health treatment lends support to the decision to provide gender-affirming surgeries to transgender individuals who seek them."
 
 5. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974860/>: "There was significant difference between transsexual individuals before surgery and after surgery in mean score of happiness (P<0.01) (t=−4/84). Moreover, there was significant difference between the two groups in mean score of mental health (P<0.01) (f=19/13)."
@@ -63,6 +61,16 @@ potentially harmful."
 
 9. <https://onlinelibrary.wiley.com/doi/abs/10.1111/jsm.12363>: "A difference in SCL-90 overall psychoneurotic distress was observed at the different points of assessments (P = 0.003), with the most prominent decrease occurring after the initiation of hormone therapy (P < 0.001). Significant decreases were found in the subscales such as anxiety, depression, interpersonal sensitivity, and hostility. Furthermore, the SCL-90 scores resembled those of a general population after hormone therapy was initiated. Analysis of the psychosocial variables showed no significant differences between pre- and postoperative assessments... A marked reduction in psychopathology occurs during the process of sex reassignment therapy, especially after the initiation of hormone therapy"
 
+## Regret rates are very low for gender transition
+
+1. <https://www.gendergp.com/risk-into-perspective-for-trans-patients/>:
+"[quoting from an article about a study instead of the study itself because the article does a better job of boiling the information down] In this study there were 3,398 patients, 16 mentioned regret or detransition. 12 attribute this to social pressure, and only 3 de-transitioned with no intention to transition again. That’s 3 people from a sample of 3,398 trans people. That’s 0.088% of people sampled. Literally less than 1 in 1000 people seeking treatment to aid transition. Therefore the successful treatment rate is 99.92% of people treated being trans, and happy with the results of treatment."
+
+2. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8099405/>: "A total of 27 studies, pooling 7928 transgender patients who underwent any type of GAS, were included. The pooled prevalence of regret after GAS was 1% (95% CI <1%–2%). Overall, 33% underwent transmasculine procedures and 67% transfemenine procedures. The prevalence of regret among patients undergoing transmasculine and transfemenine surgeries was <1% (IC <1%–<1%) and 1% (CI <1%–2%), respectively. A total of 77 patients regretted having had GAS. Twenty-eight had minor and 34 had major regret based on Pfäfflin’s regret classification. The majority had clear regret based on Kuiper and Cohen-Kettenis classification."
+
+3. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8105823/>: "Of the 154 surgeons queried, 30% responded to our survey. Cumulatively, these respondents treated between 18,125 and 27,325 individuals. Fifty-seven percent of surgeons encountered at least one patient who expressed regret, with a total of 62 patients expressing regret (0.2–0.3%). Etiologies of regret were varied and classified as either: (I) true gender-related regret (42%), (II) social regret (37%), and (III) medical regret (8%). The surgeons’ experience with patient regret and request for reversal was consistent with the existing literature."
+
+4. <https://www.nbcnews.com/feature/nbc-out/media-s-detransition-narrative-fueling-misconceptions-trans-advocates-say-n1102686>: "The information that does exist appears to corroborate Asquith’s claim. In a 2015 survey of nearly 28,000 people conducted by the U.S.-based National Center for Transgender Equality, only 8 percent of respondents reported detransitioning, and 62 percent of those people said they only detransitioned temporarily. The most common reason for detransitioning, according to the survey, was pressure from a parent, while only 0.4 percent of respondents said they detransitioned after realizing transitioning wasn’t right for them."
 
 ## Importance of social support
 
