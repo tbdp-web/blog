@@ -1,50 +1,14 @@
 var store = [{
-        "title": "Am I Afraid of Religion? Yes.",
-        "excerpt":"Arguments, Credences, and Priors I saw an interesting video title for an interview from Thomas Nagel, a dualist philosopher who I believe is religious at least to some degree, although I’m not sure. Basically, it was asking whether atheists are actually afraid of religion, and it occurred to me that...","categories": [],
-        "tags": ["religion"],
-        "url": "/2021/06/08/afraid.html",
-        "teaser": null
-      },{
-        "title": "Aphorisms On Religion, Tyranny, and Nihilism",
-        "excerpt":"1 Many seem to think that the only antidote to nihilism is tyranny: tyranny of the political sphere — after the mold of fascist Germany and Italy, which sought to repair the social fabric through the enforcment of a common culture, set of values, and religion — or, what is...","categories": [],
-        "tags": ["nihilism","politics","religion","atheism"],
-        "url": "/2021/06/28/on-religion-tyranny-and-nihilism.html",
-        "teaser": null
-      },{
-        "title": "Foundationalism and Presuppositionalism",
-        "excerpt":"I recently came across a proto-presuppositional statement, quoted in a video I was listening to, and it made me want to restate my general issues with presuppositional apologetics as an approach. Here’s the quote: “In such a circumstance, Lewis insists, the naturalist cannot legitimately presuppose the validity of inference in...","categories": [],
-        "tags": ["epistemology","religion","atheism","presuppositions"],
-        "url": "/2021/07/06/foundationalism-and-presuppositionalism.html",
-        "teaser": null
-      },{
         "title": "The Problem With Presuppositionalism",
         "excerpt":"This is an essay I wrote awhile ago as a Google Doc, which I’m reposting to this blog because it seems relevant. I haven’t looked at it or edited it in awhile, so it’s not the most polished or up-to-date version of my philosophy or responses to these things, but...","categories": [],
         "tags": ["religion","presuppositionalism","epistemology"],
         "url": "/2021/07/06/the-problem-with-presuppositionalism.html",
         "teaser": null
       },{
-        "title": "Consciousness, Ethics, and Religion in Society",
-        "excerpt":"[Mostly unedited voice dictation, have fun!] So I just had one of the most productive and interesting discussions I’ve ever had in my life with one of my friends, and I now regret bitterly not recording it, because I think it would have been really great to have it up...","categories": [],
-        "tags": ["religion","epistemology","human-being"],
-        "url": "/2021/07/09/convo.html",
-        "teaser": null
-      },{
         "title": "Linguistic Pragmatism and the Incoherence of Transphobia",
         "excerpt":"1 To all the “superstraight” and transphobic people out there: your categories are fucked. Your language is incomprehensible, and your philosophy of languages is confused. Here’s why. 2 As a naturalist, nominalist, and linguistic pragmatist, my position on how words are used is pretty simple: A lot of things in...","categories": [],
         "tags": ["lgbtq","politics","linguistics"],
         "url": "/2021/07/10/transgender.html",
-        "teaser": null
-      },{
-        "title": "Abiogenesis Back Of the Napkin Calculations",
-        "excerpt":"Although the chosen values are spectacularly approximate, the linear nature of the equation ensures that variations in any factors by even a few orders of magnitude do little to alter the basic outcome. In the scenarios considered, the abiogenesis probability per unit time per set of building blocks is found...","categories": [],
-        "tags": ["science","religion"],
-        "url": "/2021/07/11/abiogenesis.html",
-        "teaser": null
-      },{
-        "title": "Fuck the NYT",
-        "excerpt":"I finally got around to reading the NY Times article on Scott Alexander and the LessWrong community. It’s a masterpiece in saying untrue things through omission or ambiguous wording, such that if you challenged then on it they could say they didn’t explicitly lie, but so that anyone who read...","categories": [],
-        "tags": ["politics"],
-        "url": "/2021/07/14/ssc.html",
         "teaser": null
       },{
         "title": "The Game Theory of Egoist Societal Norms",
@@ -65,12 +29,6 @@ var store = [{
         "url": "/2021/07/31/perversions.html",
         "teaser": null
       },{
-        "title": "Why I Hate Calvinism",
-        "excerpt":"Do I Just “Love My Sin”? I always love the little “they love their sin” line that Calvinists always give. They’re trying to portray people who don’t believe in their cult as doing so for purely hedonistic reasons, but this fails massively on two counts: because it’s demonstrably not true...","categories": [],
-        "tags": ["religion","presuppositionalism"],
-        "url": "/2021/08/13/calvinism.html",
-        "teaser": null
-      },{
         "title": "Debates— What're They Good For?",
         "excerpt":"Hello everyone and today you guys are going to be in for another irregularly posted angry rant about something random on this blog. I have a pretty terrible headache today, and I’m just bored as fuck and I’ve been thinking about this subject for quite a while so here it...","categories": [],
         "tags": ["meta-philosophy"],
@@ -89,9 +47,9 @@ var store = [{
         "url": "/2021/09/11/memes.html",
         "teaser": null
       },{
-        "title": "Understanding Being Transgender: A Conversation With My Past (Transphobic) Self",
-        "excerpt":"Since I wrote this article, I have realized that I myself am a trans girl. That obviously had a deep effect on how I viewed what I wrote here, and a lot of it is due for revision. Please keep that in mind if you read this. Some of my...","categories": [],
-        "tags": ["politics","ethics","lgbtq"],
+        "title": "Sources on Transgender Issues",
+        "excerpt":"Resources on gender identity “Don’t Fix Us” by Alexis Purslante spends most of its length after the introduction primarily dealing with what gender is and how it is separate from biological sex Various excellent resources regarding various trans topics can be found on Julia Serano’s blog. For understanding how defitinitions...","categories": [],
+        "tags": ["politics","ethics","lgbtq","transgender"],
         "url": "/2021/09/12/transgender.html",
         "teaser": null
       },{
@@ -233,9 +191,51 @@ var store = [{
         "url": "/2022/02/06/dyadic-epistemology.html",
         "teaser": null
       },{
-        "title": "Why I Am An Atheist",
-        "excerpt":"1   ","categories": [],
+        "title": "Summa Atheologica: Why I Am An Atheist",
+        "excerpt":"Napoleon: You have written this huge book on the system of the world without once mentioning the author of the universe. Laplace: Sire, I had no need of that hypothesis. — Quoted in Budget of Paradoxes 1. Introduction Like most atheists in my part of the world, I grew up...","categories": [],
         "tags": ["religion","atheism","epistemology"],
         "url": "/2022/02/08/atheism.html",
+        "teaser": null
+      },{
+        "title": "On Faith and Normativity",
+        "excerpt":"1 As a moral subjectivist, I view the only conceivable normative force someone could have to be their own personal desires and motivations. Outside of that, there is nothing that can even coherently be said to impose a duty, or an obligation, or an absolute requirement, on anyone. To briefly...","categories": [],
+        "tags": ["atheism","ethics","egoism","religion","epistemology"],
+        "url": "/2022/02/25/faith.html",
+        "teaser": null
+      },{
+        "title": "Vision of an Anarchist Society",
+        "excerpt":"A new vision of an anarchist society, different in important ways from the ones that I’ve presented before, replete with new emphases and contrasts with the society that we currently live in, has been percolating in the back of my head for some time. It has been developing in response...","categories": [],
+        "tags": ["politics","anarchism"],
+        "url": "/2022/05/11/vision-anarchist.html",
+        "teaser": null
+      },{
+        "title": "Theft is Good, Actually; or, Stigmergic Socialism Vs. The Welfare State",
+        "excerpt":"stigmergy (noun) (biology) A mechanism of spontaneous, indirect coordination between agents or actions, where the trace left in the environment by an action stimulates the performance of a subsequent action. (systems theory) A mechanism of indirect coordination between agents or actions, in which the aftereffects of one action guide a...","categories": [],
+        "tags": ["politics","anarchism"],
+        "url": "/2022/05/12/theft.html",
+        "teaser": null
+      },{
+        "title": "Fuck the State... But Not Like That",
+        "excerpt":"A state? What is that? Well! … A state, is called the coldest of all cold monsters. Coldly lieth it also; and this lie creepeth from its mouth: “I, the state, am the people.” … Where there is still a people, there the state is not understood, but hated as...","categories": [],
+        "tags": ["politics","anarchism"],
+        "url": "/2022/05/13/fuck-the-state.html",
+        "teaser": null
+      },{
+        "title": "Don't Fix Us",
+        "excerpt":"You want, if possible – and there is no more insane “if possible” – to abolish suffering. And we? It really seems that we would rather have it higher and worse than ever. Well-being as you understand it – that is no goal, that seems to us an end, a...","categories": [],
+        "tags": ["transgender","gender","ethics"],
+        "url": "/2022/06/05/dont-fix-us.html",
+        "teaser": null
+      },{
+        "title": "Democracy Won't Save You",
+        "excerpt":"God, the State, Society, Humanity, etc., etc. have their own cause for themselves. If I don’t want to subjugate myself God’s cause, I am a “sinner”. If I don’t want to submit to the State, Society, Humanity, I am a “wicked man”, a “criminal”, a “delinquent”. “Sacred”! This is the...","categories": [],
+        "tags": ["politics","ethics","anarchism"],
+        "url": "/2022/06/07/democracy.html",
+        "teaser": null
+      },{
+        "title": "Autonomy: Our Flourishing and Power",
+        "excerpt":"Of all tyrannies, a tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies. The robber baron’s cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who...","categories": [],
+        "tags": ["anarchism","egoism","ethics"],
+        "url": "/2022/06/23/autonomy.html",
         "teaser": null
       }]
