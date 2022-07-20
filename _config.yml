@@ -12,7 +12,7 @@ title: "Alexis' Journal"
 author:
   name: "Alexis Purslane"
   avatar: ./assets/avatar.jpg
-  bio: "I am a queer, egoist, mutualist anarchist, existentialist atheist, and transgender philosopher. I have chronic tension headaches, OCD, autism, and GAD. I am currently getting a Bachelor's in Computer Science at Penn State University."
+  bio: "Hi! I'm a poly trans lesbian interested in writing and philosophy. My philosphical outlook is existentialist athiest and queer, egoist, mutualist anarchist, with interests in Daoism and perspectivism. I have OCD, GAD, autism, possibly ADHD, and chronic tension migraines. I am currently enrolled in the computer science baccalaureate program at Penn State University."
   links:
     - label: "Business Website"
       url: "https://alexisdumas.org"
@@ -24,7 +24,11 @@ author:
       url: "https://github.com/alex-dumas"
     - label: "Reddit"
       url: "https://www.reddit.com/user/mammon-of-lilith"
+
 search: true
+
+paginate: 5
+paginate_path: /page:num/
 
 defaults:
   # _posts

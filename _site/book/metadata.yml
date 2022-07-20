@@ -1,0 +1,21 @@
+from: markdown
+to: latex
+standalone: true
+documentclass: book
+
+fontsize: 12pt
+geometry:
+- margin=0.5in
+
+numbersections: true
+top-level-division: chapter
+
+pdf-engine: xelatex
+header-includes:
+- \usepackage[Conny]{fncychap}
+- \usepackage{lettrine}
+- \usepackage[hyphens]{url}
+
+toc: true
+author: "Alexis Dumas"
+title: "Two Principles of Anarchism and Other Essays"
