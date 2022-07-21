@@ -5,15 +5,11 @@ tags: ["anarchism", "egoism", "ethics"]
 
 > “Another world is possible” every time equal uniques, free absolutes, meet on a terrain shaped by any number of histories but no structures of authority. --- Shawn P. Wilbur, ["The Anatomy of the Encounter"](https://www.libertarian-labyrinth.org/contrun/the-anatomy-of-the-encounter/)
 
----
-
 ## Author's Note
 
 As has become somewhat of a theme, perhaps even a requirement, for this recent spate of better-quality postings beginning with "Vision of An Anarchist Society," instead of sitting down to `Write About Something` because I want to `Build A System` and building a system _requires_ writing on certain subjects --- instead of, in other words, treating my blog posts as chapters in a gigantic book that I _have_ to write to "get it out of the way" --- I've waited until I feel writing on this subject welling up inside me. Until writing on it feels natural, an act of outpouring, as if I was already going to write on this, whether I made the choice or not. I spent two days pondering what I should write about, feeling out all the different topics that have been occupying my mind in the past few months, turning them about in my hands and inspecting them carefully, like fruit, to see which was just ripe enough. I waited until this subject was on the _tip of my tongue_ to write about it. In other words, I followed [wu wei](https://theanarchistlibrary.org/library/anna-ronan-anarchism-as-a-spiritual-practice).
 
 And so I find myself back to staring into the depths of the subject of an anarchist conception of 'justice', embodied in a particular kind of relationship, for the first time in six months and three weeks. I've tried this project twice before: once, in the fury of inspiration and shocking, icy, firey _realization_, which led me to produce "Two Principles," a work so deeply flawed in so many ways, so full of both my old kinds of thinking _and_ my new kinds, that I'm still slowly unpacking and developing everything that was good in it even now; then a second time, in a confused, contemplative, groping essay that represented me trying to really wrestle with and internalize what I'd realized through discussions with someone who was very influential to me at the time. This time, I hope to take the months of deep thinking and experience, and far-ranging reading, that I've been carrying out, and apply it to producing something clearer, cleaner, and more coherent than what I've written before on the subject.
-
----
 
 ## Introduction
 
