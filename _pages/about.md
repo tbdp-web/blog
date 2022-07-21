@@ -29,7 +29,7 @@ I am queer because I have no interest in letting the strictures of culture or ev
 
 I am an atheist because gods are the most unnecessary and dismal of all hypotheses to me. No god is necessary to explain my experiences, nor to grant me meaning or purpose, and I am not interested in having one over me.
 
-I am an anarchist because I recognize no power over me, neither god nor man nor idea nor moral, and because I recognize that my liberty is only secured in a world where all inequalities of power have been dismantled, where each has all their power at their command, and because I tire of the world of subjected, possessed half-people I see around me --- tire of interacting with them, and tire of seeing their suffering.
+I am an anarchist because I recognize no power over me, neither god nor man nor idea nor moral, and because I recognize that my liberty is only secured in a world where all inequalities of power have been dismantled, where each has all their power at their command, and because I don't want to have to live in a world where other people suffer and bow and live half-lives subjugated to things above themselves either.
 
 ## About This Blog
 
