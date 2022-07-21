@@ -239,7 +239,7 @@ var store = [{
         "url": "/2022/06/23/autonomy.html",
         "teaser": null
       },{
-        "title": "Justice and the Anarchic Encounter: Returning to Anarchist Relations",
+        "title": "Justice and the Anarchic Encounter: Synthesizing Neo-Proudhonian Social Science and Egoism",
         "excerpt":"“Another world is possible” every time equal uniques, free absolutes, meet on a terrain shaped by any number of histories but no structures of authority. — Shawn P. Wilbur, “The Anatomy of the Encounter” Author’s Note As has become somewhat of a theme, perhaps even a requirement, for this recent...","categories": [],
         "tags": ["anarchism","egoism","ethics"],
         "url": "/2022/07/10/anarchic-encounter.html",
@@ -255,5 +255,11 @@ var store = [{
         "excerpt":"Identifying inequalities of power, instances of domination which creates the space for hierarchies and other forms of authority and subordination, is one of the cornerstones anarchist political and social theory. In order to fight back against something, after all, you have to be able to identify it. I began this...","categories": [],
         "tags": ["ethics","anarchism"],
         "url": "/2022/07/18/power-and-hierarchy.html",
+        "teaser": null
+      },{
+        "title": "sacred pain",
+        "excerpt":"Your servility is necessary So they tell me There is no alternative So they tell me A master for your home, a master outside your home One for every place you live We own the land under you and the sky above One for every moment alive Possessed — “not...","categories": [],
+        "tags": ["anarchism","poetry"],
+        "url": "/2022/07/21/poetry.html",
         "teaser": null
       }]
