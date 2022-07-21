@@ -9,6 +9,7 @@ include: ["_pages"]
 logo: ./assets/logo.png
 minimal_mistakes_skin: "contrast"
 title: "Alexis' Journal"
+subtitle: "...with time I shall be less and less a worker of misfortune..."
 author:
   name: "Alexis Purslane"
   avatar: ./assets/avatar.jpg
