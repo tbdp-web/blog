@@ -262,4 +262,10 @@ var store = [{
         "tags": ["anarchism","poetry"],
         "url": "/2022/07/21/poetry.html",
         "teaser": null
+      },{
+        "title": "Anarchism A Process, Not A Destination",
+        "excerpt":"That which dominates all my studies, its principle and aim, its summit and base, in a word, its reason… is that I affirm, resolutely and irrevocably, in all and everywhere, Progress, and that I deny, no less resolutely, the Absolute. Progress… is the affirmation of universal movement, consequently the negation...","categories": [],
+        "tags": ["anarchism"],
+        "url": "/2022/07/22/process.html",
+        "teaser": null
       }]
