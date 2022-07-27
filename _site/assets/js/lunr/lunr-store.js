@@ -264,7 +264,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Anarchism: Process, Not Destination",
-        "excerpt":"That which dominates all my studies, its principle and aim, its summit and base… is that I affirm, resolutely and irrevocably, in all and everywhere, Progress, and that I deny, no less resolutely, the Absolute… Progress, once more, is the affirmation of universal movement, consequently the negation every immutable form...","categories": [],
+        "excerpt":"> That which dominates all my studies, its principle and aim, its summit and base... is that I affirm, resolutely and irrevocably, in all and everywhere, _Progress_, and that I deny, no less resolutely, the _Absolute_... Progress, once more, is the affirmation of universal movement, consequently the negation every immutable...","categories": [],
         "tags": ["anarchism"],
         "url": "/2022/07/25/process.html",
         "teaser": null
