@@ -264,32 +264,20 @@ var store = [{
         "teaser": null
       },{
         "title": "Anarchism: Process, Not Destination (Introduction)",
-        "excerpt":"That which dominates all my studies, its principle and aim, its summit and base… is that I affirm, resolutely and irrevocably, in all and everywhere, Progress, and that I deny, no less resolutely, the Absolute… Progress, once more, is the affirmation of universal movement, consequently the negation every immutable form...","categories": [],
+        "excerpt":"> That which dominates all my studies, its principle and aim, its summit and base... is that I affirm, resolutely and irrevocably, in all and everywhere, _Progress_, and that I deny, no less resolutely, the _Absolute_... Progress, once more, is the affirmation of universal movement, consequently the negation every immutable...","categories": [],
         "tags": ["anarchism"],
         "url": "/2022/07/25/process.html",
-        "teaser": null
-      },{
-        "title": "Why Revolutionaries Become Reactionaries",
-        "excerpt":"> Anarchist individualism as we understand it – and I say we because a substantial handful of friends think this like me – is hostile to every school and every party, every churchly and dogmatic moral, as well as every more or less academic imbecility. Every form of discipline, rule...","categories": [],
-        "tags": ["anarchism"],
-        "url": "/2022/07/27/process1.html",
-        "teaser": null
-      },{
-        "title": "Tacit Knowledge, Local Conditions, and Social Planning",
-        "excerpt":"> To all those demagogues of politics and of philosophy that carry in their pockets a beautiful system made by mortgaging a corner of the future, we respond with Bakunin: Oafs and weaklings! Every duty that they would like to impose on us we will furiously trample under our sacrilegious...","categories": [],
-        "tags": ["anarchism"],
-        "url": "/2022/07/27/process2.html",
         "teaser": null
       },{
         "title": "Eternal Social War: A Theory of Social Forces",
         "excerpt":"> [T]he things that we do together with others do not simply add up... specialization and association bring about the formation of unity-collectivities, social beings with qualities, strengths and perhaps even ideas that arise from the combination and unification of the constituent beings. --- Shawn P. Wilbur, [_Constructing an Anarchism:...","categories": [],
         "tags": ["anarchism"],
-        "url": "/2022/07/27/process3.html",
+        "url": "/2022/07/27/eternal-social-war.html",
         "teaser": null
       },{
-        "title": "Anarchism Is Balance, Balance is Justice",
-        "excerpt":"> Proudhon really did imagine a world in which the only laws were those of nature and where “rights,” as he explained in War and Peace, referred to nothing more than the future needs of developing individuals. This anarchistic vision of Proudhon’s is so stark that we often seem simply...","categories": [],
+        "title": "Why Revolutionaries Become Reactionaries",
+        "excerpt":"Anarchist individualism as we understand it – and I say we because a substantial handful of friends think this like me – is hostile to every school and every party, every churchly and dogmatic moral, as well as every more or less academic imbecility. Every form of discipline, rule and...","categories": [],
         "tags": ["anarchism"],
-        "url": "/2022/07/27/process4.html",
+        "url": "/2022/07/27/revolution-and-insurrection.html",
         "teaser": null
       }]
